@@ -17,6 +17,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 builder.Services.AddScoped(typeof(IGenerictRepository<>), typeof(GenerictRepository<>));
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICustomerService, CustomerService>();
+builder.Services.AddScoped<IBuyOrderService, BuyOrderService>();
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddControllers();
