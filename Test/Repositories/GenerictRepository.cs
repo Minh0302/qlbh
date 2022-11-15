@@ -15,7 +15,9 @@ namespace Test.Repositories
         public void Create(T entity)
         {
             entity.CreatedDate = DateTime.Now;
+            entity.CreatedBy = "User";
             entity.ModifiedDate = DateTime.Now;
+            entity.ModifiedBy = "User";
             _context.Set<T>().Add(entity);
             this.Save();
         }
@@ -39,6 +41,7 @@ namespace Test.Repositories
         public void Update(T entity)
         {
             entity.ModifiedDate = DateTime.Now;
+            entity.ModifiedBy = "User";
             _context.Set<T>().Update(entity);
             this.Save();
         }

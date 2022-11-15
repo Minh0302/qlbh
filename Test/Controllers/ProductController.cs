@@ -12,7 +12,7 @@ namespace Test.Controllers
     public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
-        private readonly ILogger<ProductController> _logger;
+        //private readonly ILogger<ProductController> _logger;
 
         public ProductController(IProductService productService)
         {

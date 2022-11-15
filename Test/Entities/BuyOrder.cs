@@ -6,7 +6,6 @@
         public string OrderNo { get; set; }
         public string BuyerName { get; set; }
         public decimal TotalPrice { get; set; }
-
-        public ICollection<BuyOrderDetail> buyOrderDetails;
+        public virtual ICollection<BuyOrderDetail> BuyOrderDetails { get; set; }
     }
 }

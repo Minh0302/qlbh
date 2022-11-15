@@ -2,16 +2,16 @@
 
 namespace Test.Entities
 {
-    public class BuyOrderDetail : BaseEntity
+    public class OrderDetail : BaseEntity
     {
         public int Id { get; set; }
-        public int BuyOrderId { get; set; }
-        [ForeignKey("BuyOrderId")]
+        public int OrderId { get; set; }
+        [ForeignKey("OrderId")]
         public int ProductId { get; set; }
         [ForeignKey("ProductId")]
         public int Amount { get; set; }
         public decimal Prices { get; set; }
-        public virtual BuyOrder BuyOrder { get; set; }
-        public virtual Product Product { get; set; }
+        public Order Order { get; set;}
+        public Product Product { get; set; }
     }
 }

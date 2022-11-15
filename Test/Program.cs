@@ -18,6 +18,7 @@ builder.Services.AddScoped(typeof(IGenerictRepository<>), typeof(GenerictReposit
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<IBuyOrderService, BuyOrderService>();
+builder.Services.AddScoped<IBuyOrderDetailService, BuyOrderDetailService>();
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddControllers();

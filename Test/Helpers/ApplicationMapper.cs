@@ -11,6 +11,7 @@ namespace Test.Helpers
             CreateMap<Product, ProductModel>().ReverseMap();
             CreateMap<Customer, CustomerModel>().ReverseMap();
             CreateMap<BuyOrder, BuyOrderModel>().ReverseMap();
+            CreateMap<BuyOrderDetail, BuyOrderDetailModel>().ReverseMap();
         }
     }
 }

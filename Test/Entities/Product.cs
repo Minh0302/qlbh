@@ -7,5 +7,10 @@
         public string ProductName { get; set; }
         public int Amount { get; set; }
         public string ProduceOwner { get; set; }
+        public virtual ICollection<BuyOrderDetail> BuyOrderDetails { get; set; }
+        //public Product()
+        //{
+        //    buyOrderDetails = new List<BuyOrderDetail>();
+        //}
     }
 }
