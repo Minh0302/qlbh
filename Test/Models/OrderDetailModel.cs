@@ -10,7 +10,7 @@ namespace Test.Models
         public int Amount { get; set; }
         public decimal Prices { get; set; }
 
-        public OrderModel Order { get; set; }
-        public ProductModel Product { get; set; }
+        //public OrderModel Order { get; set; }
+        //public ProductModel Product { get; set; }
     }
 }
