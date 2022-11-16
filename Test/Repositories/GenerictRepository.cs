@@ -1,6 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 using Test.Data;
 using Test.Entities;
+using Test.Models;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace Test.Repositories
 {
@@ -30,7 +33,7 @@ namespace Test.Repositories
 
         public IEnumerable<T> GetAll()
         {
-            return _context.Set<T>().ToList();
+            return _context.Set<T>().AsQueryable();
         }
 
         public T GetById(int Id)
@@ -49,5 +52,11 @@ namespace Test.Repositories
         {
             _context.SaveChanges();
         }
+        //public virtual IQueryable<T> Include(this IQueryable<T> qry, params string[] includes)
+        //{
+        //    foreach (var inc in includes)
+        //        qry = qry.Include(inc);
+        //    return qry;
+        //}
     }
 }

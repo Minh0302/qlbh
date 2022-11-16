@@ -29,7 +29,7 @@ namespace Test.Services
 
         public IEnumerable<Customer> GetAllCustomers()
         {
-            var customers = _generictRepository.GetAll();
+            var customers = _generictRepository.GetAll().AsQueryable().ToList();
             return _mapper.Map<List<Customer>>(customers);
         }
 

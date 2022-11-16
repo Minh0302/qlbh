@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Test.Helpers;
 using Test.Models;
 using Test.Services;
 
@@ -12,15 +13,17 @@ namespace Test.Controllers
     public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
-        //private readonly ILogger<ProductController> _logger;
+        private readonly ILoggerManager _logger;
 
-        public ProductController(IProductService productService)
+        public ProductController(IProductService productService, ILoggerManager logger)
         {
             _productService = productService;
+            _logger = logger;
         }
         [HttpGet]
         public ActionResult GetAllProducts()
         {
+            _logger.LogDebug("ProductController : GetAllProducts");
             return Ok(_productService.GetAllProducts());
         }
         [HttpGet("{id}")]

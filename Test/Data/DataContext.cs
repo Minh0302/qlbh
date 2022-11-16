@@ -11,5 +11,7 @@ namespace Test.Data
         public DbSet<Customer> Customers { get; set; }
         public DbSet<BuyOrder> BuyOrders { get; set; }
         public DbSet<BuyOrderDetail> BuyOrderDetails { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
     }
 }

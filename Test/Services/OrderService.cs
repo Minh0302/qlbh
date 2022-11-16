@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using Test.Entities;
 using Test.Models;
 using Test.Repositories;
@@ -29,7 +30,7 @@ namespace Test.Services
 
         public IEnumerable<Order> GetAllOrders()
         {
-            var orders = _generictRepository.GetAll();
+            var orders = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(obj => obj.OrderDetails);
             return _mapper.Map<List<Order>>(orders);
         }
 

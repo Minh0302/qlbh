@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using NLog;
 using Test.Data;
+using Test.Helpers;
 using Test.Repositories;
 using Test.Services;
 
@@ -19,7 +21,11 @@ builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<IBuyOrderService, BuyOrderService>();
 builder.Services.AddScoped<IBuyOrderDetailService, BuyOrderDetailService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IOrderDetailService, OrderDetailService>();
 builder.Services.AddAutoMapper(typeof(Program));
+LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/Helpers/nlog.config"));
+builder.Services.AddScoped<ILoggerManager, LoggerManager>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

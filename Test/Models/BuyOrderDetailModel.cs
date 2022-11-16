@@ -9,6 +9,7 @@ namespace Test.Models
         public int ProductId { get; set; }
         public int Amount { get; set; }
         public decimal Prices { get; set; }
-
+        public ProductModel Product { get; set; }
+        public BuyOrderModel BuyOrder { get; set; }
     }
 }

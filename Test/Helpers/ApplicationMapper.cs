@@ -10,8 +10,10 @@ namespace Test.Helpers
         {
             CreateMap<Product, ProductModel>().ReverseMap();
             CreateMap<Customer, CustomerModel>().ReverseMap();
-            CreateMap<BuyOrder, BuyOrderModel>().ForMember(d => d.BuyOrderDetailModels, opt => opt.MapFrom(t=>t.BuyOrderDetails)).ReverseMap();
+            CreateMap<BuyOrder, BuyOrderModel>().ForMember(d => d.BuyOrderDetails, opt => opt.MapFrom(t=>t.BuyOrderDetails)).ReverseMap();
             CreateMap<BuyOrderDetail, BuyOrderDetailModel>().ReverseMap();
+            CreateMap<Order, OrderModel>().ForMember(d => d.OrderDetails, opt => opt.MapFrom(t => t.OrderDetails)).ReverseMap();
+            CreateMap<OrderDetail, OrderDetailModel>().ReverseMap();
         }
     }
 }

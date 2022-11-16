@@ -1,0 +1,2 @@
+2022-11-16 09:23:16.9960 DEBUG ProductController : GetAllProducts
+2022-11-16 15:58:50.0795 DEBUG ProductController : GetAllProducts

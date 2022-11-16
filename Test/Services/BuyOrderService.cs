@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using Test.Entities;
 using Test.Models;
 using Test.Repositories;
@@ -27,10 +28,10 @@ namespace Test.Services
             _generictRepository.Delete(delBuy);
         }
 
-        public IEnumerable<BuyOrder> GetAllBuyOrders()
+        public IEnumerable<BuyOrderModel> GetAllBuyOrders()
         {
-            var buyorders = _generictRepository.GetAll();
-            return _mapper.Map<List<BuyOrder>>(buyorders);
+            var buyorders = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(odb=>odb.BuyOrderDetails);
+            return _mapper.Map<List<BuyOrderModel>>(buyorders);
         }
 
         public BuyOrder GetOrderById(int id)

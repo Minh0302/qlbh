@@ -11,7 +11,7 @@ namespace Test.Entities
         [ForeignKey("ProductId")]
         public int Amount { get; set; }
         public decimal Prices { get; set; }
-        public virtual BuyOrder BuyOrder { get; set; }
-        public virtual Product Product { get; set; }
+        public BuyOrder BuyOrder { get; set; }
+        public Product Product { get; set; }
     }
 }

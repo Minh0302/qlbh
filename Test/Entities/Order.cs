@@ -10,6 +10,7 @@ namespace Test.Entities
         [ForeignKey("CustomerId")]
         public decimal TotalPrice { get; set; }
         public virtual ICollection<OrderDetail> OrderDetails { get; set; }
+        public virtual Customer Customer { get; set; }
 
     }
 }

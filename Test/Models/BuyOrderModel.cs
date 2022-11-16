@@ -6,6 +6,6 @@
         public string OrderNo { get; set; }
         public string BuyerName { get; set; }
         public decimal TotalPrice { get; set; }
-        public IEnumerable<BuyOrderDetailModel> BuyOrderDetailModels { get; set; }
+        public ICollection<BuyOrderDetailModel> BuyOrderDetails { get; set; }
     }
 }
