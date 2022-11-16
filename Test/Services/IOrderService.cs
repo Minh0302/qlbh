@@ -5,7 +5,7 @@ namespace Test.Services
 {
     public interface IOrderService
     {
-        public IEnumerable<Order> GetAllOrders();
+        public IEnumerable<OrderModel> GetAllOrders();
         public Order GetOrderById(int id);
         public void CreateOrder(OrderModel orderModel);
         public void UpdateOrder(OrderModel orderModel);

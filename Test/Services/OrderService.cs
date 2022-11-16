@@ -28,10 +28,10 @@ namespace Test.Services
             _generictRepository.Delete(delOrder);
         }
 
-        public IEnumerable<Order> GetAllOrders()
+        public IEnumerable<OrderModel> GetAllOrders()
         {
             var orders = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(obj => obj.OrderDetails);
-            return _mapper.Map<List<Order>>(orders);
+            return _mapper.Map<List<OrderModel>>(orders);
         }
 
         public Order GetOrderById(int id)
