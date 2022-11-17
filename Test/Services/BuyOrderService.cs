@@ -22,10 +22,10 @@ namespace Test.Services
             _generictRepository.Create(newBuy);
         }
 
-        public void DeleteBuyOrder(BuyOrderModel buyOrderModel)
+        public void DeleteBuyOrder(int id)
         {
-            var delBuy = _mapper.Map<BuyOrder>(buyOrderModel);
-            _generictRepository.Delete(delBuy);
+            //var delBuy = _mapper.Map<BuyOrder>(buyOrderModel);
+            _generictRepository.DeleteById(id);
         }
 
         public IEnumerable<BuyOrderModel> GetAllBuyOrders()
@@ -34,10 +34,10 @@ namespace Test.Services
             return _mapper.Map<List<BuyOrderModel>>(buyorders);
         }
 
-        public BuyOrder GetOrderById(int id)
+        public BuyOrderModel GetOrderById(int id)
         {
-            var buyorder = _generictRepository.GetById(id);
-            return _mapper.Map<BuyOrder>(buyorder);
+            var buyorder = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(odb => odb.BuyOrderDetails).FirstOrDefault(x => x.Id ==id);
+            return _mapper.Map<BuyOrderModel>(buyorder);
         }
 
         public void UpdateBuyOrder(BuyOrderModel buyOrderModel)

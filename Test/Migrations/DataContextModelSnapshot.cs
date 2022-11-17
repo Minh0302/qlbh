@@ -242,15 +242,15 @@ namespace Test.Migrations
                     b.Property<DateTime?>("ModifiedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("ProduceOwner")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("ProductCode")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ProductName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProductOwner")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -268,7 +268,7 @@ namespace Test.Migrations
                         .IsRequired();
 
                     b.HasOne("Test.Entities.Product", "Product")
-                        .WithMany("BuyOrderDetails")
+                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -296,7 +296,7 @@ namespace Test.Migrations
                         .IsRequired();
 
                     b.HasOne("Test.Entities.Product", "Product")
-                        .WithMany("OrderDetails")
+                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -318,13 +318,6 @@ namespace Test.Migrations
 
             modelBuilder.Entity("Test.Entities.Order", b =>
                 {
-                    b.Navigation("OrderDetails");
-                });
-
-            modelBuilder.Entity("Test.Entities.Product", b =>
-                {
-                    b.Navigation("BuyOrderDetails");
-
                     b.Navigation("OrderDetails");
                 });
 #pragma warning restore 612, 618

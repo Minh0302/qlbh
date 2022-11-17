@@ -9,7 +9,7 @@ namespace Test.Models
         public int CustomerId { get; set; }
         public decimal TotalPrice { get; set; }
 
-        public CustomerModel Customer { get; set; }
+        //public CustomerModel Customer { get; set; }
         public ICollection<OrderDetailModel> OrderDetails { get; set; }
     }
 }

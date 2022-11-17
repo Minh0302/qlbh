@@ -23,23 +23,23 @@ namespace Test.Services
             _generictRepository.Create(newProduct);
         }
 
-        public void DeleteProduct(ProductModel product)
+        public void DeleteProduct(int id)
         {
-            var delProduct = _mapper.Map<Product>(product);
-            _generictRepository.Delete(delProduct);
+            //var delProduct = _mapper.Map<Product>(product);
+            _generictRepository.DeleteById(id);
 
         }
 
-        public IEnumerable<Product> GetAllProducts()
+        public IEnumerable<ProductModel> GetAllProducts()
         {
             var products = _generictRepository.GetAll();
-            return _mapper.Map<List<Product>>(products);
+            return _mapper.Map<List<ProductModel>>(products);
         }
 
-        public Product GetProductById(int id)
+        public ProductModel GetProductById(int id)
         {
             var product = _generictRepository.GetById(id);
-            return _mapper.Map<Product>(product);
+            return _mapper.Map<ProductModel>(product);
         }
 
         public void UpdateProduct(ProductModel product)

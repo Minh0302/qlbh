@@ -21,22 +21,22 @@ namespace Test.Services
             _generictRepository.Create(newCustomer);
         }
 
-        public void DeleteCustomer(CustomerModel customer)
+        public void DeleteCustomer(int id)
         {
-            var deCustomer= _mapper.Map<Customer>(customer);
-            _generictRepository.Delete(deCustomer);
+            //var deCustomer= _mapper.Map<Customer>(customer);
+            _generictRepository.DeleteById(id);
         }
 
-        public IEnumerable<Customer> GetAllCustomers()
+        public IEnumerable<CustomerModel> GetAllCustomers()
         {
             var customers = _generictRepository.GetAll().AsQueryable().ToList();
-            return _mapper.Map<List<Customer>>(customers);
+            return _mapper.Map<List<CustomerModel>>(customers);
         }
 
-        public Customer GetCustomerById(int id)
+        public CustomerModel GetCustomerById(int id)
         {
             var customer = _generictRepository.GetById(id);
-            return _mapper.Map<Customer>(customer);
+            return _mapper.Map<CustomerModel>(customer);
         }
 
         public void UpdateCustomer(CustomerModel customer)

@@ -23,7 +23,7 @@ namespace Test.Controllers
         [HttpGet]
         public ActionResult GetAllProducts()
         {
-            _logger.LogDebug("ProductController : GetAllProducts");
+            _logger.LogInfo("ProductController : GetAllProducts");
             return Ok(_productService.GetAllProducts());
         }
         [HttpGet("{id}")]
@@ -37,11 +37,11 @@ namespace Test.Controllers
             _productService.CreateProduct(product);
             return Ok("Thêm thành công!");
         }
-        [HttpDelete]
-        public ActionResult Delete(ProductModel product)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            _productService.DeleteProduct(product);
-            return Ok("Xoá thành công!");
+             _productService.DeleteProduct(id);
+             return Ok("Xoá thành công!");
         }
         [HttpPut]
         public ActionResult Put(ProductModel product)

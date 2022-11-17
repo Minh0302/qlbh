@@ -31,10 +31,10 @@ namespace Test.Controllers
             _buyOrderService.CreateBuyOrder(buyOrderModel);
             return Ok("Thêm thành công!");
         }
-        [HttpDelete]
-        public ActionResult Delete(BuyOrderModel buyOrderModel)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            _buyOrderService.DeleteBuyOrder(buyOrderModel);
+            _buyOrderService.DeleteBuyOrder(id);
             return Ok("Xoá thành công!");
         }
         [HttpPut]

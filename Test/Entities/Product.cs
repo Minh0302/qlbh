@@ -6,7 +6,7 @@
         public string ProductCode { get; set; }
         public string ProductName { get; set; }
         public int Amount { get; set; }
-        public string ProduceOwner { get; set; }
+        public string ProductOwner { get; set; }
         //public virtual ICollection<BuyOrderDetail> BuyOrderDetails { get; set; }
         //public virtual ICollection<OrderDetail> OrderDetails { get; set; }
         //public Product()

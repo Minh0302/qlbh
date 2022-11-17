@@ -30,6 +30,12 @@ namespace Test.Repositories
             _context.Set<T>().Remove(entity);
             this.Save();
         }
+        public void DeleteById(int id)
+        {
+            T element = _context.Set<T>().Find(id);
+            _context.Set<T>().Remove(element);
+            this.Save();
+        }
 
         public IEnumerable<T> GetAll()
         {
@@ -52,11 +58,5 @@ namespace Test.Repositories
         {
             _context.SaveChanges();
         }
-        //public virtual IQueryable<T> Include(this IQueryable<T> qry, params string[] includes)
-        //{
-        //    foreach (var inc in includes)
-        //        qry = qry.Include(inc);
-        //    return qry;
-        //}
     }
 }

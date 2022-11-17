@@ -37,10 +37,10 @@ namespace Test.Controllers
             _customerService.UpdateCustomer(customer);
             return Ok("Update thành công!");
         }
-        [HttpDelete]
-        public ActionResult Delete(CustomerModel customer)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            _customerService.DeleteCustomer(customer);
+            _customerService.DeleteCustomer(id);
             return Ok("Delete thành công!");
         }
     }

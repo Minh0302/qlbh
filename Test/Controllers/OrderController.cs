@@ -39,10 +39,10 @@ namespace Test.Controllers
             _orderService.UpdateOrder(model);
             return Ok("Cập nhật thành công!");
         }
-        [HttpDelete]
-        public ActionResult Delete(OrderModel model)
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
         {
-            _orderService.DeleteOrder(model);
+            _orderService.DeleteOrder(id);
             return Ok("Xóa thành công!");
         }
     }

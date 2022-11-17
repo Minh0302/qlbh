@@ -9,6 +9,7 @@ namespace Test.Repositories
         public IEnumerable<T> GetAll();
         T GetById(int Id);
         void Delete(T entity);
+        void DeleteById(int id);
         void Save();
     }
 }
