@@ -26,22 +26,19 @@ namespace Test.Controllers
             return Ok(_customerService.GetCustomerById(id));
         }
         [HttpPost]
-        public ActionResult Post(CustomerModel customer)
+        public bool Post(CustomerModel customer)
         {
-            _customerService.CreateCustomer(customer);
-            return Ok("Thêm thành công!");
+            return _customerService.CreateCustomer(customer);
         }
         [HttpPut]
-        public ActionResult Put(CustomerModel customer)
+        public bool Put(CustomerModel customer)
         {
-            _customerService.UpdateCustomer(customer);
-            return Ok("Update thành công!");
+            return _customerService.UpdateCustomer(customer);
         }
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public bool Delete(int id)
         {
-            _customerService.DeleteCustomer(id);
-            return Ok("Delete thành công!");
+            return _customerService.DeleteCustomer(id);
         }
     }
 }

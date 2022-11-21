@@ -7,8 +7,8 @@ namespace Test.Services
     {
         public IEnumerable<OrderModel> GetAllOrders();
         public OrderModel GetOrderById(int id);
-        public void CreateOrder(OrderModel orderModel);
-        public void UpdateOrder(OrderModel orderModel);
-        public void DeleteOrder(int id);
+        public bool CreateOrder(OrderModel orderModel);
+        public bool UpdateOrder(OrderModel orderModel);
+        public bool DeleteOrder(int id);
     }
 }

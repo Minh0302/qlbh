@@ -16,16 +16,32 @@ namespace Test.Services
             _generictRepository = generictRepository;
             _mapper = mapper;
         }
-        public void CreateBuyOrder(BuyOrderModel buyOrderModel)
+        public bool CreateBuyOrder(BuyOrderModel buyOrderModel)
         {
             var newBuy = _mapper.Map<BuyOrder>(buyOrderModel);
-            _generictRepository.Create(newBuy);
+            try
+            {
+                _generictRepository.Create(newBuy);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
-        public void DeleteBuyOrder(int id)
+        public bool DeleteBuyOrder(int id)
         {
             //var delBuy = _mapper.Map<BuyOrder>(buyOrderModel);
-            _generictRepository.DeleteById(id);
+            try
+            {
+                _generictRepository.DeleteById(id);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
         public IEnumerable<BuyOrderModel> GetAllBuyOrders()
@@ -40,10 +56,18 @@ namespace Test.Services
             return _mapper.Map<BuyOrderModel>(buyorder);
         }
 
-        public void UpdateBuyOrder(BuyOrderModel buyOrderModel)
+        public bool UpdateBuyOrder(BuyOrderModel buyOrderModel)
         {
             var updateBuy = _mapper.Map<BuyOrder>(buyOrderModel);
-            _generictRepository.Update(updateBuy);
+            try
+            {
+                _generictRepository.Update(updateBuy);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

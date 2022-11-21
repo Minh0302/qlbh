@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using Test.Entities;
+using Test.Helpers;
 using Test.Models;
 using Test.Repositories;
 
@@ -10,24 +12,43 @@ namespace Test.Services
     {
         private readonly IGenerictRepository<Product> _generictRepository;
         private readonly IMapper _mapper;
+        private readonly ILoggerManager _logger;
 
-        public ProductService(IGenerictRepository<Product> generictRepository, IMapper mapper)
+        public ProductService(IGenerictRepository<Product> generictRepository, IMapper mapper, ILoggerManager logger)
         {
             _generictRepository = generictRepository;
             _mapper = mapper;
+            _logger = logger;
         }
 
-        public void CreateProduct(ProductModel product)
+        public bool CreateProduct(ProductModel product)
         {
             var newProduct = _mapper.Map<Product>(product);
-            _generictRepository.Create(newProduct);
+            try
+            {
+                _logger.LogInfo("ProductService: CreateProduct");
+                _generictRepository.Create(newProduct);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("ProductService: CreateProduct" + ex);
+                return false;
+            }
         }
 
-        public void DeleteProduct(int id)
+        public bool DeleteProduct(int id)
         {
             //var delProduct = _mapper.Map<Product>(product);
-            _generictRepository.DeleteById(id);
-
+            try
+            {
+                _generictRepository.DeleteById(id);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
         public IEnumerable<ProductModel> GetAllProducts()
@@ -42,10 +63,18 @@ namespace Test.Services
             return _mapper.Map<ProductModel>(product);
         }
 
-        public void UpdateProduct(ProductModel product)
+        public bool UpdateProduct(ProductModel product)
         {
             var updateProduct = _mapper.Map<Product>(product);
-            _generictRepository.Update(updateProduct);
+            try
+            {
+                _generictRepository.Update(updateProduct);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

@@ -7,8 +7,8 @@ namespace Test.Services
     {
         public IEnumerable<BuyOrderModel> GetAllBuyOrders();
         public BuyOrderModel GetOrderById(int id);
-        public void CreateBuyOrder(BuyOrderModel buyOrderModel);
-        public void UpdateBuyOrder(BuyOrderModel buyOrderModel);
-        public void DeleteBuyOrder(int id);
+        public bool CreateBuyOrder(BuyOrderModel buyOrderModel);
+        public bool UpdateBuyOrder(BuyOrderModel buyOrderModel);
+        public bool DeleteBuyOrder(int id);
     }
 }

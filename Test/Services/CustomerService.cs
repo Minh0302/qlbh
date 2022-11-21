@@ -15,16 +15,32 @@ namespace Test.Services
             _generictRepository = generictRepository;
             _mapper = mapper;
         }
-        public void CreateCustomer(CustomerModel customer)
+        public bool CreateCustomer(CustomerModel customer)
         {
             var newCustomer = _mapper.Map<Customer>(customer);
-            _generictRepository.Create(newCustomer);
+            try
+            {
+                _generictRepository.Create(newCustomer);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
-        public void DeleteCustomer(int id)
+        public bool DeleteCustomer(int id)
         {
             //var deCustomer= _mapper.Map<Customer>(customer);
-            _generictRepository.DeleteById(id);
+            try
+            {
+                _generictRepository.DeleteById(id);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
         public IEnumerable<CustomerModel> GetAllCustomers()
@@ -39,10 +55,18 @@ namespace Test.Services
             return _mapper.Map<CustomerModel>(customer);
         }
 
-        public void UpdateCustomer(CustomerModel customer)
+        public bool UpdateCustomer(CustomerModel customer)
         {
             var updateCustomer = _mapper.Map<Customer>(customer);
-            _generictRepository.Update(updateCustomer);
+            try
+            {
+                _generictRepository.Update(updateCustomer);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

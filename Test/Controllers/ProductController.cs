@@ -32,22 +32,19 @@ namespace Test.Controllers
             return Ok(_productService.GetProductById(id));
         }
         [HttpPost]
-        public ActionResult Post(ProductModel product)
+        public bool Post(ProductModel product)
         {
-            _productService.CreateProduct(product);
-            return Ok("Thêm thành công!");
+            return _productService.CreateProduct(product);
         }
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public bool Delete(int id)
         {
-             _productService.DeleteProduct(id);
-             return Ok("Xoá thành công!");
+             return _productService.DeleteProduct(id);
         }
         [HttpPut]
-        public ActionResult Put(ProductModel product)
+        public bool Put(ProductModel product)
         {
-            _productService.UpdateProduct(product);
-            return Ok("Update thành công!");
+            return _productService.UpdateProduct(product);
         }
     }
 }

@@ -16,16 +16,32 @@ namespace Test.Services
             _generictRepository = generictRepository;
             _mapper = mapper;
         }
-        public void CreateOrder(OrderModel orderModel)
+        public bool CreateOrder(OrderModel orderModel)
         {
             var newOrder = _mapper.Map<Order>(orderModel);
-            _generictRepository.Create(newOrder);
+            try
+            {
+                _generictRepository.Create(newOrder);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
-        public void DeleteOrder(int id)
+        public bool DeleteOrder(int id)
         {
             //var delOrder = _mapper.Map<Order>(orderModel);
-            _generictRepository.DeleteById(id);
+            try
+            {
+                _generictRepository.DeleteById(id);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
         public IEnumerable<OrderModel> GetAllOrders()
@@ -40,10 +56,18 @@ namespace Test.Services
             return _mapper.Map<OrderModel>(order);
         }
 
-        public void UpdateOrder(OrderModel orderModel)
+        public bool UpdateOrder(OrderModel orderModel)
         {
             var updateOrder = _mapper.Map<Order>(orderModel);
-            _generictRepository.Update(updateOrder);
+            try
+            {
+                _generictRepository.Update(updateOrder);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

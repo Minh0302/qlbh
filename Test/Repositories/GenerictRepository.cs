@@ -58,5 +58,18 @@ namespace Test.Repositories
         {
             _context.SaveChanges();
         }
+
+        public PageResult<T> paginate(int? page, int pagesize = 10)
+        {
+            var countDetails = _context.Set<T>().Count();
+            var result = new PageResult<T>
+            {
+                Count = countDetails,
+                PageIndex = page ?? 1,
+                PageSize = 10,
+                Items = _context.Set<T>().Skip((page - 1 ?? 0) * pagesize).Take(pagesize).ToList()
+            };
+            return result;
+        }
     }
 }

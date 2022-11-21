@@ -26,22 +26,19 @@ namespace Test.Controllers
             return Ok(_buyOrderService.GetOrderById(id));
         }
         [HttpPost]
-        public ActionResult Post(BuyOrderModel buyOrderModel)
+        public bool Post(BuyOrderModel buyOrderModel)
         {
-            _buyOrderService.CreateBuyOrder(buyOrderModel);
-            return Ok("Thêm thành công!");
+            return _buyOrderService.CreateBuyOrder(buyOrderModel);
         }
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public bool Delete(int id)
         {
-            _buyOrderService.DeleteBuyOrder(id);
-            return Ok("Xoá thành công!");
+            return _buyOrderService.DeleteBuyOrder(id);
         }
         [HttpPut]
-        public ActionResult Put(BuyOrderModel buyOrderModel)
+        public bool Put(BuyOrderModel buyOrderModel)
         {
-            _buyOrderService.UpdateBuyOrder(buyOrderModel);
-            return Ok("Update thành công!");
+            return _buyOrderService.UpdateBuyOrder(buyOrderModel);
         }
     }
 }

@@ -28,22 +28,19 @@ namespace Test.Controllers
             return Ok(result);
         }
         [HttpPost]
-        public ActionResult Post(OrderModel model)
+        public bool Post(OrderModel model)
         {
-            _orderService.CreateOrder(model);
-            return Ok("Thêm thành công!");
+            return _orderService.CreateOrder(model);
         }
         [HttpPut]
-        public ActionResult Put(OrderModel model)
+        public bool Put(OrderModel model)
         {
-            _orderService.UpdateOrder(model);
-            return Ok("Cập nhật thành công!");
+            return _orderService.UpdateOrder(model);
         }
         [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        public bool Delete(int id)
         {
-            _orderService.DeleteOrder(id);
-            return Ok("Xóa thành công!");
+            return _orderService.DeleteOrder(id);
         }
     }
 }

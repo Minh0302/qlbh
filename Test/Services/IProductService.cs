@@ -7,8 +7,8 @@ namespace Test.Services
     {
         public IEnumerable<ProductModel> GetAllProducts();
         public ProductModel GetProductById(int id);
-        public void CreateProduct(ProductModel product);
-        public void UpdateProduct(ProductModel product);
-        public void DeleteProduct(int id);
+        public bool CreateProduct(ProductModel product);
+        public bool UpdateProduct(ProductModel product);
+        public bool DeleteProduct(int id);
     }
 }
