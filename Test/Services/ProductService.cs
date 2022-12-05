@@ -4,6 +4,7 @@ using System;
 using Test.Entities;
 using Test.Helpers;
 using Test.Models;
+using Test.Paging;
 using Test.Repositories;
 
 namespace Test.Services
@@ -75,6 +76,15 @@ namespace Test.Services
             {
                 return false;
             }
+        }
+        //public IEnumerable<ProductModel> PaginateProducts(int? page, int pageSize = 10)
+        //{
+        //    var product = _generictRepository.paginate(page, pageSize);
+        //    return _mapper.Map<List<ProductModel>>(product);
+        //}
+        public async Task<PagedList<Product>> GetProductPaging(PagingParameters pagingParameters)
+        {
+            return await Task.FromResult(PagedList<Product>.GetPagedList(_generictRepository.FindAll().OrderBy(s => s.Id), pagingParameters.PageNumber, pagingParameters.PageSize));
         }
     }
 }

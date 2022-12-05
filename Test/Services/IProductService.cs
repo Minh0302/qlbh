@@ -1,5 +1,6 @@
 ﻿using Test.Entities;
 using Test.Models;
+using Test.Paging;
 
 namespace Test.Services
 {
@@ -10,5 +11,6 @@ namespace Test.Services
         public bool CreateProduct(ProductModel product);
         public bool UpdateProduct(ProductModel product);
         public bool DeleteProduct(int id);
+        Task<PagedList<Product>> GetProductPaging(PagingParameters pagingParameters);
     }
 }

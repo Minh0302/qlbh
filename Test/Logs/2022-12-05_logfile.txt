@@ -1,0 +1,17 @@
+2022-12-05 09:02:04.7896 INFO ProductController : GetAllProducts
+2022-12-05 09:02:12.2386 INFO ProductController : GetAllProducts
+2022-12-05 09:02:44.3118 INFO ProductController : GetAllProducts
+2022-12-05 09:02:52.6762 INFO ProductController : GetAllProducts
+2022-12-05 09:03:19.8726 INFO ProductController : GetAllProducts
+2022-12-05 09:03:27.6531 INFO ProductService: CreateProduct
+2022-12-05 09:03:29.9088 INFO ProductController : GetAllProducts
+2022-12-05 09:03:38.5424 INFO ProductController : GetAllProducts
+2022-12-05 09:04:27.9175 INFO ProductController : GetAllProducts
+2022-12-05 09:05:07.1887 INFO ProductController : GetAllProducts
+2022-12-05 09:09:15.9722 INFO ProductController : GetAllProducts
+2022-12-05 09:10:28.4233 INFO ProductController : GetAllProducts
+2022-12-05 09:19:04.2882 INFO ProductController : GetAllProducts
+2022-12-05 09:19:13.2172 INFO ProductController : GetAllProducts
+2022-12-05 09:59:40.8533 INFO ProductController : GetAllProducts
+2022-12-05 11:05:29.0794 INFO ProductController : GetAllProducts
+2022-12-05 11:05:31.9962 INFO ProductController : GetAllProducts

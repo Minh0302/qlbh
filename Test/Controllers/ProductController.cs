@@ -1,9 +1,14 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using Test.Data;
+using Test.Entities;
 using Test.Helpers;
 using Test.Models;
+using Test.Paging;
 using Test.Services;
 
 namespace Test.Controllers
@@ -21,10 +26,24 @@ namespace Test.Controllers
             _logger = logger;
         }
         [HttpGet]
-        public ActionResult GetAllProducts()
+        //public ActionResult GetAllProducts()
+        //{
+        //    _logger.LogInfo("ProductController : GetAllProducts");
+        //    return Ok(_productService.GetAllProducts());
+        //}
+        public async Task<ActionResult> GetAllPaging([FromQuery] PagingParameters paging)
         {
-            _logger.LogInfo("ProductController : GetAllProducts");
-            return Ok(_productService.GetAllProducts());
+            //PagingParameters paging = new PagingParameters();
+            //paging.PageNumber = pageNumber;
+            //paging.PageSize = pageSize;
+            //var abc = _productService.GetProductPaging();
+            return Ok(
+                new
+                {
+                    currentPage = paging.PageNumber,
+                    data = await _productService.GetProductPaging(paging)
+                }
+                );
         }
         [HttpGet("{id}")]
         public ActionResult GetProductById(int id)
