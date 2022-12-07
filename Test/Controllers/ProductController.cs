@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
+using System.Data.SqlTypes;
 using Test.Data;
 using Test.Entities;
 using Test.Helpers;
@@ -26,25 +27,21 @@ namespace Test.Controllers
             _logger = logger;
         }
         [HttpGet]
-        //public ActionResult GetAllProducts()
-        //{
-        //    _logger.LogInfo("ProductController : GetAllProducts");
-        //    return Ok(_productService.GetAllProducts());
-        //}
-        public async Task<ActionResult> GetAllPaging([FromQuery] PagingParameters paging)
+        public ActionResult GetAllProducts()
         {
-            //PagingParameters paging = new PagingParameters();
-            //paging.PageNumber = pageNumber;
-            //paging.PageSize = pageSize;
-            //var abc = _productService.GetProductPaging();
-            return Ok(
-                new
-                {
-                    currentPage = paging.PageNumber,
-                    data = await _productService.GetProductPaging(paging)
-                }
-                );
+            _logger.LogInfo("ProductController : GetAllProducts");
+            return Ok(_productService.GetAllProducts());
         }
+        //public ActionResult GetAllProductsPaging([FromQuery] PagingParameters paging)
+        //{
+        //    var rs = _productService.PaginateProducts(paging);
+        //    return Ok(new
+        //    {
+        //        currentPage = rs.CurrentPage,
+        //        totalPage = rs.TotalPages,
+        //        data = rs.data
+        //    });
+        //}
         [HttpGet("{id}")]
         public ActionResult GetProductById(int id)
         {

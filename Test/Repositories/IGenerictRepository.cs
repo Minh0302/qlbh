@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using Microsoft.AspNetCore.Mvc.ApplicationModels;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Test.Entities;
 using Test.Paging;
 using PageResult = Test.Paging.PagingParameters;
@@ -15,5 +16,9 @@ namespace Test.Repositories
         void DeleteById(int id);
         void Save();
         IQueryable<T> FindAll();
+        //IEnumerable<T> GetPaging(PagingParameters pageParameters);
+        PagedList<T> GetPaging(PagingParameters pageParameters);
+
+
     }
 }

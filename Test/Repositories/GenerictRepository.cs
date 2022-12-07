@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Drawing.Printing;
 using System.Linq.Expressions;
 using Test.Data;
 using Test.Entities;
@@ -61,6 +62,31 @@ namespace Test.Repositories
         public IQueryable<T> FindAll()
         {
             return _context.Set<T>().AsNoTracking();
+        }
+        //public IEnumerable<T> GetPaging(PagingParameters pagingParameters)
+        //{
+        //    var data = _context.Set<T>().AsNoTracking();
+
+        //    var TotalCount = data.Count();
+        //    var PageSize = pagingParameters.PageSize;
+        //    var TotalPages = (int)Math.Ceiling(TotalCount / (double)PageSize);
+        //    var items = data.Skip((pagingParameters.PageNumber - 1) * pagingParameters.PageSize).Take(pagingParameters.PageSize).ToList();
+
+        //    return items;
+        //}
+
+        public PagedList<T> GetPaging(PagingParameters pagingParameters)
+        {
+            var data = _context.Set<T>().AsNoTracking();
+
+            var TotalCount = data.Count();
+            var PageSize = pagingParameters.PageSize;
+            var TotalPages = (int)Math.Ceiling(TotalCount / (double)PageSize);
+            var items = data.Skip((pagingParameters.PageNumber - 1) * pagingParameters.PageSize).Take(pagingParameters.PageSize).ToList();
+
+            var minh = new PagedList<T>(pagingParameters.PageNumber, TotalPages, items);
+            
+            return minh;
         }
     }
 }
