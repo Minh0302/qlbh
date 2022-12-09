@@ -86,9 +86,9 @@ namespace Test.Repositories
             var TotalPages = (int)Math.Ceiling(TotalCount / (double)PageSize);
             var items = data.Skip((pagingParameters.PageNumber - 1) * pagingParameters.PageSize).Take(pagingParameters.PageSize).ToList();
 
-            var minh = new PagedList<T>(pagingParameters.PageNumber, TotalPages, items);
+            var rs = new PagedList<T>(pagingParameters.PageNumber, TotalPages, items);
             
-            return minh;
+            return rs;
         }
     }
 }
