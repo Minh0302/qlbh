@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Test.Entities;
+using Test.Helpers;
 using Test.Models;
 using Test.Repositories;
 
@@ -10,36 +11,41 @@ namespace Test.Services
     {
         private readonly IGenerictRepository<BuyOrder> _generictRepository;
         private readonly IMapper _mapper;
+        private readonly ILoggerManager _logger;
 
-        public BuyOrderService(IGenerictRepository<BuyOrder> generictRepository, IMapper mapper)
+        public BuyOrderService(IGenerictRepository<BuyOrder> generictRepository, IMapper mapper, ILoggerManager logger)
         {
             _generictRepository = generictRepository;
             _mapper = mapper;
+            _logger = logger;
         }
         public bool CreateBuyOrder(BuyOrderModel buyOrderModel)
         {
             var newBuy = _mapper.Map<BuyOrder>(buyOrderModel);
             try
             {
+                _logger.LogInfo("BuyOrderService: CreateBuyOrder");
                 _generictRepository.Create(newBuy);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("BuyOrderService: CreateBuyOrder" + ex);
                 return false;
             }
         }
 
         public bool DeleteBuyOrder(int id)
         {
-            //var delBuy = _mapper.Map<BuyOrder>(buyOrderModel);
             try
             {
+                _logger.LogInfo("BuyOrderService: DeleteBuyOrder");
                 _generictRepository.DeleteById(id);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("BuyOrderService: DeleteBuyOrder" + ex);
                 return false;
             }
         }
@@ -61,11 +67,13 @@ namespace Test.Services
             var updateBuy = _mapper.Map<BuyOrder>(buyOrderModel);
             try
             {
+                _logger.LogInfo("BuyOrderService: UpdateBuyOrder");
                 _generictRepository.Update(updateBuy);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("BuyOrderService: UpdateBuyOrder" + ex);
                 return false;
             }
         }

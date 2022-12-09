@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Test.Entities;
+using Test.Helpers;
 using Test.Models;
 using Test.Repositories;
 
@@ -9,36 +10,41 @@ namespace Test.Services
     {
         private readonly IGenerictRepository<Customer> _generictRepository;
         private readonly IMapper _mapper;
+        private readonly ILoggerManager _logger;
 
-        public CustomerService(IGenerictRepository<Customer> generictRepository, IMapper mapper)
+        public CustomerService(IGenerictRepository<Customer> generictRepository, IMapper mapper, ILoggerManager logger)
         {
             _generictRepository = generictRepository;
             _mapper = mapper;
+            _logger = logger;
         }
         public bool CreateCustomer(CustomerModel customer)
         {
             var newCustomer = _mapper.Map<Customer>(customer);
             try
             {
+                _logger.LogInfo("CustomerService: CreateCustomer");
                 _generictRepository.Create(newCustomer);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("CustomerService: CreateCustomer" + ex);
                 return false;
             }
         }
 
         public bool DeleteCustomer(int id)
         {
-            //var deCustomer= _mapper.Map<Customer>(customer);
             try
             {
+                _logger.LogInfo("CustomerService: DeleteCustomer");
                 _generictRepository.DeleteById(id);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("CustomerService: DeleteCustomer" + ex);
                 return false;
             }
         }
@@ -60,11 +66,13 @@ namespace Test.Services
             var updateCustomer = _mapper.Map<Customer>(customer);
             try
             {
+                _logger.LogInfo("CustomerService: CreateCustomer");
                 _generictRepository.Update(updateCustomer);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("CustomerService: DeleteCustomer" + ex);
                 return false;
             }
         }

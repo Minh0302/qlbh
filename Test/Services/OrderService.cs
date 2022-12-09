@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Test.Entities;
+using Test.Helpers;
 using Test.Models;
 using Test.Repositories;
 
@@ -10,36 +11,41 @@ namespace Test.Services
     {
         private readonly IGenerictRepository<Order> _generictRepository;
         private readonly IMapper _mapper;
+        private readonly ILoggerManager _logger;
 
-        public OrderService(IGenerictRepository<Order> generictRepository, IMapper mapper)
+        public OrderService(IGenerictRepository<Order> generictRepository, IMapper mapper, ILoggerManager logger)
         {
             _generictRepository = generictRepository;
             _mapper = mapper;
+            _logger = logger;
         }
         public bool CreateOrder(OrderModel orderModel)
         {
             var newOrder = _mapper.Map<Order>(orderModel);
             try
             {
+                _logger.LogInfo("OrderService: CreateOrder");
                 _generictRepository.Create(newOrder);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("OrderService: CreateOrder" + ex);
                 return false;
             }
         }
 
         public bool DeleteOrder(int id)
         {
-            //var delOrder = _mapper.Map<Order>(orderModel);
             try
             {
+                _logger.LogInfo("OrderService: DeleteOrder");
                 _generictRepository.DeleteById(id);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("OrderService: DeleteOrder" + ex);
                 return false;
             }
         }
@@ -61,11 +67,13 @@ namespace Test.Services
             var updateOrder = _mapper.Map<Order>(orderModel);
             try
             {
+                _logger.LogInfo("OrderService: UpdateOrder");
                 _generictRepository.Update(updateOrder);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("OrderService: UpdateOrder" + ex);
                 return false;
             }
         }

@@ -32,6 +32,7 @@ namespace Test.Controllers
             _logger.LogInfo("ProductController : GetAllProducts");
             return Ok(_productService.GetAllProducts());
         }
+        // pagiante product
         //public ActionResult GetAllProductsPaging([FromQuery] PagingParameters paging)
         //{
         //    var rs = _productService.PaginateProducts(paging);
@@ -45,21 +46,25 @@ namespace Test.Controllers
         [HttpGet("{id}")]
         public ActionResult GetProductById(int id)
         {
+            _logger.LogInfo("ProductController : GetProductById");
             return Ok(_productService.GetProductById(id));
         }
         [HttpPost]
         public bool Post(ProductModel product)
         {
+            _logger.LogInfo("ProductController : Post");
             return _productService.CreateProduct(product);
         }
         [HttpDelete("{id}")]
         public bool Delete(int id)
         {
-             return _productService.DeleteProduct(id);
+            _logger.LogInfo("ProductController : Delete");
+            return _productService.DeleteProduct(id);
         }
         [HttpPut]
         public bool Put(ProductModel product)
         {
+            _logger.LogInfo("ProductController : Put");
             return _productService.UpdateProduct(product);
         }
     }

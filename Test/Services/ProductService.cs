@@ -40,14 +40,15 @@ namespace Test.Services
 
         public bool DeleteProduct(int id)
         {
-            //var delProduct = _mapper.Map<Product>(product);
             try
             {
+                _logger.LogInfo("ProductService: DeleteProduct");
                 _generictRepository.DeleteById(id);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("ProductService: DeleteProduct" + ex);
                 return false;
             }
         }
@@ -69,11 +70,13 @@ namespace Test.Services
             var updateProduct = _mapper.Map<Product>(product);
             try
             {
+                _logger.LogInfo("ProductService: UpdateProduct");
                 _generictRepository.Update(updateProduct);
                 return true;
             }
-            catch
+            catch (Exception ex)
             {
+                _logger.LogError("ProductService: DeleteProduct" + ex);
                 return false;
             }
         }
@@ -82,10 +85,5 @@ namespace Test.Services
             var product = _generictRepository.GetPaging(pagingParameters);
             return product;
         }
-        //public Task<PagedList<Product>> GetProductPaging(PagingParameters pagingParameters)
-        //{
-        //    return Task.FromResult(PagedList<Product>.GetPagedList(_generictRepository.FindAll().OrderBy(s => s.Id), pagingParameters.PageNumber, pagingParameters.PageSize));
-
-        //}
     }
 }
