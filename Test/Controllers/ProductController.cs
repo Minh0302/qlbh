@@ -29,8 +29,23 @@ namespace Test.Controllers
         [HttpGet]
         public ActionResult GetAllProducts()
         {
-            _logger.LogInfo("ProductController : GetAllProducts");
-            return Ok(_productService.GetAllProducts());
+            try
+            {
+                _logger.LogInfo("ProductController : GetAllProducts");
+                var products = _productService.GetAllProducts();
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                    data = products
+                };
+                return Ok(rs);
+            }catch(Exception ex)
+            {
+                _logger.LogError("ProductController : GetAllProducts" + ex.Message);
+                return BadRequest(ex.Message);
+            }
+            
         }
         // pagiante product
         //public ActionResult GetAllProductsPaging([FromQuery] PagingParameters paging)
@@ -50,22 +65,64 @@ namespace Test.Controllers
             return Ok(_productService.GetProductById(id));
         }
         [HttpPost]
-        public bool Post(ProductModel product)
+        public IActionResult Post(ProductModel product)
         {
-            _logger.LogInfo("ProductController : Post");
-            return _productService.CreateProduct(product);
+            try
+            {
+                _logger.LogInfo("ProductController : Post");
+                _productService.CreateProduct(product);
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                };
+                return Ok(rs);
+            }
+            catch(Exception ex)
+            {
+                _logger.LogError("ProductController : Post" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
         [HttpDelete("{id}")]
-        public bool Delete(int id)
+        public IActionResult Delete(int id)
         {
-            _logger.LogInfo("ProductController : Delete");
-            return _productService.DeleteProduct(id);
+            try
+            {
+                _logger.LogInfo("ProductController : Post");
+                _productService.DeleteProduct(id);
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                };
+                return Ok(rs);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("ProductController : Delete" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
         [HttpPut]
-        public bool Put(ProductModel product)
+        public IActionResult Put(ProductModel product)
         {
-            _logger.LogInfo("ProductController : Put");
-            return _productService.UpdateProduct(product);
+            try
+            {
+                _logger.LogInfo("ProductController : Put");
+                _productService.UpdateProduct(product);
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                };
+                return Ok(rs);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("ProductController : Put" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

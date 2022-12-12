@@ -50,10 +50,10 @@ namespace Test.Services
             }
         }
 
-        public IEnumerable<OrderModel> GetAllOrders()
+        public IEnumerable<Order> GetAllOrders()
         {
-            var orders = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(obj => obj.OrderDetails);
-            return _mapper.Map<List<OrderModel>>(orders);
+            var orders = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(obj => obj.OrderDetails).Include(ob =>ob.Customer);
+            return orders;
         }
 
         public OrderModel GetOrderById(int id)

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Test.Entities;
 using Test.Helpers;
 using Test.Models;
 using Test.Services;
@@ -21,8 +22,23 @@ namespace Test.Controllers
         [HttpGet]
         public ActionResult GetAll()
         {
-            _logger.LogInfo("CustomerController : GetAll");
-            return Ok(_customerService.GetAllCustomers());
+            try
+            {
+                _logger.LogInfo("CustomerController : GetAll");
+                var products = _customerService.GetAllCustomers();
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                    data = products
+                };
+                return Ok(rs);
+            }
+            catch(Exception ex)
+            {
+                _logger.LogError("CustomerController : GetAll" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
         [HttpGet("{id}")]
         public ActionResult GetById(int id)
@@ -31,22 +47,64 @@ namespace Test.Controllers
             return Ok(_customerService.GetCustomerById(id));
         }
         [HttpPost]
-        public bool Post(CustomerModel customer)
+        public IActionResult Post(CustomerModel customer)
         {
-            _logger.LogInfo("CustomerController : Post");
-            return _customerService.CreateCustomer(customer);
+            try
+            {
+                _logger.LogInfo("CustomerController : Post");
+                _customerService.CreateCustomer(customer);
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                };
+                return Ok(rs);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("CustomerController : Post" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
         [HttpPut]
-        public bool Put(CustomerModel customer)
+        public IActionResult Put(CustomerModel customer)
         {
-            _logger.LogInfo("CustomerController : Put");
-            return _customerService.UpdateCustomer(customer);
+            try
+            {
+                _logger.LogInfo("CustomerController : Put");
+                _customerService.UpdateCustomer(customer);
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                };
+                return Ok(rs);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("CustomerController : Put" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
         [HttpDelete("{id}")]
-        public bool Delete(int id)
+        public IActionResult Delete(int id)
         {
-            _logger.LogInfo("CustomerController : Delete");
-            return _customerService.DeleteCustomer(id);
+            try
+            {
+                _logger.LogInfo("CustomerController : Delete");
+                _customerService.DeleteCustomer(id);
+                var rs = new Respone()
+                {
+                    status = 200,
+                    message = "Successfully",
+                };
+                return Ok(rs);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("CustomerController : Delete" + ex.Message);
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

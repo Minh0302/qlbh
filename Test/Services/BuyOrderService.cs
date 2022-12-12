@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Test.Entities;
 using Test.Helpers;
 using Test.Models;
+using Test.Paging;
 using Test.Repositories;
 
 namespace Test.Services
@@ -60,6 +61,12 @@ namespace Test.Services
         {
             var buyorder = _generictRepository.GetAll().AsQueryable().AsNoTracking().Include(odb => odb.BuyOrderDetails).FirstOrDefault(x => x.Id ==id);
             return _mapper.Map<BuyOrderModel>(buyorder);
+        }
+
+        public PagedList<BuyOrder> PaginateBuyOrders(PagingParameters pagingParameters)
+        {
+            var buyOrders = _generictRepository.GetPaging(pagingParameters);
+            return buyOrders;
         }
 
         public bool UpdateBuyOrder(BuyOrderModel buyOrderModel)

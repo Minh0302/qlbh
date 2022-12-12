@@ -6,3 +6,2143 @@
 2022-12-09 09:44:29.7617 INFO ProductController : GetAllProducts
 2022-12-09 09:55:07.4261 INFO BuyOrderController : GetAlls
 2022-12-09 09:55:07.4425 INFO GenerictRepository: GetAll
+2022-12-09 09:56:41.0199 INFO BuyOrderController : GetAlls
+2022-12-09 09:56:41.0199 INFO GenerictRepository: GetAll
+2022-12-09 09:56:53.4477 INFO BuyOrderController : GetAlls
+2022-12-09 09:56:53.4477 INFO GenerictRepository: GetAll
+2022-12-09 09:58:33.9228 INFO ProductController : GetAllProducts
+2022-12-09 09:58:33.9228 INFO GenerictRepository: GetAll
+2022-12-09 09:58:37.7077 INFO ProductController : GetAllProducts
+2022-12-09 09:58:37.7077 INFO GenerictRepository: GetAll
+2022-12-09 09:58:41.0192 INFO ProductController : GetAllProducts
+2022-12-09 09:58:41.0192 INFO GenerictRepository: GetAll
+2022-12-09 09:58:41.0479 INFO BuyOrderController : GetProductById
+2022-12-09 09:58:41.0479 INFO GenerictRepository: GetAll
+2022-12-09 09:58:45.3502 INFO BuyOrderController : GetProductById
+2022-12-09 09:58:45.3502 INFO GenerictRepository: GetAll
+2022-12-09 09:58:45.3502 INFO ProductController : GetAllProducts
+2022-12-09 09:58:45.3502 INFO GenerictRepository: GetAll
+2022-12-09 09:58:48.8307 INFO ProductController : GetAllProducts
+2022-12-09 09:58:48.8307 INFO GenerictRepository: GetAll
+2022-12-09 09:58:48.8307 INFO BuyOrderController : GetProductById
+2022-12-09 09:58:48.8307 INFO GenerictRepository: GetAll
+2022-12-09 09:59:23.2729 INFO BuyOrderController : GetAlls
+2022-12-09 09:59:23.2729 INFO GenerictRepository: GetAll
+2022-12-09 09:59:24.5755 INFO BuyOrderController : GetProductById
+2022-12-09 09:59:24.5755 INFO GenerictRepository: GetAll
+2022-12-09 09:59:24.5891 INFO ProductController : GetAllProducts
+2022-12-09 09:59:24.5891 INFO GenerictRepository: GetAll
+2022-12-09 09:59:31.3574 INFO ProductController : GetAllProducts
+2022-12-09 09:59:31.3574 INFO GenerictRepository: GetAll
+2022-12-09 09:59:31.3574 INFO BuyOrderController : GetProductById
+2022-12-09 09:59:31.3574 INFO GenerictRepository: GetAll
+2022-12-09 09:59:34.7899 INFO ProductController : GetAllProducts
+2022-12-09 09:59:34.7899 INFO GenerictRepository: GetAll
+2022-12-09 09:59:34.7899 INFO BuyOrderController : GetProductById
+2022-12-09 09:59:34.7899 INFO GenerictRepository: GetAll
+2022-12-09 10:00:54.5872 INFO BuyOrderController : GetAlls
+2022-12-09 10:00:54.5872 INFO GenerictRepository: GetAll
+2022-12-09 10:00:57.7136 INFO ProductController : GetAllProducts
+2022-12-09 10:00:57.7136 INFO GenerictRepository: GetAll
+2022-12-09 10:01:02.1344 INFO BuyOrderController : GetAlls
+2022-12-09 10:01:02.1344 INFO GenerictRepository: GetAll
+2022-12-09 10:01:02.1344 INFO ProductController : GetAllProducts
+2022-12-09 10:01:02.1344 INFO GenerictRepository: GetAll
+2022-12-09 10:01:14.9971 INFO BuyOrderController : GetAlls
+2022-12-09 10:01:14.9971 INFO GenerictRepository: GetAll
+2022-12-09 10:01:14.9971 INFO ProductController : GetAllProducts
+2022-12-09 10:01:14.9971 INFO GenerictRepository: GetAll
+2022-12-09 10:03:27.1466 INFO BuyOrderController : GetAlls
+2022-12-09 10:03:27.1466 INFO GenerictRepository: GetAll
+2022-12-09 10:03:27.1466 INFO ProductController : GetAllProducts
+2022-12-09 10:03:27.1466 INFO GenerictRepository: GetAll
+2022-12-09 10:03:32.0622 INFO BuyOrderController : GetAlls
+2022-12-09 10:03:32.0622 INFO GenerictRepository: GetAll
+2022-12-09 10:03:32.0658 INFO ProductController : GetAllProducts
+2022-12-09 10:03:32.0658 INFO GenerictRepository: GetAll
+2022-12-09 10:03:34.4361 INFO BuyOrderController : GetAlls
+2022-12-09 10:03:34.4361 INFO GenerictRepository: GetAll
+2022-12-09 10:03:34.4381 INFO ProductController : GetAllProducts
+2022-12-09 10:03:34.4381 INFO GenerictRepository: GetAll
+2022-12-09 10:03:40.0950 INFO BuyOrderController : GetAlls
+2022-12-09 10:03:40.0950 INFO GenerictRepository: GetAll
+2022-12-09 10:03:40.0950 INFO ProductController : GetAllProducts
+2022-12-09 10:03:40.0950 INFO GenerictRepository: GetAll
+2022-12-09 10:03:43.2871 INFO ProductController : GetAllProducts
+2022-12-09 10:03:43.2871 INFO GenerictRepository: GetAll
+2022-12-09 10:03:43.2871 INFO BuyOrderController : GetProductById
+2022-12-09 10:03:43.2871 INFO GenerictRepository: GetAll
+2022-12-09 10:03:48.1510 INFO ProductController : GetAllProducts
+2022-12-09 10:03:48.1510 INFO GenerictRepository: GetAll
+2022-12-09 10:03:48.1510 INFO BuyOrderController : GetProductById
+2022-12-09 10:03:48.1510 INFO GenerictRepository: GetAll
+2022-12-09 10:04:15.1134 INFO BuyOrderController : GetAlls
+2022-12-09 10:04:15.1134 INFO GenerictRepository: GetAll
+2022-12-09 10:04:15.1373 INFO ProductController : GetAllProducts
+2022-12-09 10:04:15.1373 INFO GenerictRepository: GetAll
+2022-12-09 10:04:15.1373 INFO BuyOrderController : GetProductById
+2022-12-09 10:04:15.1373 INFO GenerictRepository: GetAll
+2022-12-09 10:04:21.0111 INFO ProductController : GetAllProducts
+2022-12-09 10:04:21.0111 INFO GenerictRepository: GetAll
+2022-12-09 10:04:21.0111 INFO BuyOrderController : GetProductById
+2022-12-09 10:04:21.0111 INFO GenerictRepository: GetAll
+2022-12-09 10:04:21.0204 INFO BuyOrderController : GetAlls
+2022-12-09 10:04:21.0204 INFO GenerictRepository: GetAll
+2022-12-09 10:04:24.0979 INFO BuyOrderController : GetAlls
+2022-12-09 10:04:24.0979 INFO GenerictRepository: GetAll
+2022-12-09 10:04:24.0979 INFO ProductController : GetAllProducts
+2022-12-09 10:04:24.0979 INFO GenerictRepository: GetAll
+2022-12-09 10:04:24.0979 INFO BuyOrderController : GetProductById
+2022-12-09 10:04:24.0979 INFO GenerictRepository: GetAll
+2022-12-09 10:04:44.5104 INFO ProductController : GetAllProducts
+2022-12-09 10:04:44.5104 INFO GenerictRepository: GetAll
+2022-12-09 10:05:26.8287 INFO ProductController : GetAllProducts
+2022-12-09 10:05:26.8287 INFO GenerictRepository: GetAll
+2022-12-09 10:05:26.8287 INFO BuyOrderController : GetAlls
+2022-12-09 10:05:26.8287 INFO GenerictRepository: GetAll
+2022-12-09 10:05:36.6226 INFO BuyOrderController : GetAlls
+2022-12-09 10:05:36.6226 INFO GenerictRepository: GetAll
+2022-12-09 10:05:36.6226 INFO ProductController : GetAllProducts
+2022-12-09 10:05:36.6226 INFO GenerictRepository: GetAll
+2022-12-09 10:06:03.4225 INFO BuyOrderController : GetAlls
+2022-12-09 10:06:03.4225 INFO GenerictRepository: GetAll
+2022-12-09 10:06:03.4520 INFO ProductController : GetAllProducts
+2022-12-09 10:06:03.4520 INFO GenerictRepository: GetAll
+2022-12-09 10:06:35.9027 INFO BuyOrderController : GetAlls
+2022-12-09 10:06:35.9027 INFO GenerictRepository: GetAll
+2022-12-09 10:06:35.9027 INFO ProductController : GetAllProducts
+2022-12-09 10:06:35.9027 INFO GenerictRepository: GetAll
+2022-12-09 10:07:49.2383 INFO BuyOrderController : GetAlls
+2022-12-09 10:07:49.2383 INFO GenerictRepository: GetAll
+2022-12-09 10:07:49.2383 INFO ProductController : GetAllProducts
+2022-12-09 10:07:49.2383 INFO GenerictRepository: GetAll
+2022-12-09 10:07:55.9592 INFO ProductController : GetAllProducts
+2022-12-09 10:07:55.9592 INFO GenerictRepository: GetAll
+2022-12-09 10:07:55.9592 INFO BuyOrderController : GetAlls
+2022-12-09 10:07:55.9592 INFO GenerictRepository: GetAll
+2022-12-09 10:08:04.1238 INFO BuyOrderController : GetAlls
+2022-12-09 10:08:04.1238 INFO GenerictRepository: GetAll
+2022-12-09 10:08:04.1238 INFO ProductController : GetAllProducts
+2022-12-09 10:08:04.1238 INFO GenerictRepository: GetAll
+2022-12-09 10:08:09.6524 INFO BuyOrderController : GetAlls
+2022-12-09 10:08:09.6524 INFO GenerictRepository: GetAll
+2022-12-09 10:08:09.6524 INFO ProductController : GetAllProducts
+2022-12-09 10:08:09.6524 INFO GenerictRepository: GetAll
+2022-12-09 10:08:33.6072 INFO BuyOrderController : GetAlls
+2022-12-09 10:08:33.6072 INFO GenerictRepository: GetAll
+2022-12-09 10:08:35.2155 INFO BuyOrderController : GetProductById
+2022-12-09 10:08:35.2155 INFO GenerictRepository: GetAll
+2022-12-09 10:08:35.2257 INFO ProductController : GetAllProducts
+2022-12-09 10:08:35.2257 INFO GenerictRepository: GetAll
+2022-12-09 10:08:59.8814 INFO BuyOrderController : GetAlls
+2022-12-09 10:08:59.8814 INFO GenerictRepository: GetAll
+2022-12-09 10:09:16.6165 INFO ProductController : GetAllProducts
+2022-12-09 10:09:16.6165 INFO GenerictRepository: GetAll
+2022-12-09 10:11:12.2407 INFO ProductController : GetAllProducts
+2022-12-09 10:11:12.2407 INFO GenerictRepository: GetAll
+2022-12-09 10:11:15.2542 INFO BuyOrderController : GetAlls
+2022-12-09 10:11:15.2542 INFO GenerictRepository: GetAll
+2022-12-09 10:11:16.6227 INFO ProductController : GetAllProducts
+2022-12-09 10:11:16.6227 INFO GenerictRepository: GetAll
+2022-12-09 10:11:16.6227 INFO BuyOrderController : GetProductById
+2022-12-09 10:11:16.6227 INFO GenerictRepository: GetAll
+2022-12-09 10:11:26.3064 INFO BuyOrderController : GetAlls
+2022-12-09 10:11:26.3064 INFO GenerictRepository: GetAll
+2022-12-09 10:11:26.3064 INFO ProductController : GetAllProducts
+2022-12-09 10:11:26.3064 INFO GenerictRepository: GetAll
+2022-12-09 10:11:26.3064 INFO BuyOrderController : GetProductById
+2022-12-09 10:11:26.3064 INFO GenerictRepository: GetAll
+2022-12-09 10:11:36.1874 INFO BuyOrderController : GetAlls
+2022-12-09 10:11:36.1874 INFO GenerictRepository: GetAll
+2022-12-09 10:11:36.1874 INFO ProductController : GetAllProducts
+2022-12-09 10:11:36.1874 INFO GenerictRepository: GetAll
+2022-12-09 10:11:36.1874 INFO BuyOrderController : GetProductById
+2022-12-09 10:11:36.1874 INFO GenerictRepository: GetAll
+2022-12-09 10:11:52.2862 INFO BuyOrderController : GetAlls
+2022-12-09 10:11:52.2862 INFO GenerictRepository: GetAll
+2022-12-09 10:11:52.2883 INFO ProductController : GetAllProducts
+2022-12-09 10:11:52.2883 INFO GenerictRepository: GetAll
+2022-12-09 10:11:52.2883 INFO BuyOrderController : GetProductById
+2022-12-09 10:11:52.2883 INFO GenerictRepository: GetAll
+2022-12-09 10:12:11.9311 INFO BuyOrderController : GetAlls
+2022-12-09 10:12:11.9311 INFO GenerictRepository: GetAll
+2022-12-09 10:12:11.9311 INFO ProductController : GetAllProducts
+2022-12-09 10:12:11.9311 INFO GenerictRepository: GetAll
+2022-12-09 10:12:11.9311 INFO BuyOrderController : GetProductById
+2022-12-09 10:12:11.9311 INFO GenerictRepository: GetAll
+2022-12-09 10:12:18.1466 INFO BuyOrderController : GetAlls
+2022-12-09 10:12:18.1466 INFO GenerictRepository: GetAll
+2022-12-09 10:12:18.1492 INFO ProductController : GetAllProducts
+2022-12-09 10:12:18.1492 INFO GenerictRepository: GetAll
+2022-12-09 10:12:18.1492 INFO BuyOrderController : GetProductById
+2022-12-09 10:12:18.1492 INFO GenerictRepository: GetAll
+2022-12-09 10:12:45.1019 INFO BuyOrderController : GetAlls
+2022-12-09 10:12:45.1019 INFO GenerictRepository: GetAll
+2022-12-09 10:12:45.1019 INFO ProductController : GetAllProducts
+2022-12-09 10:12:45.1019 INFO GenerictRepository: GetAll
+2022-12-09 10:12:45.1019 INFO BuyOrderController : GetProductById
+2022-12-09 10:12:45.1019 INFO GenerictRepository: GetAll
+2022-12-09 10:13:02.6831 INFO BuyOrderController : GetAlls
+2022-12-09 10:13:02.6831 INFO GenerictRepository: GetAll
+2022-12-09 10:13:02.6831 INFO ProductController : GetAllProducts
+2022-12-09 10:13:02.6831 INFO GenerictRepository: GetAll
+2022-12-09 10:13:02.6831 INFO BuyOrderController : GetProductById
+2022-12-09 10:13:02.6831 INFO GenerictRepository: GetAll
+2022-12-09 10:13:28.4246 INFO BuyOrderController : GetAlls
+2022-12-09 10:13:28.4246 INFO GenerictRepository: GetAll
+2022-12-09 10:13:28.4267 INFO ProductController : GetAllProducts
+2022-12-09 10:13:28.4267 INFO GenerictRepository: GetAll
+2022-12-09 10:13:28.4267 INFO BuyOrderController : GetProductById
+2022-12-09 10:13:28.4267 INFO GenerictRepository: GetAll
+2022-12-09 10:13:43.5103 INFO BuyOrderController : GetAlls
+2022-12-09 10:13:43.5103 INFO GenerictRepository: GetAll
+2022-12-09 10:13:45.8064 INFO ProductController : GetAllProducts
+2022-12-09 10:13:45.8064 INFO GenerictRepository: GetAll
+2022-12-09 10:14:34.9210 INFO BuyOrderController : GetAlls
+2022-12-09 10:14:34.9210 INFO GenerictRepository: GetAll
+2022-12-09 10:14:34.9279 INFO ProductController : GetAllProducts
+2022-12-09 10:14:34.9279 INFO GenerictRepository: GetAll
+2022-12-09 10:14:51.4436 INFO BuyOrderController : GetAlls
+2022-12-09 10:14:51.4436 INFO GenerictRepository: GetAll
+2022-12-09 10:14:51.4436 INFO ProductController : GetAllProducts
+2022-12-09 10:14:51.4436 INFO GenerictRepository: GetAll
+2022-12-09 10:15:41.1436 INFO BuyOrderController : GetAlls
+2022-12-09 10:15:41.1436 INFO GenerictRepository: GetAll
+2022-12-09 10:15:41.1436 INFO ProductController : GetAllProducts
+2022-12-09 10:15:41.1436 INFO GenerictRepository: GetAll
+2022-12-09 10:15:45.3977 INFO BuyOrderController : GetAlls
+2022-12-09 10:15:45.3977 INFO GenerictRepository: GetAll
+2022-12-09 10:15:45.3977 INFO ProductController : GetAllProducts
+2022-12-09 10:15:45.3977 INFO GenerictRepository: GetAll
+2022-12-09 10:15:57.7667 INFO BuyOrderController : GetAlls
+2022-12-09 10:15:57.7667 INFO GenerictRepository: GetAll
+2022-12-09 10:15:57.7701 INFO ProductController : GetAllProducts
+2022-12-09 10:15:57.7701 INFO GenerictRepository: GetAll
+2022-12-09 10:16:07.4302 INFO BuyOrderController : GetAlls
+2022-12-09 10:16:07.4302 INFO GenerictRepository: GetAll
+2022-12-09 10:16:07.4302 INFO ProductController : GetAllProducts
+2022-12-09 10:16:07.4302 INFO GenerictRepository: GetAll
+2022-12-09 10:16:10.9158 INFO BuyOrderController : GetAlls
+2022-12-09 10:16:10.9158 INFO GenerictRepository: GetAll
+2022-12-09 10:16:12.1436 INFO ProductController : GetAllProducts
+2022-12-09 10:16:12.1436 INFO GenerictRepository: GetAll
+2022-12-09 10:16:16.0884 INFO ProductController : GetAllProducts
+2022-12-09 10:16:16.0884 INFO GenerictRepository: GetAll
+2022-12-09 10:16:16.0884 INFO BuyOrderController : GetProductById
+2022-12-09 10:16:16.0884 INFO GenerictRepository: GetAll
+2022-12-09 10:16:36.1919 INFO BuyOrderController : GetAlls
+2022-12-09 10:16:36.1919 INFO GenerictRepository: GetAll
+2022-12-09 10:16:36.8763 INFO ProductController : GetAllProducts
+2022-12-09 10:16:36.8763 INFO GenerictRepository: GetAll
+2022-12-09 10:17:56.8570 INFO BuyOrderController : GetAlls
+2022-12-09 10:17:56.8570 INFO GenerictRepository: GetAll
+2022-12-09 10:17:56.8570 INFO ProductController : GetAllProducts
+2022-12-09 10:17:56.8570 INFO GenerictRepository: GetAll
+2022-12-09 10:18:01.0959 INFO BuyOrderController : GetAlls
+2022-12-09 10:18:01.0959 INFO GenerictRepository: GetAll
+2022-12-09 10:18:02.3512 INFO ProductController : GetAllProducts
+2022-12-09 10:18:02.3512 INFO GenerictRepository: GetAll
+2022-12-09 10:18:02.3512 INFO BuyOrderController : GetProductById
+2022-12-09 10:18:02.3512 INFO GenerictRepository: GetAll
+2022-12-09 10:18:16.6818 INFO BuyOrderController : GetProductById
+2022-12-09 10:18:16.6818 INFO GenerictRepository: GetAll
+2022-12-09 10:18:16.6818 INFO BuyOrderController : GetAlls
+2022-12-09 10:18:16.6818 INFO GenerictRepository: GetAll
+2022-12-09 10:18:16.6818 INFO ProductController : GetAllProducts
+2022-12-09 10:18:16.6818 INFO GenerictRepository: GetAll
+2022-12-09 10:18:21.1918 INFO BuyOrderController : GetAlls
+2022-12-09 10:18:21.1918 INFO GenerictRepository: GetAll
+2022-12-09 10:22:31.1396 INFO BuyOrderController : GetAlls
+2022-12-09 10:22:31.1396 INFO GenerictRepository: GetAll
+2022-12-09 10:22:32.5670 INFO ProductController : GetAllProducts
+2022-12-09 10:22:32.5670 INFO GenerictRepository: GetAll
+2022-12-09 10:23:06.9416 INFO BuyOrderController : GetAlls
+2022-12-09 10:23:06.9416 INFO GenerictRepository: GetAll
+2022-12-09 10:23:06.9416 INFO ProductController : GetAllProducts
+2022-12-09 10:23:06.9416 INFO GenerictRepository: GetAll
+2022-12-09 10:24:00.7877 INFO ProductController : GetAllProducts
+2022-12-09 10:24:00.7877 INFO GenerictRepository: GetAll
+2022-12-09 10:24:00.7877 INFO BuyOrderController : GetAlls
+2022-12-09 10:24:00.7877 INFO GenerictRepository: GetAll
+2022-12-09 10:25:20.2213 INFO BuyOrderController : GetAlls
+2022-12-09 10:25:20.2213 INFO GenerictRepository: GetAll
+2022-12-09 10:25:20.2213 INFO ProductController : GetAllProducts
+2022-12-09 10:25:20.2213 INFO GenerictRepository: GetAll
+2022-12-09 10:28:45.8607 INFO ProductController : GetAllProducts
+2022-12-09 10:28:45.8607 INFO GenerictRepository: GetAll
+2022-12-09 10:28:45.8607 INFO BuyOrderController : GetAlls
+2022-12-09 10:28:45.8607 INFO GenerictRepository: GetAll
+2022-12-09 10:29:03.1789 INFO BuyOrderController : GetAlls
+2022-12-09 10:29:03.1789 INFO GenerictRepository: GetAll
+2022-12-09 10:29:03.1789 INFO ProductController : GetAllProducts
+2022-12-09 10:29:03.1789 INFO GenerictRepository: GetAll
+2022-12-09 10:29:12.4535 INFO BuyOrderController : GetAlls
+2022-12-09 10:29:12.4535 INFO ProductController : GetAllProducts
+2022-12-09 10:29:12.4535 INFO GenerictRepository: GetAll
+2022-12-09 10:29:12.4535 INFO GenerictRepository: GetAll
+2022-12-09 10:29:24.7472 INFO ProductController : GetAllProducts
+2022-12-09 10:29:24.7472 INFO GenerictRepository: GetAll
+2022-12-09 10:29:24.7472 INFO BuyOrderController : GetAlls
+2022-12-09 10:29:24.7472 INFO GenerictRepository: GetAll
+2022-12-09 10:29:39.5712 INFO BuyOrderController : GetAlls
+2022-12-09 10:29:39.5712 INFO GenerictRepository: GetAll
+2022-12-09 10:29:39.5712 INFO ProductController : GetAllProducts
+2022-12-09 10:29:39.5712 INFO GenerictRepository: GetAll
+2022-12-09 10:29:43.8877 INFO BuyOrderController : GetAlls
+2022-12-09 10:29:43.8877 INFO GenerictRepository: GetAll
+2022-12-09 10:29:44.6801 INFO ProductController : GetAllProducts
+2022-12-09 10:29:44.6801 INFO GenerictRepository: GetAll
+2022-12-09 10:29:48.6558 INFO BuyOrderController : GetAlls
+2022-12-09 10:29:48.6558 INFO GenerictRepository: GetAll
+2022-12-09 10:29:49.6225 INFO ProductController : GetAllProducts
+2022-12-09 10:29:49.6225 INFO GenerictRepository: GetAll
+2022-12-09 10:29:49.6225 INFO BuyOrderController : GetProductById
+2022-12-09 10:29:49.6225 INFO GenerictRepository: GetAll
+2022-12-09 10:30:13.3684 INFO BuyOrderController : GetAlls
+2022-12-09 10:30:13.3684 INFO GenerictRepository: GetAll
+2022-12-09 10:30:13.3722 INFO ProductController : GetAllProducts
+2022-12-09 10:30:13.3722 INFO GenerictRepository: GetAll
+2022-12-09 10:30:13.3722 INFO BuyOrderController : GetProductById
+2022-12-09 10:30:13.3722 INFO GenerictRepository: GetAll
+2022-12-09 10:31:18.2766 INFO BuyOrderController : GetAlls
+2022-12-09 10:31:18.2766 INFO GenerictRepository: GetAll
+2022-12-09 10:31:26.0705 INFO BuyOrderController : GetAlls
+2022-12-09 10:31:26.0705 INFO GenerictRepository: GetAll
+2022-12-09 10:31:27.8604 INFO ProductController : GetAllProducts
+2022-12-09 10:31:27.8604 INFO GenerictRepository: GetAll
+2022-12-09 10:31:27.8604 INFO BuyOrderController : GetProductById
+2022-12-09 10:31:27.8604 INFO GenerictRepository: GetAll
+2022-12-09 10:31:42.3060 INFO BuyOrderController : GetProductById
+2022-12-09 10:31:42.3060 INFO GenerictRepository: GetAll
+2022-12-09 10:31:42.3060 INFO ProductController : GetAllProducts
+2022-12-09 10:31:42.3060 INFO GenerictRepository: GetAll
+2022-12-09 10:31:42.3060 INFO BuyOrderController : GetAlls
+2022-12-09 10:31:42.3060 INFO GenerictRepository: GetAll
+2022-12-09 10:34:34.3954 INFO BuyOrderController : GetAlls
+2022-12-09 10:34:34.3954 INFO GenerictRepository: GetAll
+2022-12-09 10:34:34.4048 INFO ProductController : GetAllProducts
+2022-12-09 10:34:34.4048 INFO GenerictRepository: GetAll
+2022-12-09 10:34:34.4048 INFO BuyOrderController : GetProductById
+2022-12-09 10:34:34.4048 INFO GenerictRepository: GetAll
+2022-12-09 10:34:41.1901 INFO BuyOrderController : GetAlls
+2022-12-09 10:34:41.1901 INFO GenerictRepository: GetAll
+2022-12-09 10:34:42.5055 INFO ProductController : GetAllProducts
+2022-12-09 10:34:42.5055 INFO GenerictRepository: GetAll
+2022-12-09 10:34:42.5055 INFO BuyOrderController : GetProductById
+2022-12-09 10:34:42.5055 INFO GenerictRepository: GetAll
+2022-12-09 10:35:02.4355 INFO BuyOrderController : GetAlls
+2022-12-09 10:35:02.4355 INFO GenerictRepository: GetAll
+2022-12-09 10:35:02.4355 INFO ProductController : GetAllProducts
+2022-12-09 10:35:02.4355 INFO GenerictRepository: GetAll
+2022-12-09 10:35:02.4355 INFO BuyOrderController : GetProductById
+2022-12-09 10:35:02.4355 INFO GenerictRepository: GetAll
+2022-12-09 10:35:20.4483 INFO BuyOrderController : GetAlls
+2022-12-09 10:35:20.4483 INFO GenerictRepository: GetAll
+2022-12-09 10:35:20.4529 INFO ProductController : GetAllProducts
+2022-12-09 10:35:20.4529 INFO GenerictRepository: GetAll
+2022-12-09 10:35:20.4529 INFO BuyOrderController : GetProductById
+2022-12-09 10:35:20.4529 INFO GenerictRepository: GetAll
+2022-12-09 10:36:47.5533 INFO BuyOrderController : GetAlls
+2022-12-09 10:36:47.5533 INFO GenerictRepository: GetAll
+2022-12-09 10:36:47.5533 INFO ProductController : GetAllProducts
+2022-12-09 10:36:47.5533 INFO GenerictRepository: GetAll
+2022-12-09 10:36:47.5533 INFO BuyOrderController : GetProductById
+2022-12-09 10:36:47.5533 INFO GenerictRepository: GetAll
+2022-12-09 10:36:59.4809 INFO BuyOrderController : GetAlls
+2022-12-09 10:36:59.4809 INFO GenerictRepository: GetAll
+2022-12-09 10:37:00.2055 INFO ProductController : GetAllProducts
+2022-12-09 10:37:00.2055 INFO GenerictRepository: GetAll
+2022-12-09 10:37:03.4731 INFO BuyOrderController : GetAlls
+2022-12-09 10:37:03.4731 INFO GenerictRepository: GetAll
+2022-12-09 10:37:04.6022 INFO ProductController : GetAllProducts
+2022-12-09 10:37:04.6022 INFO GenerictRepository: GetAll
+2022-12-09 10:37:04.6022 INFO BuyOrderController : GetProductById
+2022-12-09 10:37:04.6022 INFO GenerictRepository: GetAll
+2022-12-09 10:38:39.8765 INFO BuyOrderController : GetAlls
+2022-12-09 10:38:39.8765 INFO GenerictRepository: GetAll
+2022-12-09 10:38:39.8765 INFO ProductController : GetAllProducts
+2022-12-09 10:38:39.8765 INFO GenerictRepository: GetAll
+2022-12-09 10:38:39.8765 INFO BuyOrderController : GetProductById
+2022-12-09 10:38:39.8765 INFO GenerictRepository: GetAll
+2022-12-09 10:38:45.0808 INFO BuyOrderController : GetAlls
+2022-12-09 10:38:45.0808 INFO GenerictRepository: GetAll
+2022-12-09 10:38:46.1452 INFO ProductController : GetAllProducts
+2022-12-09 10:38:46.1452 INFO GenerictRepository: GetAll
+2022-12-09 10:38:48.7342 INFO BuyOrderController : GetAlls
+2022-12-09 10:38:48.7342 INFO GenerictRepository: GetAll
+2022-12-09 10:38:48.7342 INFO ProductController : GetAllProducts
+2022-12-09 10:38:48.7342 INFO GenerictRepository: GetAll
+2022-12-09 10:38:54.4421 INFO ProductController : GetAllProducts
+2022-12-09 10:38:54.4421 INFO GenerictRepository: GetAll
+2022-12-09 10:40:27.8639 INFO ProductController : GetAllProducts
+2022-12-09 10:40:27.8639 INFO GenerictRepository: GetAll
+2022-12-09 10:40:27.8800 INFO BuyOrderController : GetAlls
+2022-12-09 10:40:27.8800 INFO GenerictRepository: GetAll
+2022-12-09 10:40:45.6615 INFO BuyOrderController : GetAlls
+2022-12-09 10:40:45.6615 INFO GenerictRepository: GetAll
+2022-12-09 10:40:47.9783 INFO ProductController : GetAllProducts
+2022-12-09 10:40:47.9783 INFO GenerictRepository: GetAll
+2022-12-09 10:42:08.9373 INFO BuyOrderController : GetAlls
+2022-12-09 10:42:08.9373 INFO GenerictRepository: GetAll
+2022-12-09 10:42:08.9373 INFO ProductController : GetAllProducts
+2022-12-09 10:42:08.9373 INFO GenerictRepository: GetAll
+2022-12-09 10:42:16.4985 INFO BuyOrderController : GetAlls
+2022-12-09 10:42:16.4985 INFO GenerictRepository: GetAll
+2022-12-09 10:42:17.4388 INFO ProductController : GetAllProducts
+2022-12-09 10:42:17.4388 INFO GenerictRepository: GetAll
+2022-12-09 10:43:35.2801 INFO ProductController : GetAllProducts
+2022-12-09 10:43:35.2801 INFO GenerictRepository: GetAll
+2022-12-09 10:43:49.1406 INFO BuyOrderController : Post
+2022-12-09 10:43:49.1470 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 10:43:49.1470 INFO GenerictRepository: Create
+2022-12-09 10:43:49.2174 INFO GenerictRepository: Save
+2022-12-09 10:43:53.6525 INFO BuyOrderController : GetAlls
+2022-12-09 10:43:53.6525 INFO GenerictRepository: GetAll
+2022-12-09 10:43:55.7208 INFO BuyOrderController : GetAlls
+2022-12-09 10:43:55.7208 INFO GenerictRepository: GetAll
+2022-12-09 10:44:00.2343 INFO BuyOrderController : Delete
+2022-12-09 10:44:00.2343 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 10:44:00.2343 INFO GenerictRepository: DeleteById
+2022-12-09 10:44:00.2579 INFO GenerictRepository: Save
+2022-12-09 10:44:00.2920 INFO BuyOrderController : GetAlls
+2022-12-09 10:44:00.2920 INFO GenerictRepository: GetAll
+2022-12-09 10:44:04.3395 INFO ProductController : GetAllProducts
+2022-12-09 10:44:04.3395 INFO GenerictRepository: GetAll
+2022-12-09 10:44:33.6268 INFO ProductController : GetAllProducts
+2022-12-09 10:44:33.6268 INFO GenerictRepository: GetAll
+2022-12-09 10:44:33.6399 INFO BuyOrderController : GetAlls
+2022-12-09 10:44:33.6399 INFO GenerictRepository: GetAll
+2022-12-09 10:44:47.9776 INFO BuyOrderController : GetAlls
+2022-12-09 10:44:47.9776 INFO GenerictRepository: GetAll
+2022-12-09 10:44:47.9776 INFO ProductController : GetAllProducts
+2022-12-09 10:44:47.9776 INFO GenerictRepository: GetAll
+2022-12-09 10:44:52.0809 INFO BuyOrderController : GetAlls
+2022-12-09 10:44:52.0818 INFO GenerictRepository: GetAll
+2022-12-09 10:44:52.3289 INFO ProductController : GetAllProducts
+2022-12-09 10:44:52.3289 INFO GenerictRepository: GetAll
+2022-12-09 10:45:40.4124 INFO BuyOrderController : GetAlls
+2022-12-09 10:45:40.4124 INFO GenerictRepository: GetAll
+2022-12-09 10:45:40.4124 INFO ProductController : GetAllProducts
+2022-12-09 10:45:40.4124 INFO GenerictRepository: GetAll
+2022-12-09 10:45:43.5512 INFO CustomerController : GetAll
+2022-12-09 10:45:43.5512 INFO GenerictRepository: GetAll
+2022-12-09 10:45:44.5197 INFO BuyOrderController : GetAlls
+2022-12-09 10:45:44.5197 INFO GenerictRepository: GetAll
+2022-12-09 10:45:45.7294 INFO ProductController : GetAllProducts
+2022-12-09 10:45:45.7294 INFO GenerictRepository: GetAll
+2022-12-09 10:45:47.3168 INFO BuyOrderController : GetAlls
+2022-12-09 10:45:47.3168 INFO GenerictRepository: GetAll
+2022-12-09 10:45:47.3168 INFO ProductController : GetAllProducts
+2022-12-09 10:45:47.3168 INFO GenerictRepository: GetAll
+2022-12-09 10:46:18.4703 INFO BuyOrderController : GetAlls
+2022-12-09 10:46:18.4703 INFO GenerictRepository: GetAll
+2022-12-09 10:46:18.4703 INFO ProductController : GetAllProducts
+2022-12-09 10:46:18.4703 INFO GenerictRepository: GetAll
+2022-12-09 10:46:22.8350 INFO BuyOrderController : GetAlls
+2022-12-09 10:46:22.8350 INFO GenerictRepository: GetAll
+2022-12-09 10:46:22.8350 INFO ProductController : GetAllProducts
+2022-12-09 10:46:22.8350 INFO GenerictRepository: GetAll
+2022-12-09 10:46:43.1766 INFO BuyOrderController : Post
+2022-12-09 10:46:43.1766 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 10:46:43.1766 INFO GenerictRepository: Create
+2022-12-09 10:46:43.1766 INFO GenerictRepository: Save
+2022-12-09 10:46:43.2236 INFO BuyOrderController : GetAlls
+2022-12-09 10:46:43.2236 INFO GenerictRepository: GetAll
+2022-12-09 10:46:47.6193 INFO ProductController : GetAllProducts
+2022-12-09 10:46:47.6193 INFO GenerictRepository: GetAll
+2022-12-09 10:46:47.6193 INFO BuyOrderController : GetProductById
+2022-12-09 10:46:47.6193 INFO GenerictRepository: GetAll
+2022-12-09 10:55:15.2446 INFO BuyOrderController : GetAlls
+2022-12-09 10:55:15.2448 INFO GenerictRepository: GetAll
+2022-12-09 10:55:15.2448 INFO ProductController : GetAllProducts
+2022-12-09 10:55:15.2448 INFO GenerictRepository: GetAll
+2022-12-09 10:55:15.2448 INFO BuyOrderController : GetProductById
+2022-12-09 10:55:15.2448 INFO GenerictRepository: GetAll
+2022-12-09 10:57:51.7236 INFO BuyOrderController : GetAlls
+2022-12-09 10:57:51.7236 INFO GenerictRepository: GetAll
+2022-12-09 10:57:51.7236 INFO ProductController : GetAllProducts
+2022-12-09 10:57:51.7236 INFO GenerictRepository: GetAll
+2022-12-09 10:57:51.7292 INFO BuyOrderController : GetProductById
+2022-12-09 10:57:51.7292 INFO GenerictRepository: GetAll
+2022-12-09 10:58:23.1833 INFO BuyOrderController : GetAlls
+2022-12-09 10:58:23.1833 INFO GenerictRepository: GetAll
+2022-12-09 10:58:23.1833 INFO ProductController : GetAllProducts
+2022-12-09 10:58:23.1833 INFO GenerictRepository: GetAll
+2022-12-09 10:58:23.1833 INFO BuyOrderController : GetProductById
+2022-12-09 10:58:23.1833 INFO GenerictRepository: GetAll
+2022-12-09 10:58:34.4588 INFO BuyOrderController : GetAlls
+2022-12-09 10:58:34.4588 INFO GenerictRepository: GetAll
+2022-12-09 10:58:34.4588 INFO ProductController : GetAllProducts
+2022-12-09 10:58:34.4588 INFO GenerictRepository: GetAll
+2022-12-09 10:58:34.4588 INFO BuyOrderController : GetProductById
+2022-12-09 10:58:34.4588 INFO GenerictRepository: GetAll
+2022-12-09 10:58:47.0393 INFO BuyOrderController : GetAlls
+2022-12-09 10:58:47.0393 INFO GenerictRepository: GetAll
+2022-12-09 10:59:19.7539 INFO BuyOrderController : GetAlls
+2022-12-09 10:59:19.7539 INFO GenerictRepository: GetAll
+2022-12-09 11:00:09.3064 INFO BuyOrderController : GetAlls
+2022-12-09 11:00:09.3064 INFO GenerictRepository: GetAll
+2022-12-09 11:00:15.2682 INFO BuyOrderController : GetAlls
+2022-12-09 11:00:15.2682 INFO GenerictRepository: GetAll
+2022-12-09 11:00:17.8865 INFO CustomerController : GetAll
+2022-12-09 11:00:17.8865 INFO GenerictRepository: GetAll
+2022-12-09 11:00:18.3618 INFO BuyOrderController : GetAlls
+2022-12-09 11:00:18.3618 INFO GenerictRepository: GetAll
+2022-12-09 11:00:21.2273 INFO BuyOrderController : GetAlls
+2022-12-09 11:00:21.2273 INFO GenerictRepository: GetAll
+2022-12-09 11:00:22.3194 INFO ProductController : GetAllProducts
+2022-12-09 11:00:22.3194 INFO GenerictRepository: GetAll
+2022-12-09 11:01:03.6050 INFO BuyOrderController : GetAlls
+2022-12-09 11:01:03.6050 INFO GenerictRepository: GetAll
+2022-12-09 11:01:05.8951 INFO ProductController : GetAllProducts
+2022-12-09 11:01:05.8951 INFO GenerictRepository: GetAll
+2022-12-09 11:01:08.7180 INFO ProductController : GetAllProducts
+2022-12-09 11:01:08.7180 INFO GenerictRepository: GetAll
+2022-12-09 11:01:37.0681 INFO BuyOrderController : GetAlls
+2022-12-09 11:01:37.0681 INFO GenerictRepository: GetAll
+2022-12-09 11:01:40.4180 INFO BuyOrderController : GetAlls
+2022-12-09 11:01:40.4180 INFO GenerictRepository: GetAll
+2022-12-09 11:01:44.2768 INFO ProductController : GetAllProducts
+2022-12-09 11:01:44.2768 INFO GenerictRepository: GetAll
+2022-12-09 11:01:44.2768 INFO BuyOrderController : GetProductById
+2022-12-09 11:01:44.2768 INFO GenerictRepository: GetAll
+2022-12-09 11:18:46.3436 INFO BuyOrderController : GetAlls
+2022-12-09 11:18:46.3436 INFO BuyOrderController : GetProductById
+2022-12-09 11:18:46.3436 INFO GenerictRepository: GetAll
+2022-12-09 11:18:46.3436 INFO GenerictRepository: GetAll
+2022-12-09 11:18:46.3436 INFO ProductController : GetAllProducts
+2022-12-09 11:18:46.3436 INFO GenerictRepository: GetAll
+2022-12-09 11:18:48.4687 INFO CustomerController : GetAll
+2022-12-09 11:18:48.4687 INFO GenerictRepository: GetAll
+2022-12-09 11:18:50.3663 INFO BuyOrderController : GetAlls
+2022-12-09 11:18:50.3663 INFO GenerictRepository: GetAll
+2022-12-09 11:18:52.3362 INFO BuyOrderController : GetAlls
+2022-12-09 11:18:52.3362 INFO GenerictRepository: GetAll
+2022-12-09 11:18:54.8465 INFO ProductController : GetAllProducts
+2022-12-09 11:18:54.8465 INFO GenerictRepository: GetAll
+2022-12-09 11:18:54.8465 INFO BuyOrderController : GetProductById
+2022-12-09 11:18:54.8465 INFO GenerictRepository: GetAll
+2022-12-09 11:23:06.7623 INFO BuyOrderController : GetAlls
+2022-12-09 11:23:06.7623 INFO GenerictRepository: GetAll
+2022-12-09 11:23:06.7623 INFO ProductController : GetAllProducts
+2022-12-09 11:23:06.7623 INFO GenerictRepository: GetAll
+2022-12-09 11:23:06.7623 INFO BuyOrderController : GetProductById
+2022-12-09 11:23:06.7623 INFO GenerictRepository: GetAll
+2022-12-09 11:24:29.8888 INFO BuyOrderController : GetAlls
+2022-12-09 11:24:29.8888 INFO GenerictRepository: GetAll
+2022-12-09 11:24:29.8888 INFO ProductController : GetAllProducts
+2022-12-09 11:24:29.8888 INFO GenerictRepository: GetAll
+2022-12-09 11:24:29.8888 INFO BuyOrderController : GetProductById
+2022-12-09 11:24:29.8888 INFO GenerictRepository: GetAll
+2022-12-09 11:24:41.2550 INFO BuyOrderController : GetAlls
+2022-12-09 11:24:41.2550 INFO GenerictRepository: GetAll
+2022-12-09 11:24:41.2550 INFO ProductController : GetAllProducts
+2022-12-09 11:24:41.2550 INFO GenerictRepository: GetAll
+2022-12-09 11:24:41.2617 INFO BuyOrderController : GetProductById
+2022-12-09 11:24:41.2617 INFO GenerictRepository: GetAll
+2022-12-09 11:26:06.3035 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:06.3035 INFO GenerictRepository: GetAll
+2022-12-09 11:26:13.1691 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:13.1691 INFO GenerictRepository: GetAll
+2022-12-09 11:26:14.2359 INFO ProductController : GetAllProducts
+2022-12-09 11:26:14.2359 INFO GenerictRepository: GetAll
+2022-12-09 11:26:31.3958 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:31.3958 INFO GenerictRepository: GetAll
+2022-12-09 11:26:31.3958 INFO ProductController : GetAllProducts
+2022-12-09 11:26:31.3958 INFO GenerictRepository: GetAll
+2022-12-09 11:26:32.9944 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:32.9944 INFO GenerictRepository: GetAll
+2022-12-09 11:26:33.0082 INFO ProductController : GetAllProducts
+2022-12-09 11:26:33.0082 INFO GenerictRepository: GetAll
+2022-12-09 11:26:36.6014 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:36.6014 INFO GenerictRepository: GetAll
+2022-12-09 11:26:36.6060 INFO ProductController : GetAllProducts
+2022-12-09 11:26:36.6060 INFO GenerictRepository: GetAll
+2022-12-09 11:26:40.5761 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:40.5761 INFO GenerictRepository: GetAll
+2022-12-09 11:26:40.5761 INFO ProductController : GetAllProducts
+2022-12-09 11:26:40.5761 INFO GenerictRepository: GetAll
+2022-12-09 11:26:44.7616 INFO BuyOrderController : GetAlls
+2022-12-09 11:26:44.7616 INFO GenerictRepository: GetAll
+2022-12-09 11:26:46.3330 INFO ProductController : GetAllProducts
+2022-12-09 11:26:46.3330 INFO GenerictRepository: GetAll
+2022-12-09 11:27:49.3920 INFO BuyOrderController : Post
+2022-12-09 11:27:49.3920 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 11:27:49.3920 INFO GenerictRepository: Create
+2022-12-09 11:27:49.3920 INFO GenerictRepository: Save
+2022-12-09 11:27:49.4131 INFO BuyOrderController : GetAlls
+2022-12-09 11:27:49.4131 INFO GenerictRepository: GetAll
+2022-12-09 11:27:52.5287 INFO BuyOrderController : GetAlls
+2022-12-09 11:27:52.5287 INFO GenerictRepository: GetAll
+2022-12-09 11:27:53.7144 INFO ProductController : GetAllProducts
+2022-12-09 11:27:53.7144 INFO GenerictRepository: GetAll
+2022-12-09 11:27:53.7144 INFO BuyOrderController : GetProductById
+2022-12-09 11:27:53.7144 INFO GenerictRepository: GetAll
+2022-12-09 11:31:12.3762 INFO BuyOrderController : GetAlls
+2022-12-09 11:31:12.3762 INFO GenerictRepository: GetAll
+2022-12-09 11:31:12.3762 INFO ProductController : GetAllProducts
+2022-12-09 11:31:12.3762 INFO GenerictRepository: GetAll
+2022-12-09 11:31:12.3851 INFO BuyOrderController : GetProductById
+2022-12-09 11:31:12.3851 INFO GenerictRepository: GetAll
+2022-12-09 11:32:01.4470 INFO BuyOrderController : GetAlls
+2022-12-09 11:32:01.4470 INFO GenerictRepository: GetAll
+2022-12-09 11:32:01.4470 INFO ProductController : GetAllProducts
+2022-12-09 11:32:01.4470 INFO GenerictRepository: GetAll
+2022-12-09 11:32:01.4670 INFO BuyOrderController : GetProductById
+2022-12-09 11:32:01.4670 INFO GenerictRepository: GetAll
+2022-12-09 11:32:17.5014 INFO BuyOrderController : GetAlls
+2022-12-09 11:32:17.5014 INFO GenerictRepository: GetAll
+2022-12-09 11:32:17.5014 INFO ProductController : GetAllProducts
+2022-12-09 11:32:17.5014 INFO GenerictRepository: GetAll
+2022-12-09 11:32:17.5014 INFO BuyOrderController : GetProductById
+2022-12-09 11:32:17.5014 INFO GenerictRepository: GetAll
+2022-12-09 11:33:28.9626 INFO BuyOrderController : GetAlls
+2022-12-09 11:33:28.9626 INFO GenerictRepository: GetAll
+2022-12-09 11:33:28.9626 INFO ProductController : GetAllProducts
+2022-12-09 11:33:28.9626 INFO GenerictRepository: GetAll
+2022-12-09 11:33:28.9626 INFO BuyOrderController : GetProductById
+2022-12-09 11:33:28.9626 INFO GenerictRepository: GetAll
+2022-12-09 11:33:30.8459 INFO BuyOrderController : GetAlls
+2022-12-09 11:33:30.8459 INFO GenerictRepository: GetAll
+2022-12-09 11:33:30.8459 INFO ProductController : GetAllProducts
+2022-12-09 11:33:30.8459 INFO GenerictRepository: GetAll
+2022-12-09 11:33:30.8700 INFO BuyOrderController : GetProductById
+2022-12-09 11:33:30.8700 INFO GenerictRepository: GetAll
+2022-12-09 11:33:53.7433 INFO BuyOrderController : GetAlls
+2022-12-09 11:33:53.7433 INFO GenerictRepository: GetAll
+2022-12-09 11:33:53.7433 INFO ProductController : GetAllProducts
+2022-12-09 11:33:53.7433 INFO GenerictRepository: GetAll
+2022-12-09 11:33:53.7433 INFO BuyOrderController : GetProductById
+2022-12-09 11:33:53.7433 INFO GenerictRepository: GetAll
+2022-12-09 11:34:01.1683 INFO BuyOrderController : GetAlls
+2022-12-09 11:34:01.1683 INFO GenerictRepository: GetAll
+2022-12-09 11:34:01.1683 INFO ProductController : GetAllProducts
+2022-12-09 11:34:01.1683 INFO GenerictRepository: GetAll
+2022-12-09 11:34:01.1683 INFO BuyOrderController : GetProductById
+2022-12-09 11:34:01.1683 INFO GenerictRepository: GetAll
+2022-12-09 11:36:48.8553 INFO BuyOrderController : GetAlls
+2022-12-09 11:36:48.8553 INFO GenerictRepository: GetAll
+2022-12-09 11:36:48.8553 INFO ProductController : GetAllProducts
+2022-12-09 11:36:48.8553 INFO GenerictRepository: GetAll
+2022-12-09 11:36:48.8678 INFO BuyOrderController : GetProductById
+2022-12-09 11:36:48.8678 INFO GenerictRepository: GetAll
+2022-12-09 11:37:16.3271 INFO BuyOrderController : GetAlls
+2022-12-09 11:37:16.3271 INFO GenerictRepository: GetAll
+2022-12-09 11:37:16.3271 INFO ProductController : GetAllProducts
+2022-12-09 11:37:16.3271 INFO GenerictRepository: GetAll
+2022-12-09 11:37:16.3372 INFO BuyOrderController : GetProductById
+2022-12-09 11:37:16.3372 INFO GenerictRepository: GetAll
+2022-12-09 11:37:30.1205 INFO BuyOrderController : GetAlls
+2022-12-09 11:37:30.1205 INFO GenerictRepository: GetAll
+2022-12-09 11:37:30.1205 INFO ProductController : GetAllProducts
+2022-12-09 11:37:30.1205 INFO GenerictRepository: GetAll
+2022-12-09 11:37:30.1205 INFO BuyOrderController : GetProductById
+2022-12-09 11:37:30.1205 INFO GenerictRepository: GetAll
+2022-12-09 11:37:42.2706 INFO BuyOrderController : GetAlls
+2022-12-09 11:37:42.2706 INFO GenerictRepository: GetAll
+2022-12-09 11:37:42.2836 INFO ProductController : GetAllProducts
+2022-12-09 11:37:42.2836 INFO GenerictRepository: GetAll
+2022-12-09 11:37:42.2836 INFO BuyOrderController : GetProductById
+2022-12-09 11:37:42.2836 INFO GenerictRepository: GetAll
+2022-12-09 11:37:44.3332 INFO BuyOrderController : GetAlls
+2022-12-09 11:37:44.3332 INFO GenerictRepository: GetAll
+2022-12-09 11:37:48.5080 INFO ProductController : GetAllProducts
+2022-12-09 11:37:48.5080 INFO GenerictRepository: GetAll
+2022-12-09 11:37:48.5080 INFO BuyOrderController : GetProductById
+2022-12-09 11:37:48.5080 INFO GenerictRepository: GetAll
+2022-12-09 11:39:35.1682 INFO BuyOrderController : GetAlls
+2022-12-09 11:39:35.1682 INFO GenerictRepository: GetAll
+2022-12-09 11:39:35.1682 INFO ProductController : GetAllProducts
+2022-12-09 11:39:35.1682 INFO GenerictRepository: GetAll
+2022-12-09 11:39:35.1682 INFO BuyOrderController : GetProductById
+2022-12-09 11:39:35.1682 INFO GenerictRepository: GetAll
+2022-12-09 11:40:21.5310 INFO BuyOrderController : GetAlls
+2022-12-09 11:40:21.5310 INFO GenerictRepository: GetAll
+2022-12-09 11:40:21.5362 INFO ProductController : GetAllProducts
+2022-12-09 11:40:21.5362 INFO GenerictRepository: GetAll
+2022-12-09 11:40:21.5362 INFO BuyOrderController : GetProductById
+2022-12-09 11:40:21.5362 INFO GenerictRepository: GetAll
+2022-12-09 11:40:29.1901 INFO BuyOrderController : GetAlls
+2022-12-09 11:40:29.1901 INFO GenerictRepository: GetAll
+2022-12-09 11:40:29.1901 INFO ProductController : GetAllProducts
+2022-12-09 11:40:29.1901 INFO GenerictRepository: GetAll
+2022-12-09 11:40:29.1901 INFO BuyOrderController : GetProductById
+2022-12-09 11:40:29.1901 INFO GenerictRepository: GetAll
+2022-12-09 11:40:37.5976 INFO BuyOrderController : GetAlls
+2022-12-09 11:40:37.5976 INFO GenerictRepository: GetAll
+2022-12-09 11:40:37.5976 INFO ProductController : GetAllProducts
+2022-12-09 11:40:37.5976 INFO GenerictRepository: GetAll
+2022-12-09 11:40:37.5976 INFO BuyOrderController : GetProductById
+2022-12-09 11:40:37.5976 INFO GenerictRepository: GetAll
+2022-12-09 11:40:45.0893 INFO BuyOrderController : GetAlls
+2022-12-09 11:40:45.0893 INFO GenerictRepository: GetAll
+2022-12-09 11:40:45.0964 INFO ProductController : GetAllProducts
+2022-12-09 11:40:45.0964 INFO GenerictRepository: GetAll
+2022-12-09 11:40:45.0964 INFO BuyOrderController : GetProductById
+2022-12-09 11:40:45.0964 INFO GenerictRepository: GetAll
+2022-12-09 11:41:10.2364 INFO BuyOrderController : GetAlls
+2022-12-09 11:41:10.2364 INFO GenerictRepository: GetAll
+2022-12-09 11:41:10.2364 INFO BuyOrderController : GetProductById
+2022-12-09 11:41:10.2364 INFO GenerictRepository: GetAll
+2022-12-09 11:41:10.2364 INFO ProductController : GetAllProducts
+2022-12-09 11:41:10.2364 INFO GenerictRepository: GetAll
+2022-12-09 11:41:13.8559 INFO BuyOrderController : GetAlls
+2022-12-09 11:41:13.8559 INFO GenerictRepository: GetAll
+2022-12-09 11:41:15.7477 INFO ProductController : GetAllProducts
+2022-12-09 11:41:15.7477 INFO GenerictRepository: GetAll
+2022-12-09 11:41:15.7477 INFO BuyOrderController : GetProductById
+2022-12-09 11:41:15.7477 INFO GenerictRepository: GetAll
+2022-12-09 11:41:48.2722 INFO BuyOrderController : GetAlls
+2022-12-09 11:41:48.2722 INFO GenerictRepository: GetAll
+2022-12-09 11:41:48.2849 INFO ProductController : GetAllProducts
+2022-12-09 11:41:48.2849 INFO GenerictRepository: GetAll
+2022-12-09 11:41:48.2979 INFO BuyOrderController : GetProductById
+2022-12-09 11:41:48.2979 INFO GenerictRepository: GetAll
+2022-12-09 11:41:55.3446 INFO BuyOrderController : GetAlls
+2022-12-09 11:41:55.3446 INFO GenerictRepository: GetAll
+2022-12-09 11:41:55.3446 INFO ProductController : GetAllProducts
+2022-12-09 11:41:55.3446 INFO GenerictRepository: GetAll
+2022-12-09 11:41:55.3446 INFO BuyOrderController : GetProductById
+2022-12-09 11:41:55.3446 INFO GenerictRepository: GetAll
+2022-12-09 11:42:37.7656 INFO BuyOrderController : GetAlls
+2022-12-09 11:42:37.7656 INFO GenerictRepository: GetAll
+2022-12-09 11:42:37.7672 INFO ProductController : GetAllProducts
+2022-12-09 11:42:37.7672 INFO GenerictRepository: GetAll
+2022-12-09 11:42:37.7672 INFO BuyOrderController : GetProductById
+2022-12-09 11:42:37.7672 INFO GenerictRepository: GetAll
+2022-12-09 11:42:45.3902 INFO BuyOrderController : GetAlls
+2022-12-09 11:42:45.3902 INFO GenerictRepository: GetAll
+2022-12-09 11:42:48.7554 INFO BuyOrderController : GetAlls
+2022-12-09 11:42:48.7554 INFO GenerictRepository: GetAll
+2022-12-09 11:42:58.0628 INFO ProductController : GetAllProducts
+2022-12-09 11:42:58.0628 INFO GenerictRepository: GetAll
+2022-12-09 11:42:58.8227 INFO CustomerController : GetAll
+2022-12-09 11:42:58.8227 INFO GenerictRepository: GetAll
+2022-12-09 11:43:00.0508 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:00.0508 INFO GenerictRepository: GetAll
+2022-12-09 11:43:01.8288 INFO ProductController : GetAllProducts
+2022-12-09 11:43:01.8288 INFO GenerictRepository: GetAll
+2022-12-09 11:43:21.0063 INFO BuyOrderController : Post
+2022-12-09 11:43:21.0063 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 11:43:21.0063 INFO GenerictRepository: Create
+2022-12-09 11:43:21.0063 INFO GenerictRepository: Save
+2022-12-09 11:43:21.0319 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:21.0319 INFO GenerictRepository: GetAll
+2022-12-09 11:43:21.0319 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:21.0319 INFO GenerictRepository: GetAll
+2022-12-09 11:43:26.3902 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:26.3902 INFO GenerictRepository: GetAll
+2022-12-09 11:43:53.3980 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:53.3980 INFO GenerictRepository: GetAll
+2022-12-09 11:43:56.1625 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:56.1625 INFO GenerictRepository: GetAll
+2022-12-09 11:43:59.8721 INFO BuyOrderController : GetAlls
+2022-12-09 11:43:59.8721 INFO GenerictRepository: GetAll
+2022-12-09 11:44:00.4461 INFO ProductController : GetAllProducts
+2022-12-09 11:44:00.4461 INFO GenerictRepository: GetAll
+2022-12-09 11:44:20.7163 INFO BuyOrderController : Post
+2022-12-09 11:44:20.7163 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 11:44:20.7163 INFO GenerictRepository: Create
+2022-12-09 11:44:20.7180 INFO GenerictRepository: Save
+2022-12-09 11:44:20.7380 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:20.7380 INFO GenerictRepository: GetAll
+2022-12-09 11:44:28.0628 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:28.0628 INFO GenerictRepository: GetAll
+2022-12-09 11:44:40.7064 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:40.7064 INFO GenerictRepository: GetAll
+2022-12-09 11:44:41.6988 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:41.6988 INFO GenerictRepository: GetAll
+2022-12-09 11:44:47.7831 INFO BuyOrderController : Delete
+2022-12-09 11:44:47.7831 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 11:44:47.7831 INFO GenerictRepository: DeleteById
+2022-12-09 11:44:47.7831 INFO GenerictRepository: Save
+2022-12-09 11:44:47.8037 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:47.8037 INFO GenerictRepository: GetAll
+2022-12-09 11:44:52.0298 INFO BuyOrderController : Delete
+2022-12-09 11:44:52.0298 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 11:44:52.0298 INFO GenerictRepository: DeleteById
+2022-12-09 11:44:52.0317 INFO GenerictRepository: Save
+2022-12-09 11:44:52.0490 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:52.0490 INFO GenerictRepository: GetAll
+2022-12-09 11:44:53.7058 INFO BuyOrderController : GetAlls
+2022-12-09 11:44:53.7058 INFO GenerictRepository: GetAll
+2022-12-09 11:45:00.2663 INFO BuyOrderController : GetAlls
+2022-12-09 11:45:00.2663 INFO GenerictRepository: GetAll
+2022-12-09 11:45:31.6404 INFO BuyOrderController : GetAlls
+2022-12-09 11:45:31.6404 INFO GenerictRepository: GetAll
+2022-12-09 11:46:25.5110 INFO CustomerController : GetAll
+2022-12-09 11:46:25.5110 INFO GenerictRepository: GetAll
+2022-12-09 11:46:40.6050 INFO BuyOrderController : GetAlls
+2022-12-09 11:46:40.6050 INFO GenerictRepository: GetAll
+2022-12-09 11:46:43.8210 INFO ProductController : GetAllProducts
+2022-12-09 11:46:43.8210 INFO GenerictRepository: GetAll
+2022-12-09 11:46:43.8210 INFO BuyOrderController : GetProductById
+2022-12-09 11:46:43.8210 INFO GenerictRepository: GetAll
+2022-12-09 11:47:31.3020 INFO BuyOrderController : GetAlls
+2022-12-09 11:47:31.3020 INFO GenerictRepository: GetAll
+2022-12-09 11:47:32.6699 INFO ProductController : GetAllProducts
+2022-12-09 11:47:32.6699 INFO GenerictRepository: GetAll
+2022-12-09 11:47:35.9667 INFO ProductController : GetAllProducts
+2022-12-09 11:47:35.9667 INFO GenerictRepository: GetAll
+2022-12-09 11:47:35.9679 INFO BuyOrderController : GetProductById
+2022-12-09 11:47:35.9679 INFO GenerictRepository: GetAll
+2022-12-09 11:47:50.8378 INFO BuyOrderController : GetAlls
+2022-12-09 11:47:50.8378 INFO GenerictRepository: GetAll
+2022-12-09 11:47:50.8378 INFO ProductController : GetAllProducts
+2022-12-09 11:47:50.8378 INFO GenerictRepository: GetAll
+2022-12-09 11:47:50.8459 INFO BuyOrderController : GetProductById
+2022-12-09 11:47:50.8459 INFO GenerictRepository: GetAll
+2022-12-09 11:47:53.8878 INFO BuyOrderController : GetProductById
+2022-12-09 11:47:53.8878 INFO GenerictRepository: GetAll
+2022-12-09 11:47:53.8878 INFO BuyOrderController : GetAlls
+2022-12-09 11:47:53.8878 INFO GenerictRepository: GetAll
+2022-12-09 11:47:53.8905 INFO ProductController : GetAllProducts
+2022-12-09 11:47:53.8905 INFO GenerictRepository: GetAll
+2022-12-09 11:47:57.5289 INFO BuyOrderController : GetAlls
+2022-12-09 11:47:57.5289 INFO GenerictRepository: GetAll
+2022-12-09 11:47:59.6229 INFO ProductController : GetAllProducts
+2022-12-09 11:47:59.6229 INFO GenerictRepository: GetAll
+2022-12-09 11:48:22.2127 INFO BuyOrderController : GetAlls
+2022-12-09 11:48:22.2127 INFO GenerictRepository: GetAll
+2022-12-09 11:48:22.2127 INFO ProductController : GetAllProducts
+2022-12-09 11:48:22.2127 INFO GenerictRepository: GetAll
+2022-12-09 11:48:24.4633 INFO BuyOrderController : GetAlls
+2022-12-09 11:48:24.4633 INFO GenerictRepository: GetAll
+2022-12-09 11:48:24.4633 INFO ProductController : GetAllProducts
+2022-12-09 11:48:24.4633 INFO GenerictRepository: GetAll
+2022-12-09 11:48:30.3038 INFO BuyOrderController : GetAlls
+2022-12-09 11:48:30.3038 INFO GenerictRepository: GetAll
+2022-12-09 11:48:30.3038 INFO ProductController : GetAllProducts
+2022-12-09 11:48:30.3038 INFO GenerictRepository: GetAll
+2022-12-09 11:48:36.8065 INFO BuyOrderController : GetAlls
+2022-12-09 11:48:36.8065 INFO GenerictRepository: GetAll
+2022-12-09 11:48:42.2714 INFO BuyOrderController : GetAlls
+2022-12-09 11:48:42.2714 INFO GenerictRepository: GetAll
+2022-12-09 11:48:45.1156 INFO BuyOrderController : GetAlls
+2022-12-09 11:48:45.1156 INFO GenerictRepository: GetAll
+2022-12-09 11:48:48.6702 INFO ProductController : GetAllProducts
+2022-12-09 11:48:48.6702 INFO GenerictRepository: GetAll
+2022-12-09 11:48:48.6702 INFO BuyOrderController : GetProductById
+2022-12-09 11:48:48.6702 INFO GenerictRepository: GetAll
+2022-12-09 11:49:54.6328 INFO BuyOrderController : GetAlls
+2022-12-09 11:49:54.6328 INFO GenerictRepository: GetAll
+2022-12-09 11:49:54.6328 INFO ProductController : GetAllProducts
+2022-12-09 11:49:54.6328 INFO GenerictRepository: GetAll
+2022-12-09 11:49:54.6389 INFO BuyOrderController : GetProductById
+2022-12-09 11:49:54.6389 INFO GenerictRepository: GetAll
+2022-12-09 11:50:00.0203 INFO BuyOrderController : GetAlls
+2022-12-09 11:50:00.0203 INFO GenerictRepository: GetAll
+2022-12-09 11:50:01.3415 INFO ProductController : GetAllProducts
+2022-12-09 11:50:01.3415 INFO GenerictRepository: GetAll
+2022-12-09 11:50:13.8150 INFO BuyOrderController : Post
+2022-12-09 11:50:13.8150 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 11:50:13.8150 INFO GenerictRepository: Create
+2022-12-09 11:50:13.8150 INFO GenerictRepository: Save
+2022-12-09 11:50:13.8323 INFO BuyOrderController : GetAlls
+2022-12-09 11:50:13.8323 INFO GenerictRepository: GetAll
+2022-12-09 11:50:17.9596 INFO ProductController : GetAllProducts
+2022-12-09 11:50:17.9596 INFO GenerictRepository: GetAll
+2022-12-09 11:50:17.9596 INFO BuyOrderController : GetProductById
+2022-12-09 11:50:17.9596 INFO GenerictRepository: GetAll
+2022-12-09 11:50:25.6042 INFO BuyOrderController : Delete
+2022-12-09 11:50:25.6042 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 11:50:25.6042 INFO GenerictRepository: DeleteById
+2022-12-09 11:50:25.6160 INFO GenerictRepository: Save
+2022-12-09 11:50:25.6274 INFO BuyOrderController : GetAlls
+2022-12-09 11:50:25.6274 INFO GenerictRepository: GetAll
+2022-12-09 11:50:35.8023 INFO BuyOrderController : GetAlls
+2022-12-09 11:50:35.8023 INFO GenerictRepository: GetAll
+2022-12-09 11:50:38.5028 INFO BuyOrderController : GetAlls
+2022-12-09 11:50:38.5028 INFO GenerictRepository: GetAll
+2022-12-09 11:50:49.0575 INFO CustomerController : GetAll
+2022-12-09 11:50:49.0575 INFO GenerictRepository: GetAll
+2022-12-09 11:50:51.9023 INFO ProductController : GetAllProducts
+2022-12-09 11:50:51.9023 INFO GenerictRepository: GetAll
+2022-12-09 11:50:55.0342 INFO BuyOrderController : GetAlls
+2022-12-09 11:50:55.0342 INFO GenerictRepository: GetAll
+2022-12-09 13:32:22.7953 INFO CustomerController : GetAll
+2022-12-09 13:32:22.7953 INFO GenerictRepository: GetAll
+2022-12-09 13:32:23.7426 INFO ProductController : GetAllProducts
+2022-12-09 13:32:23.7426 INFO GenerictRepository: GetAll
+2022-12-09 13:32:24.6771 INFO CustomerController : GetAll
+2022-12-09 13:32:24.6771 INFO GenerictRepository: GetAll
+2022-12-09 13:32:25.8066 INFO BuyOrderController : GetAlls
+2022-12-09 13:32:25.8066 INFO GenerictRepository: GetAll
+2022-12-09 13:37:34.5466 INFO BuyOrderController : GetAlls
+2022-12-09 13:37:34.5466 INFO GenerictRepository: GetAll
+2022-12-09 13:39:16.4964 INFO CustomerController : GetAll
+2022-12-09 13:39:16.4964 INFO GenerictRepository: GetAll
+2022-12-09 13:39:16.9338 INFO ProductController : GetAllProducts
+2022-12-09 13:39:16.9338 INFO GenerictRepository: GetAll
+2022-12-09 13:39:17.8463 INFO CustomerController : GetAll
+2022-12-09 13:39:17.8463 INFO GenerictRepository: GetAll
+2022-12-09 13:39:18.2664 INFO BuyOrderController : GetAlls
+2022-12-09 13:39:18.2664 INFO GenerictRepository: GetAll
+2022-12-09 13:39:18.8919 INFO CustomerController : GetAll
+2022-12-09 13:39:18.8919 INFO GenerictRepository: GetAll
+2022-12-09 13:39:19.4178 INFO ProductController : GetAllProducts
+2022-12-09 13:39:19.4178 INFO GenerictRepository: GetAll
+2022-12-09 13:44:01.0868 INFO ProductController : GetAllProducts
+2022-12-09 13:44:01.0868 INFO GenerictRepository: GetAll
+2022-12-09 13:55:32.0684 INFO BuyOrderController : GetAlls
+2022-12-09 13:55:32.0684 INFO GenerictRepository: GetAll
+2022-12-09 13:55:43.8242 INFO ProductController : GetAllProducts
+2022-12-09 13:55:43.8242 INFO GenerictRepository: GetAll
+2022-12-09 13:55:43.8290 INFO BuyOrderController : GetProductById
+2022-12-09 13:55:43.8290 INFO GenerictRepository: GetAll
+2022-12-09 13:56:50.4722 INFO BuyOrderController : GetAlls
+2022-12-09 13:56:50.4722 INFO GenerictRepository: GetAll
+2022-12-09 13:56:50.4722 INFO ProductController : GetAllProducts
+2022-12-09 13:56:50.4722 INFO GenerictRepository: GetAll
+2022-12-09 13:56:50.4722 INFO BuyOrderController : GetProductById
+2022-12-09 13:56:50.4722 INFO GenerictRepository: GetAll
+2022-12-09 13:57:15.3301 INFO BuyOrderController : GetAlls
+2022-12-09 13:57:15.3301 INFO GenerictRepository: GetAll
+2022-12-09 13:57:15.3301 INFO ProductController : GetAllProducts
+2022-12-09 13:57:15.3301 INFO GenerictRepository: GetAll
+2022-12-09 13:57:15.3301 INFO BuyOrderController : GetProductById
+2022-12-09 13:57:15.3301 INFO GenerictRepository: GetAll
+2022-12-09 14:03:07.0726 INFO BuyOrderController : GetAlls
+2022-12-09 14:03:07.0726 INFO GenerictRepository: GetAll
+2022-12-09 14:03:07.0776 INFO BuyOrderController : GetProductById
+2022-12-09 14:03:07.0776 INFO GenerictRepository: GetAll
+2022-12-09 14:03:07.0776 INFO ProductController : GetAllProducts
+2022-12-09 14:03:07.0776 INFO GenerictRepository: GetAll
+2022-12-09 14:18:52.7388 INFO BuyOrderController : GetAlls
+2022-12-09 14:18:52.7388 INFO GenerictRepository: GetAll
+2022-12-09 14:18:52.7388 INFO ProductController : GetAllProducts
+2022-12-09 14:18:52.7388 INFO GenerictRepository: GetAll
+2022-12-09 14:18:52.7438 INFO BuyOrderController : GetProductById
+2022-12-09 14:18:52.7438 INFO GenerictRepository: GetAll
+2022-12-09 14:18:58.3923 INFO BuyOrderController : GetAlls
+2022-12-09 14:18:58.3923 INFO GenerictRepository: GetAll
+2022-12-09 14:18:58.3923 INFO ProductController : GetAllProducts
+2022-12-09 14:18:58.3923 INFO GenerictRepository: GetAll
+2022-12-09 14:18:58.3923 INFO BuyOrderController : GetProductById
+2022-12-09 14:18:58.3923 INFO GenerictRepository: GetAll
+2022-12-09 14:22:16.5610 INFO BuyOrderController : GetAlls
+2022-12-09 14:22:16.5724 INFO GenerictRepository: GetAll
+2022-12-09 14:22:16.5724 INFO ProductController : GetAllProducts
+2022-12-09 14:22:16.5724 INFO GenerictRepository: GetAll
+2022-12-09 14:22:16.5724 INFO BuyOrderController : GetProductById
+2022-12-09 14:22:16.5724 INFO GenerictRepository: GetAll
+2022-12-09 14:22:22.5639 INFO BuyOrderController : GetAlls
+2022-12-09 14:22:22.5639 INFO GenerictRepository: GetAll
+2022-12-09 14:22:22.5639 INFO ProductController : GetAllProducts
+2022-12-09 14:22:22.5639 INFO GenerictRepository: GetAll
+2022-12-09 14:22:22.5639 INFO BuyOrderController : GetProductById
+2022-12-09 14:22:22.5639 INFO GenerictRepository: GetAll
+2022-12-09 14:22:36.5282 INFO BuyOrderController : GetAlls
+2022-12-09 14:22:36.5282 INFO GenerictRepository: GetAll
+2022-12-09 14:22:36.5282 INFO ProductController : GetAllProducts
+2022-12-09 14:22:36.5282 INFO GenerictRepository: GetAll
+2022-12-09 14:22:36.5282 INFO BuyOrderController : GetProductById
+2022-12-09 14:22:36.5282 INFO GenerictRepository: GetAll
+2022-12-09 14:23:21.6156 INFO ProductController : GetAllProducts
+2022-12-09 14:23:21.6156 INFO GenerictRepository: GetAll
+2022-12-09 14:23:21.6156 INFO BuyOrderController : GetAlls
+2022-12-09 14:23:21.6156 INFO GenerictRepository: GetAll
+2022-12-09 14:23:21.6335 INFO BuyOrderController : GetProductById
+2022-12-09 14:23:21.6335 INFO GenerictRepository: GetAll
+2022-12-09 14:24:14.6824 INFO BuyOrderController : GetAlls
+2022-12-09 14:24:14.6824 INFO GenerictRepository: GetAll
+2022-12-09 14:24:14.6824 INFO ProductController : GetAllProducts
+2022-12-09 14:24:14.6824 INFO GenerictRepository: GetAll
+2022-12-09 14:24:14.6824 INFO BuyOrderController : GetProductById
+2022-12-09 14:24:14.6824 INFO GenerictRepository: GetAll
+2022-12-09 14:24:22.9031 INFO BuyOrderController : GetAlls
+2022-12-09 14:24:22.9031 INFO GenerictRepository: GetAll
+2022-12-09 14:24:22.9031 INFO ProductController : GetAllProducts
+2022-12-09 14:24:22.9031 INFO GenerictRepository: GetAll
+2022-12-09 14:24:22.9031 INFO BuyOrderController : GetProductById
+2022-12-09 14:24:22.9031 INFO GenerictRepository: GetAll
+2022-12-09 14:24:27.7642 INFO BuyOrderController : GetAlls
+2022-12-09 14:24:27.7642 INFO GenerictRepository: GetAll
+2022-12-09 14:24:27.7642 INFO ProductController : GetAllProducts
+2022-12-09 14:24:27.7642 INFO GenerictRepository: GetAll
+2022-12-09 14:24:27.7642 INFO BuyOrderController : GetProductById
+2022-12-09 14:24:27.7642 INFO GenerictRepository: GetAll
+2022-12-09 14:24:54.3132 INFO BuyOrderController : GetAlls
+2022-12-09 14:24:54.3132 INFO GenerictRepository: GetAll
+2022-12-09 14:24:54.3132 INFO ProductController : GetAllProducts
+2022-12-09 14:24:54.3132 INFO GenerictRepository: GetAll
+2022-12-09 14:24:54.3132 INFO BuyOrderController : GetProductById
+2022-12-09 14:24:54.3132 INFO GenerictRepository: GetAll
+2022-12-09 14:25:09.5885 INFO BuyOrderController : GetAlls
+2022-12-09 14:25:09.5885 INFO GenerictRepository: GetAll
+2022-12-09 14:25:23.9770 INFO BuyOrderController : GetAlls
+2022-12-09 14:25:23.9770 INFO GenerictRepository: GetAll
+2022-12-09 14:25:26.2843 INFO BuyOrderController : GetAlls
+2022-12-09 14:25:26.2843 INFO GenerictRepository: GetAll
+2022-12-09 14:25:28.6181 INFO BuyOrderController : GetAlls
+2022-12-09 14:25:28.6181 INFO GenerictRepository: GetAll
+2022-12-09 14:26:05.5315 INFO BuyOrderController : GetAlls
+2022-12-09 14:26:05.5315 INFO GenerictRepository: GetAll
+2022-12-09 14:26:17.4651 INFO BuyOrderController : GetAlls
+2022-12-09 14:26:17.4651 INFO GenerictRepository: GetAll
+2022-12-09 14:26:18.2742 INFO ProductController : GetAllProducts
+2022-12-09 14:26:18.2742 INFO GenerictRepository: GetAll
+2022-12-09 14:26:18.2742 INFO BuyOrderController : GetProductById
+2022-12-09 14:26:18.2742 INFO GenerictRepository: GetAll
+2022-12-09 14:26:58.2990 INFO BuyOrderController : GetAlls
+2022-12-09 14:26:58.2990 INFO GenerictRepository: GetAll
+2022-12-09 14:26:58.2990 INFO ProductController : GetAllProducts
+2022-12-09 14:26:58.2990 INFO GenerictRepository: GetAll
+2022-12-09 14:26:58.2990 INFO BuyOrderController : GetProductById
+2022-12-09 14:26:58.2990 INFO GenerictRepository: GetAll
+2022-12-09 14:27:06.2582 INFO BuyOrderController : GetAlls
+2022-12-09 14:27:06.2582 INFO GenerictRepository: GetAll
+2022-12-09 14:27:06.2582 INFO ProductController : GetAllProducts
+2022-12-09 14:27:06.2582 INFO GenerictRepository: GetAll
+2022-12-09 14:27:06.2582 INFO BuyOrderController : GetProductById
+2022-12-09 14:27:06.2582 INFO GenerictRepository: GetAll
+2022-12-09 14:27:19.5706 INFO BuyOrderController : GetAlls
+2022-12-09 14:27:19.5706 INFO GenerictRepository: GetAll
+2022-12-09 14:27:21.9709 INFO ProductController : GetAllProducts
+2022-12-09 14:27:21.9709 INFO GenerictRepository: GetAll
+2022-12-09 14:27:21.9709 INFO BuyOrderController : GetProductById
+2022-12-09 14:27:21.9709 INFO GenerictRepository: GetAll
+2022-12-09 14:27:26.7993 INFO BuyOrderController : GetAlls
+2022-12-09 14:27:26.7993 INFO GenerictRepository: GetAll
+2022-12-09 14:27:27.6107 INFO ProductController : GetAllProducts
+2022-12-09 14:27:27.6107 INFO GenerictRepository: GetAll
+2022-12-09 14:27:27.6107 INFO BuyOrderController : GetProductById
+2022-12-09 14:27:27.6107 INFO GenerictRepository: GetAll
+2022-12-09 14:28:40.9301 INFO BuyOrderController : GetAlls
+2022-12-09 14:28:40.9301 INFO GenerictRepository: GetAll
+2022-12-09 14:28:40.9301 INFO ProductController : GetAllProducts
+2022-12-09 14:28:40.9301 INFO GenerictRepository: GetAll
+2022-12-09 14:28:40.9301 INFO BuyOrderController : GetProductById
+2022-12-09 14:28:40.9301 INFO GenerictRepository: GetAll
+2022-12-09 14:28:44.1041 INFO BuyOrderController : GetAlls
+2022-12-09 14:28:44.1041 INFO GenerictRepository: GetAll
+2022-12-09 14:28:44.1041 INFO ProductController : GetAllProducts
+2022-12-09 14:28:44.1041 INFO GenerictRepository: GetAll
+2022-12-09 14:28:44.1041 INFO BuyOrderController : GetProductById
+2022-12-09 14:28:44.1041 INFO GenerictRepository: GetAll
+2022-12-09 14:29:20.4404 INFO BuyOrderController : GetAlls
+2022-12-09 14:29:20.4404 INFO GenerictRepository: GetAll
+2022-12-09 14:29:21.2491 INFO ProductController : GetAllProducts
+2022-12-09 14:29:21.2491 INFO GenerictRepository: GetAll
+2022-12-09 14:29:51.5307 INFO ProductController : GetAllProducts
+2022-12-09 14:29:51.5307 INFO GenerictRepository: GetAll
+2022-12-09 14:29:51.5307 INFO BuyOrderController : GetAlls
+2022-12-09 14:29:51.5307 INFO GenerictRepository: GetAll
+2022-12-09 14:29:58.8023 INFO BuyOrderController : GetAlls
+2022-12-09 14:29:58.8023 INFO GenerictRepository: GetAll
+2022-12-09 14:29:59.6180 INFO ProductController : GetAllProducts
+2022-12-09 14:29:59.6180 INFO GenerictRepository: GetAll
+2022-12-09 14:30:13.1665 INFO BuyOrderController : Post
+2022-12-09 14:30:13.1665 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 14:30:13.1665 INFO GenerictRepository: Create
+2022-12-09 14:30:13.1665 INFO GenerictRepository: Save
+2022-12-09 14:30:13.1907 INFO BuyOrderController : GetAlls
+2022-12-09 14:30:13.1907 INFO GenerictRepository: GetAll
+2022-12-09 14:30:19.0387 INFO ProductController : GetAllProducts
+2022-12-09 14:30:19.0387 INFO GenerictRepository: GetAll
+2022-12-09 14:30:19.0387 INFO BuyOrderController : GetProductById
+2022-12-09 14:30:19.0387 INFO GenerictRepository: GetAll
+2022-12-09 14:30:28.9252 INFO BuyOrderController : Delete
+2022-12-09 14:30:28.9252 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 14:30:28.9252 INFO GenerictRepository: DeleteById
+2022-12-09 14:30:28.9308 INFO GenerictRepository: Save
+2022-12-09 14:30:28.9490 INFO BuyOrderController : GetAlls
+2022-12-09 14:30:28.9490 INFO GenerictRepository: GetAll
+2022-12-09 14:35:49.6775 INFO BuyOrderController : GetAlls
+2022-12-09 14:35:49.6775 INFO GenerictRepository: GetAll
+2022-12-09 14:35:51.5658 INFO ProductController : GetAllProducts
+2022-12-09 14:35:51.5658 INFO GenerictRepository: GetAll
+2022-12-09 14:35:51.5696 INFO BuyOrderController : GetProductById
+2022-12-09 14:35:51.5696 INFO GenerictRepository: GetAll
+2022-12-09 14:37:08.2778 INFO BuyOrderController : GetAlls
+2022-12-09 14:37:08.2778 INFO GenerictRepository: GetAll
+2022-12-09 14:37:08.2778 INFO ProductController : GetAllProducts
+2022-12-09 14:37:08.2778 INFO GenerictRepository: GetAll
+2022-12-09 14:37:08.2778 INFO BuyOrderController : GetProductById
+2022-12-09 14:37:08.2778 INFO GenerictRepository: GetAll
+2022-12-09 14:37:11.9272 INFO BuyOrderController : GetAlls
+2022-12-09 14:37:11.9272 INFO GenerictRepository: GetAll
+2022-12-09 14:37:11.9328 INFO ProductController : GetAllProducts
+2022-12-09 14:37:11.9328 INFO GenerictRepository: GetAll
+2022-12-09 14:37:11.9328 INFO BuyOrderController : GetProductById
+2022-12-09 14:37:11.9328 INFO GenerictRepository: GetAll
+2022-12-09 14:39:22.0049 INFO BuyOrderController : GetAlls
+2022-12-09 14:39:22.0049 INFO GenerictRepository: GetAll
+2022-12-09 14:39:29.1629 INFO ProductController : GetAllProducts
+2022-12-09 14:39:29.1629 INFO GenerictRepository: GetAll
+2022-12-09 14:40:16.7088 INFO BuyOrderController : GetAlls
+2022-12-09 14:40:16.7088 INFO GenerictRepository: GetAll
+2022-12-09 14:40:16.7102 INFO ProductController : GetAllProducts
+2022-12-09 14:40:16.7102 INFO GenerictRepository: GetAll
+2022-12-09 14:40:52.8361 INFO BuyOrderController : GetAlls
+2022-12-09 14:40:52.8361 INFO GenerictRepository: GetAll
+2022-12-09 14:40:52.8361 INFO ProductController : GetAllProducts
+2022-12-09 14:40:52.8361 INFO GenerictRepository: GetAll
+2022-12-09 14:40:54.8008 INFO BuyOrderController : GetAlls
+2022-12-09 14:40:54.8008 INFO GenerictRepository: GetAll
+2022-12-09 14:40:54.8008 INFO ProductController : GetAllProducts
+2022-12-09 14:40:54.8008 INFO GenerictRepository: GetAll
+2022-12-09 14:41:09.1009 INFO BuyOrderController : Post
+2022-12-09 14:41:09.1009 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 14:41:09.1009 INFO GenerictRepository: Create
+2022-12-09 14:41:09.1009 INFO GenerictRepository: Save
+2022-12-09 14:41:09.1233 INFO BuyOrderController : GetAlls
+2022-12-09 14:41:09.1233 INFO GenerictRepository: GetAll
+2022-12-09 14:41:19.5710 INFO BuyOrderController : Delete
+2022-12-09 14:41:19.5710 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 14:41:19.5710 INFO GenerictRepository: DeleteById
+2022-12-09 14:41:19.5920 INFO GenerictRepository: Save
+2022-12-09 14:41:19.6050 INFO BuyOrderController : GetAlls
+2022-12-09 14:41:19.6050 INFO GenerictRepository: GetAll
+2022-12-09 14:41:21.5351 INFO ProductController : GetAllProducts
+2022-12-09 14:41:21.5351 INFO GenerictRepository: GetAll
+2022-12-09 14:41:21.5351 INFO BuyOrderController : GetProductById
+2022-12-09 14:41:21.5351 INFO GenerictRepository: GetAll
+2022-12-09 14:41:41.6864 INFO BuyOrderController : GetAlls
+2022-12-09 14:41:41.6864 INFO GenerictRepository: GetAll
+2022-12-09 14:41:41.6864 INFO ProductController : GetAllProducts
+2022-12-09 14:41:41.6864 INFO GenerictRepository: GetAll
+2022-12-09 14:41:41.6967 INFO BuyOrderController : GetProductById
+2022-12-09 14:41:41.6967 INFO GenerictRepository: GetAll
+2022-12-09 14:41:56.4898 INFO BuyOrderController : GetAlls
+2022-12-09 14:41:56.4898 INFO GenerictRepository: GetAll
+2022-12-09 14:41:56.4943 INFO ProductController : GetAllProducts
+2022-12-09 14:41:56.4943 INFO GenerictRepository: GetAll
+2022-12-09 14:41:56.4943 INFO BuyOrderController : GetProductById
+2022-12-09 14:41:56.4943 INFO GenerictRepository: GetAll
+2022-12-09 14:42:03.1124 INFO BuyOrderController : GetAlls
+2022-12-09 14:42:03.1124 INFO GenerictRepository: GetAll
+2022-12-09 14:42:03.1171 INFO ProductController : GetAllProducts
+2022-12-09 14:42:03.1171 INFO GenerictRepository: GetAll
+2022-12-09 14:42:03.1171 INFO BuyOrderController : GetProductById
+2022-12-09 14:42:03.1171 INFO GenerictRepository: GetAll
+2022-12-09 14:42:30.4995 INFO BuyOrderController : GetAlls
+2022-12-09 14:42:30.4995 INFO GenerictRepository: GetAll
+2022-12-09 14:42:30.4995 INFO ProductController : GetAllProducts
+2022-12-09 14:42:30.4995 INFO GenerictRepository: GetAll
+2022-12-09 14:42:30.4995 INFO BuyOrderController : GetProductById
+2022-12-09 14:42:30.4995 INFO GenerictRepository: GetAll
+2022-12-09 14:42:39.3416 INFO BuyOrderController : GetAlls
+2022-12-09 14:42:39.3416 INFO GenerictRepository: GetAll
+2022-12-09 14:42:39.3416 INFO ProductController : GetAllProducts
+2022-12-09 14:42:39.3416 INFO GenerictRepository: GetAll
+2022-12-09 14:42:39.3416 INFO BuyOrderController : GetProductById
+2022-12-09 14:42:39.3416 INFO GenerictRepository: GetAll
+2022-12-09 14:42:56.5324 INFO BuyOrderController : GetAlls
+2022-12-09 14:42:56.5324 INFO GenerictRepository: GetAll
+2022-12-09 14:42:56.5324 INFO ProductController : GetAllProducts
+2022-12-09 14:42:56.5324 INFO GenerictRepository: GetAll
+2022-12-09 14:42:56.5384 INFO BuyOrderController : GetProductById
+2022-12-09 14:42:56.5384 INFO GenerictRepository: GetAll
+2022-12-09 14:43:01.2991 INFO BuyOrderController : GetAlls
+2022-12-09 14:43:01.2991 INFO GenerictRepository: GetAll
+2022-12-09 14:43:01.3042 INFO ProductController : GetAllProducts
+2022-12-09 14:43:01.3042 INFO GenerictRepository: GetAll
+2022-12-09 14:43:01.3042 INFO BuyOrderController : GetProductById
+2022-12-09 14:43:01.3042 INFO GenerictRepository: GetAll
+2022-12-09 14:43:08.2059 INFO BuyOrderController : GetAlls
+2022-12-09 14:43:08.2059 INFO GenerictRepository: GetAll
+2022-12-09 14:43:08.2059 INFO ProductController : GetAllProducts
+2022-12-09 14:43:08.2090 INFO GenerictRepository: GetAll
+2022-12-09 14:43:08.2090 INFO BuyOrderController : GetProductById
+2022-12-09 14:43:08.2090 INFO GenerictRepository: GetAll
+2022-12-09 14:43:36.6001 INFO ProductController : GetAllProducts
+2022-12-09 14:43:36.6001 INFO BuyOrderController : GetProductById
+2022-12-09 14:43:36.6001 INFO GenerictRepository: GetAll
+2022-12-09 14:43:36.6001 INFO BuyOrderController : GetAlls
+2022-12-09 14:43:36.6001 INFO GenerictRepository: GetAll
+2022-12-09 14:43:36.6001 INFO GenerictRepository: GetAll
+2022-12-09 14:43:40.2479 INFO BuyOrderController : GetAlls
+2022-12-09 14:43:40.2479 INFO GenerictRepository: GetAll
+2022-12-09 14:43:41.8574 INFO ProductController : GetAllProducts
+2022-12-09 14:43:41.8574 INFO GenerictRepository: GetAll
+2022-12-09 14:43:41.8574 INFO BuyOrderController : GetProductById
+2022-12-09 14:43:41.8574 INFO GenerictRepository: GetAll
+2022-12-09 14:44:10.0310 INFO BuyOrderController : GetAlls
+2022-12-09 14:44:10.0310 INFO GenerictRepository: GetAll
+2022-12-09 14:44:10.0310 INFO ProductController : GetAllProducts
+2022-12-09 14:44:10.0310 INFO GenerictRepository: GetAll
+2022-12-09 14:44:10.0310 INFO BuyOrderController : GetProductById
+2022-12-09 14:44:10.0310 INFO GenerictRepository: GetAll
+2022-12-09 14:44:29.8062 INFO BuyOrderController : GetAlls
+2022-12-09 14:44:29.8062 INFO GenerictRepository: GetAll
+2022-12-09 14:44:37.8927 INFO BuyOrderController : GetAlls
+2022-12-09 14:44:37.8927 INFO GenerictRepository: GetAll
+2022-12-09 14:44:43.1218 INFO BuyOrderController : GetAlls
+2022-12-09 14:44:43.1218 INFO GenerictRepository: GetAll
+2022-12-09 14:44:50.9525 INFO BuyOrderController : Put
+2022-12-09 14:44:50.9525 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:44:50.9525 INFO GenerictRepository: Update
+2022-12-09 14:44:50.9525 INFO GenerictRepository: Save
+2022-12-09 14:44:54.6923 INFO ProductController : GetAllProducts
+2022-12-09 14:44:54.6923 INFO GenerictRepository: GetAll
+2022-12-09 14:44:54.6937 INFO BuyOrderController : GetProductById
+2022-12-09 14:44:54.6937 INFO GenerictRepository: GetAll
+2022-12-09 14:45:20.5550 INFO CustomerController : GetAll
+2022-12-09 14:45:20.5550 INFO GenerictRepository: GetAll
+2022-12-09 14:45:20.9854 INFO BuyOrderController : GetAlls
+2022-12-09 14:45:20.9854 INFO GenerictRepository: GetAll
+2022-12-09 14:45:22.9883 INFO BuyOrderController : GetAlls
+2022-12-09 14:45:22.9883 INFO GenerictRepository: GetAll
+2022-12-09 14:45:46.0458 INFO CustomerController : GetAll
+2022-12-09 14:45:46.0458 INFO GenerictRepository: GetAll
+2022-12-09 14:45:46.7463 INFO ProductController : GetAllProducts
+2022-12-09 14:45:46.7463 INFO GenerictRepository: GetAll
+2022-12-09 14:45:47.3197 INFO CustomerController : GetAll
+2022-12-09 14:45:47.3197 INFO GenerictRepository: GetAll
+2022-12-09 14:45:47.8314 INFO BuyOrderController : GetAlls
+2022-12-09 14:45:47.8314 INFO GenerictRepository: GetAll
+2022-12-09 14:46:13.2618 INFO ProductController : GetAllProducts
+2022-12-09 14:46:13.2618 INFO GenerictRepository: GetAll
+2022-12-09 14:46:13.2618 INFO BuyOrderController : GetProductById
+2022-12-09 14:46:13.2618 INFO GenerictRepository: GetAll
+2022-12-09 14:46:27.9987 INFO ProductController : GetAllProducts
+2022-12-09 14:46:27.9987 INFO GenerictRepository: GetAll
+2022-12-09 14:46:46.2075 INFO ProductController : GetAllProducts
+2022-12-09 14:46:46.2075 INFO GenerictRepository: GetAll
+2022-12-09 14:46:46.2075 INFO BuyOrderController : GetProductById
+2022-12-09 14:46:46.2075 INFO GenerictRepository: GetAll
+2022-12-09 14:47:07.2614 INFO BuyOrderController : GetAlls
+2022-12-09 14:47:07.2614 INFO GenerictRepository: GetAll
+2022-12-09 14:47:07.2614 INFO ProductController : GetAllProducts
+2022-12-09 14:47:07.2614 INFO GenerictRepository: GetAll
+2022-12-09 14:47:07.2614 INFO BuyOrderController : GetProductById
+2022-12-09 14:47:07.2614 INFO GenerictRepository: GetAll
+2022-12-09 14:47:19.6220 INFO ProductController : GetAllProducts
+2022-12-09 14:47:19.6220 INFO GenerictRepository: GetAll
+2022-12-09 14:47:19.6220 INFO BuyOrderController : GetProductById
+2022-12-09 14:47:19.6220 INFO GenerictRepository: GetAll
+2022-12-09 14:47:20.7974 INFO BuyOrderController : Put
+2022-12-09 14:47:20.7974 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:47:20.7974 INFO GenerictRepository: Update
+2022-12-09 14:47:20.7974 INFO GenerictRepository: Save
+2022-12-09 14:47:23.4781 INFO ProductController : GetAllProducts
+2022-12-09 14:47:23.4781 INFO GenerictRepository: GetAll
+2022-12-09 14:47:23.4781 INFO BuyOrderController : GetProductById
+2022-12-09 14:47:23.4781 INFO GenerictRepository: GetAll
+2022-12-09 14:47:26.8289 INFO BuyOrderController : Put
+2022-12-09 14:47:26.8289 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:47:26.8289 INFO GenerictRepository: Update
+2022-12-09 14:47:26.8289 INFO GenerictRepository: Save
+2022-12-09 14:47:42.4483 INFO BuyOrderController : GetAlls
+2022-12-09 14:47:42.4483 INFO GenerictRepository: GetAll
+2022-12-09 14:47:45.5914 INFO BuyOrderController : GetAlls
+2022-12-09 14:47:45.5914 INFO GenerictRepository: GetAll
+2022-12-09 14:47:48.2803 INFO BuyOrderController : GetAlls
+2022-12-09 14:47:48.2803 INFO GenerictRepository: GetAll
+2022-12-09 14:47:49.6577 INFO ProductController : GetAllProducts
+2022-12-09 14:47:49.6577 INFO GenerictRepository: GetAll
+2022-12-09 14:47:49.6577 INFO BuyOrderController : GetProductById
+2022-12-09 14:47:49.6577 INFO GenerictRepository: GetAll
+2022-12-09 14:47:54.2381 INFO BuyOrderController : GetAlls
+2022-12-09 14:47:54.2381 INFO GenerictRepository: GetAll
+2022-12-09 14:47:54.2381 INFO ProductController : GetAllProducts
+2022-12-09 14:47:54.2381 INFO GenerictRepository: GetAll
+2022-12-09 14:47:54.2381 INFO BuyOrderController : GetProductById
+2022-12-09 14:47:54.2381 INFO GenerictRepository: GetAll
+2022-12-09 14:48:15.8542 INFO BuyOrderController : GetAlls
+2022-12-09 14:48:15.8542 INFO GenerictRepository: GetAll
+2022-12-09 14:48:20.4753 INFO BuyOrderController : Put
+2022-12-09 14:48:20.4753 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:48:20.4753 INFO GenerictRepository: Update
+2022-12-09 14:48:20.4753 INFO GenerictRepository: Save
+2022-12-09 14:48:22.5083 INFO ProductController : GetAllProducts
+2022-12-09 14:48:22.5083 INFO GenerictRepository: GetAll
+2022-12-09 14:48:22.5083 INFO BuyOrderController : GetProductById
+2022-12-09 14:48:22.5083 INFO GenerictRepository: GetAll
+2022-12-09 14:48:28.2885 INFO BuyOrderController : Delete
+2022-12-09 14:48:28.2885 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 14:48:28.2885 INFO GenerictRepository: DeleteById
+2022-12-09 14:48:28.2885 INFO GenerictRepository: Save
+2022-12-09 14:48:28.3005 INFO BuyOrderController : GetAlls
+2022-12-09 14:48:28.3005 INFO GenerictRepository: GetAll
+2022-12-09 14:48:30.1609 INFO BuyOrderController : GetAlls
+2022-12-09 14:48:30.1609 INFO GenerictRepository: GetAll
+2022-12-09 14:48:31.3779 INFO ProductController : GetAllProducts
+2022-12-09 14:48:31.3779 INFO GenerictRepository: GetAll
+2022-12-09 14:48:58.6354 INFO BuyOrderController : Post
+2022-12-09 14:48:58.6354 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 14:48:58.6354 INFO GenerictRepository: Create
+2022-12-09 14:48:58.6354 INFO GenerictRepository: Save
+2022-12-09 14:48:58.6511 INFO BuyOrderController : GetAlls
+2022-12-09 14:48:58.6511 INFO GenerictRepository: GetAll
+2022-12-09 14:49:01.0369 INFO ProductController : GetAllProducts
+2022-12-09 14:49:01.0369 INFO GenerictRepository: GetAll
+2022-12-09 14:49:01.0369 INFO BuyOrderController : GetProductById
+2022-12-09 14:49:01.0369 INFO GenerictRepository: GetAll
+2022-12-09 14:49:09.7168 INFO ProductController : GetAllProducts
+2022-12-09 14:49:09.7168 INFO GenerictRepository: GetAll
+2022-12-09 14:49:10.1693 INFO CustomerController : GetAll
+2022-12-09 14:49:10.1693 INFO GenerictRepository: GetAll
+2022-12-09 14:49:10.9033 INFO BuyOrderController : GetAlls
+2022-12-09 14:49:10.9033 INFO GenerictRepository: GetAll
+2022-12-09 14:49:12.6160 INFO ProductController : GetAllProducts
+2022-12-09 14:49:12.6160 INFO GenerictRepository: GetAll
+2022-12-09 14:50:09.3317 INFO CustomerController : GetAll
+2022-12-09 14:50:09.3317 INFO GenerictRepository: GetAll
+2022-12-09 14:50:10.6294 INFO BuyOrderController : GetAlls
+2022-12-09 14:50:10.6294 INFO GenerictRepository: GetAll
+2022-12-09 14:50:12.4048 INFO BuyOrderController : GetAlls
+2022-12-09 14:50:12.4048 INFO GenerictRepository: GetAll
+2022-12-09 14:50:13.5405 INFO ProductController : GetAllProducts
+2022-12-09 14:50:13.5405 INFO GenerictRepository: GetAll
+2022-12-09 14:50:13.5405 INFO BuyOrderController : GetProductById
+2022-12-09 14:50:13.5405 INFO GenerictRepository: GetAll
+2022-12-09 14:50:16.4492 INFO BuyOrderController : Put
+2022-12-09 14:50:16.4492 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:50:16.4492 INFO GenerictRepository: Update
+2022-12-09 14:50:16.4492 INFO GenerictRepository: Save
+2022-12-09 14:50:18.7004 INFO BuyOrderController : GetAlls
+2022-12-09 14:50:18.7004 INFO GenerictRepository: GetAll
+2022-12-09 14:50:20.5029 INFO BuyOrderController : GetAlls
+2022-12-09 14:50:20.5029 INFO GenerictRepository: GetAll
+2022-12-09 14:50:24.3092 INFO BuyOrderController : GetProductById
+2022-12-09 14:50:24.3092 INFO GenerictRepository: GetAll
+2022-12-09 14:50:24.3092 INFO ProductController : GetAllProducts
+2022-12-09 14:50:24.3092 INFO GenerictRepository: GetAll
+2022-12-09 14:50:43.3258 INFO BuyOrderController : GetAlls
+2022-12-09 14:50:43.3258 INFO GenerictRepository: GetAll
+2022-12-09 14:50:43.3258 INFO ProductController : GetAllProducts
+2022-12-09 14:50:43.3258 INFO GenerictRepository: GetAll
+2022-12-09 14:50:43.3389 INFO BuyOrderController : GetProductById
+2022-12-09 14:50:43.3389 INFO GenerictRepository: GetAll
+2022-12-09 14:51:02.8924 INFO BuyOrderController : GetAlls
+2022-12-09 14:51:02.8924 INFO GenerictRepository: GetAll
+2022-12-09 14:51:02.8924 INFO ProductController : GetAllProducts
+2022-12-09 14:51:02.8924 INFO GenerictRepository: GetAll
+2022-12-09 14:51:02.9003 INFO BuyOrderController : GetProductById
+2022-12-09 14:51:02.9003 INFO GenerictRepository: GetAll
+2022-12-09 14:51:20.3611 INFO BuyOrderController : GetAlls
+2022-12-09 14:51:20.3611 INFO GenerictRepository: GetAll
+2022-12-09 14:51:20.3611 INFO ProductController : GetAllProducts
+2022-12-09 14:51:20.3611 INFO GenerictRepository: GetAll
+2022-12-09 14:51:20.3611 INFO BuyOrderController : GetProductById
+2022-12-09 14:51:20.3611 INFO GenerictRepository: GetAll
+2022-12-09 14:51:27.7139 INFO BuyOrderController : GetAlls
+2022-12-09 14:51:27.7139 INFO GenerictRepository: GetAll
+2022-12-09 14:51:27.7139 INFO ProductController : GetAllProducts
+2022-12-09 14:51:27.7139 INFO GenerictRepository: GetAll
+2022-12-09 14:51:27.7139 INFO BuyOrderController : GetProductById
+2022-12-09 14:51:27.7139 INFO GenerictRepository: GetAll
+2022-12-09 14:51:32.2819 INFO ProductController : GetAllProducts
+2022-12-09 14:51:32.2819 INFO GenerictRepository: GetAll
+2022-12-09 14:51:32.2982 INFO BuyOrderController : GetProductById
+2022-12-09 14:51:32.2982 INFO GenerictRepository: GetAll
+2022-12-09 14:51:35.7898 INFO BuyOrderController : Delete
+2022-12-09 14:51:35.7898 INFO BuyOrderService: DeleteBuyOrder
+2022-12-09 14:51:35.7898 INFO GenerictRepository: DeleteById
+2022-12-09 14:51:35.7898 INFO GenerictRepository: Save
+2022-12-09 14:51:35.8050 INFO BuyOrderController : GetAlls
+2022-12-09 14:51:35.8050 INFO GenerictRepository: GetAll
+2022-12-09 14:51:54.8792 INFO BuyOrderController : GetAlls
+2022-12-09 14:51:54.8792 INFO GenerictRepository: GetAll
+2022-12-09 14:52:06.4820 INFO BuyOrderController : GetAlls
+2022-12-09 14:52:06.4820 INFO GenerictRepository: GetAll
+2022-12-09 14:52:10.6555 INFO BuyOrderController : GetAlls
+2022-12-09 14:52:10.6555 INFO GenerictRepository: GetAll
+2022-12-09 14:52:11.6933 INFO ProductController : GetAllProducts
+2022-12-09 14:52:11.6933 INFO GenerictRepository: GetAll
+2022-12-09 14:52:37.8490 INFO BuyOrderController : Post
+2022-12-09 14:52:37.8490 INFO BuyOrderService: CreateBuyOrder
+2022-12-09 14:52:37.8490 INFO GenerictRepository: Create
+2022-12-09 14:52:37.8490 INFO GenerictRepository: Save
+2022-12-09 14:52:37.8655 INFO BuyOrderController : GetAlls
+2022-12-09 14:52:37.8655 INFO GenerictRepository: GetAll
+2022-12-09 14:52:39.9949 INFO BuyOrderController : GetAlls
+2022-12-09 14:52:39.9949 INFO GenerictRepository: GetAll
+2022-12-09 14:52:42.0236 INFO ProductController : GetAllProducts
+2022-12-09 14:52:42.0236 INFO GenerictRepository: GetAll
+2022-12-09 14:52:42.0236 INFO BuyOrderController : GetProductById
+2022-12-09 14:52:42.0236 INFO GenerictRepository: GetAll
+2022-12-09 14:52:45.7542 INFO BuyOrderController : Put
+2022-12-09 14:52:45.7542 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:52:45.7542 INFO GenerictRepository: Update
+2022-12-09 14:52:45.7547 INFO GenerictRepository: Save
+2022-12-09 14:52:45.7547 INFO BuyOrderController : GetAlls
+2022-12-09 14:52:45.7547 INFO GenerictRepository: GetAll
+2022-12-09 14:52:47.8868 INFO BuyOrderController : GetProductById
+2022-12-09 14:52:47.8868 INFO GenerictRepository: GetAll
+2022-12-09 14:52:47.8868 INFO ProductController : GetAllProducts
+2022-12-09 14:52:47.8868 INFO GenerictRepository: GetAll
+2022-12-09 14:52:50.7513 INFO BuyOrderController : GetAlls
+2022-12-09 14:52:50.7513 INFO GenerictRepository: GetAll
+2022-12-09 14:52:50.7513 INFO ProductController : GetAllProducts
+2022-12-09 14:52:50.7513 INFO GenerictRepository: GetAll
+2022-12-09 14:52:50.7513 INFO BuyOrderController : GetProductById
+2022-12-09 14:52:50.7513 INFO GenerictRepository: GetAll
+2022-12-09 14:53:13.3146 INFO BuyOrderController : Put
+2022-12-09 14:53:13.3146 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:53:13.3146 INFO GenerictRepository: Update
+2022-12-09 14:53:13.3146 INFO GenerictRepository: Save
+2022-12-09 14:53:13.3277 INFO BuyOrderController : GetAlls
+2022-12-09 14:53:13.3277 INFO GenerictRepository: GetAll
+2022-12-09 14:53:15.5284 INFO ProductController : GetAllProducts
+2022-12-09 14:53:15.5284 INFO GenerictRepository: GetAll
+2022-12-09 14:53:15.5284 INFO BuyOrderController : GetProductById
+2022-12-09 14:53:15.5284 INFO GenerictRepository: GetAll
+2022-12-09 14:53:27.4246 INFO BuyOrderController : Put
+2022-12-09 14:53:27.4246 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 14:53:27.4246 INFO GenerictRepository: Update
+2022-12-09 14:53:27.4246 INFO GenerictRepository: Save
+2022-12-09 14:53:27.4366 INFO BuyOrderController : GetAlls
+2022-12-09 14:53:27.4366 INFO GenerictRepository: GetAll
+2022-12-09 14:53:29.7156 INFO ProductController : GetAllProducts
+2022-12-09 14:53:29.7156 INFO GenerictRepository: GetAll
+2022-12-09 14:53:29.7156 INFO BuyOrderController : GetProductById
+2022-12-09 14:53:29.7156 INFO GenerictRepository: GetAll
+2022-12-09 14:53:32.5471 INFO BuyOrderController : GetAlls
+2022-12-09 14:53:32.5471 INFO GenerictRepository: GetAll
+2022-12-09 14:53:32.5471 INFO ProductController : GetAllProducts
+2022-12-09 14:53:32.5471 INFO GenerictRepository: GetAll
+2022-12-09 14:53:32.5471 INFO BuyOrderController : GetProductById
+2022-12-09 14:53:32.5471 INFO GenerictRepository: GetAll
+2022-12-09 14:53:38.6775 INFO BuyOrderController : GetAlls
+2022-12-09 14:53:38.6775 INFO GenerictRepository: GetAll
+2022-12-09 14:53:51.8884 INFO BuyOrderController : GetAlls
+2022-12-09 14:53:51.8884 INFO GenerictRepository: GetAll
+2022-12-09 14:53:56.6256 INFO BuyOrderController : GetAlls
+2022-12-09 14:53:56.6256 INFO GenerictRepository: GetAll
+2022-12-09 14:54:04.2290 INFO ProductController : GetAllProducts
+2022-12-09 14:54:04.2290 INFO GenerictRepository: GetAll
+2022-12-09 14:55:49.1498 INFO ProductController : GetAllProducts
+2022-12-09 14:55:49.1498 INFO GenerictRepository: GetAll
+2022-12-09 14:55:51.7803 INFO ProductController : GetAllProducts
+2022-12-09 14:55:51.7803 INFO GenerictRepository: GetAll
+2022-12-09 14:55:52.8115 INFO ProductController : GetAllProducts
+2022-12-09 14:55:52.8115 INFO GenerictRepository: GetAll
+2022-12-09 14:56:00.0579 INFO ProductController : GetAllProducts
+2022-12-09 14:56:00.0579 INFO GenerictRepository: GetAll
+2022-12-09 14:57:29.2657 INFO ProductController : GetAllProducts
+2022-12-09 14:57:29.2657 INFO GenerictRepository: GetAll
+2022-12-09 14:57:44.9387 INFO ProductController : GetAllProducts
+2022-12-09 14:57:44.9387 INFO GenerictRepository: GetAll
+2022-12-09 14:58:01.2118 INFO ProductController : GetAllProducts
+2022-12-09 14:58:01.2118 INFO GenerictRepository: GetAll
+2022-12-09 14:58:07.4681 INFO ProductController : GetAllProducts
+2022-12-09 14:58:07.4681 INFO GenerictRepository: GetAll
+2022-12-09 15:00:49.4683 INFO ProductController : GetAllProducts
+2022-12-09 15:00:49.4683 INFO GenerictRepository: GetAll
+2022-12-09 15:05:08.3255 INFO ProductController : GetAllProducts
+2022-12-09 15:05:08.3255 INFO GenerictRepository: GetAll
+2022-12-09 15:05:15.2969 INFO ProductController : GetAllProducts
+2022-12-09 15:05:15.2969 INFO GenerictRepository: GetAll
+2022-12-09 15:05:24.6663 INFO ProductController : GetAllProducts
+2022-12-09 15:05:24.6663 INFO GenerictRepository: GetAll
+2022-12-09 15:05:30.1491 INFO ProductController : GetAllProducts
+2022-12-09 15:05:30.1491 INFO GenerictRepository: GetAll
+2022-12-09 15:05:39.9601 INFO ProductController : GetAllProducts
+2022-12-09 15:05:39.9601 INFO GenerictRepository: GetAll
+2022-12-09 15:06:32.7501 INFO ProductController : GetAllProducts
+2022-12-09 15:06:32.7501 INFO GenerictRepository: GetAll
+2022-12-09 15:06:47.5145 INFO ProductController : GetAllProducts
+2022-12-09 15:06:47.5145 INFO GenerictRepository: GetAll
+2022-12-09 15:07:52.1715 INFO ProductController : GetAllProducts
+2022-12-09 15:07:52.1715 INFO GenerictRepository: GetAll
+2022-12-09 15:08:49.6507 INFO ProductController : GetAllProducts
+2022-12-09 15:08:49.6507 INFO GenerictRepository: GetAll
+2022-12-09 15:08:54.5588 INFO ProductController : GetAllProducts
+2022-12-09 15:08:54.5588 INFO GenerictRepository: GetAll
+2022-12-09 15:09:02.3833 INFO ProductController : GetAllProducts
+2022-12-09 15:09:02.3833 INFO GenerictRepository: GetAll
+2022-12-09 15:09:10.1981 INFO ProductController : GetAllProducts
+2022-12-09 15:09:10.1981 INFO GenerictRepository: GetAll
+2022-12-09 15:09:28.0870 INFO ProductController : GetAllProducts
+2022-12-09 15:09:28.0870 INFO GenerictRepository: GetAll
+2022-12-09 15:09:37.0130 INFO ProductController : GetAllProducts
+2022-12-09 15:09:37.0130 INFO GenerictRepository: GetAll
+2022-12-09 15:09:39.2678 INFO ProductController : GetAllProducts
+2022-12-09 15:09:39.2678 INFO GenerictRepository: GetAll
+2022-12-09 15:09:57.1364 INFO ProductController : GetAllProducts
+2022-12-09 15:09:57.1364 INFO GenerictRepository: GetAll
+2022-12-09 15:10:05.8474 INFO ProductController : GetAllProducts
+2022-12-09 15:10:05.8474 INFO GenerictRepository: GetAll
+2022-12-09 15:10:12.5537 INFO ProductController : GetAllProducts
+2022-12-09 15:10:12.5537 INFO GenerictRepository: GetAll
+2022-12-09 15:10:28.4523 INFO ProductController : GetAllProducts
+2022-12-09 15:10:28.4523 INFO GenerictRepository: GetAll
+2022-12-09 15:10:34.4217 INFO ProductController : GetAllProducts
+2022-12-09 15:10:34.4217 INFO GenerictRepository: GetAll
+2022-12-09 15:11:12.2157 INFO ProductController : GetAllProducts
+2022-12-09 15:11:12.2157 INFO GenerictRepository: GetAll
+2022-12-09 15:11:19.7127 INFO ProductController : GetAllProducts
+2022-12-09 15:11:19.7127 INFO GenerictRepository: GetAll
+2022-12-09 15:11:28.0829 INFO ProductController : GetAllProducts
+2022-12-09 15:11:28.0829 INFO GenerictRepository: GetAll
+2022-12-09 15:11:35.5980 INFO ProductController : GetAllProducts
+2022-12-09 15:11:35.5980 INFO GenerictRepository: GetAll
+2022-12-09 15:12:19.4343 INFO ProductController : GetAllProducts
+2022-12-09 15:12:19.4343 INFO GenerictRepository: GetAll
+2022-12-09 15:12:23.5134 INFO ProductController : GetAllProducts
+2022-12-09 15:12:23.5134 INFO GenerictRepository: GetAll
+2022-12-09 15:12:30.4998 INFO ProductController : GetAllProducts
+2022-12-09 15:12:30.4998 INFO GenerictRepository: GetAll
+2022-12-09 15:13:14.0144 INFO ProductController : GetAllProducts
+2022-12-09 15:13:14.0144 INFO GenerictRepository: GetAll
+2022-12-09 15:13:19.7567 INFO ProductController : GetAllProducts
+2022-12-09 15:13:19.7567 INFO GenerictRepository: GetAll
+2022-12-09 15:13:38.7181 INFO CustomerController : GetAll
+2022-12-09 15:13:38.7181 INFO GenerictRepository: GetAll
+2022-12-09 15:13:42.6281 INFO ProductController : GetAllProducts
+2022-12-09 15:13:42.6281 INFO GenerictRepository: GetAll
+2022-12-09 15:13:45.2670 INFO CustomerController : GetAll
+2022-12-09 15:13:45.2670 INFO GenerictRepository: GetAll
+2022-12-09 15:13:48.1484 INFO ProductController : GetAllProducts
+2022-12-09 15:13:48.1484 INFO GenerictRepository: GetAll
+2022-12-09 15:14:46.7431 INFO ProductController : GetAllProducts
+2022-12-09 15:14:46.7431 INFO GenerictRepository: GetAll
+2022-12-09 15:16:16.2013 INFO ProductController : GetAllProducts
+2022-12-09 15:16:16.2013 INFO GenerictRepository: GetAll
+2022-12-09 15:16:25.3935 INFO ProductController : GetAllProducts
+2022-12-09 15:16:25.3935 INFO GenerictRepository: GetAll
+2022-12-09 15:16:31.8157 INFO ProductController : GetAllProducts
+2022-12-09 15:16:31.8157 INFO GenerictRepository: GetAll
+2022-12-09 15:16:36.2355 INFO ProductController : GetAllProducts
+2022-12-09 15:16:36.2355 INFO GenerictRepository: GetAll
+2022-12-09 15:16:40.3663 INFO ProductController : GetAllProducts
+2022-12-09 15:16:40.3663 INFO GenerictRepository: GetAll
+2022-12-09 15:16:44.6883 INFO ProductController : GetAllProducts
+2022-12-09 15:16:44.6883 INFO GenerictRepository: GetAll
+2022-12-09 15:16:48.0724 INFO ProductController : GetAllProducts
+2022-12-09 15:16:48.0724 INFO GenerictRepository: GetAll
+2022-12-09 15:17:06.6859 INFO ProductController : GetAllProducts
+2022-12-09 15:17:06.6859 INFO GenerictRepository: GetAll
+2022-12-09 15:17:32.9122 INFO ProductController : GetAllProducts
+2022-12-09 15:17:32.9122 INFO GenerictRepository: GetAll
+2022-12-09 15:17:38.3837 INFO ProductController : GetAllProducts
+2022-12-09 15:17:38.3837 INFO GenerictRepository: GetAll
+2022-12-09 15:17:42.9729 INFO ProductController : GetAllProducts
+2022-12-09 15:17:42.9729 INFO GenerictRepository: GetAll
+2022-12-09 15:17:48.9341 INFO ProductController : GetAllProducts
+2022-12-09 15:17:48.9341 INFO GenerictRepository: GetAll
+2022-12-09 15:17:54.3649 INFO ProductController : GetAllProducts
+2022-12-09 15:17:54.3649 INFO GenerictRepository: GetAll
+2022-12-09 15:18:03.8841 INFO ProductController : GetAllProducts
+2022-12-09 15:18:03.8841 INFO GenerictRepository: GetAll
+2022-12-09 15:18:12.5585 INFO ProductController : GetAllProducts
+2022-12-09 15:18:12.5585 INFO GenerictRepository: GetAll
+2022-12-09 15:18:18.0871 INFO ProductController : GetAllProducts
+2022-12-09 15:18:18.0871 INFO GenerictRepository: GetAll
+2022-12-09 15:18:33.9267 INFO ProductController : GetAllProducts
+2022-12-09 15:18:33.9267 INFO GenerictRepository: GetAll
+2022-12-09 15:18:38.3017 INFO ProductController : GetAllProducts
+2022-12-09 15:18:38.3017 INFO GenerictRepository: GetAll
+2022-12-09 15:18:44.6631 INFO ProductController : GetAllProducts
+2022-12-09 15:18:44.6631 INFO GenerictRepository: GetAll
+2022-12-09 15:18:49.2159 INFO ProductController : GetAllProducts
+2022-12-09 15:18:49.2159 INFO GenerictRepository: GetAll
+2022-12-09 15:18:55.5891 INFO ProductController : GetAllProducts
+2022-12-09 15:18:55.5891 INFO GenerictRepository: GetAll
+2022-12-09 15:18:59.1899 INFO ProductController : GetAllProducts
+2022-12-09 15:18:59.1899 INFO GenerictRepository: GetAll
+2022-12-09 15:19:04.3115 INFO ProductController : GetAllProducts
+2022-12-09 15:19:04.3115 INFO GenerictRepository: GetAll
+2022-12-09 15:19:09.7195 INFO ProductController : GetAllProducts
+2022-12-09 15:19:09.7195 INFO GenerictRepository: GetAll
+2022-12-09 15:19:45.8429 INFO ProductController : GetAllProducts
+2022-12-09 15:19:45.8429 INFO GenerictRepository: GetAll
+2022-12-09 15:20:02.3262 INFO ProductController : GetAllProducts
+2022-12-09 15:20:02.3262 INFO GenerictRepository: GetAll
+2022-12-09 15:20:06.1774 INFO ProductController : GetAllProducts
+2022-12-09 15:20:06.1774 INFO GenerictRepository: GetAll
+2022-12-09 15:20:07.3599 INFO ProductController : GetAllProducts
+2022-12-09 15:20:07.3599 INFO GenerictRepository: GetAll
+2022-12-09 15:20:10.2125 INFO ProductController : GetAllProducts
+2022-12-09 15:20:10.2125 INFO GenerictRepository: GetAll
+2022-12-09 15:20:20.8593 INFO ProductController : GetAllProducts
+2022-12-09 15:20:20.8593 INFO GenerictRepository: GetAll
+2022-12-09 15:20:25.0822 INFO ProductController : GetAllProducts
+2022-12-09 15:20:25.0822 INFO GenerictRepository: GetAll
+2022-12-09 15:20:28.5777 INFO ProductController : GetAllProducts
+2022-12-09 15:20:28.5777 INFO GenerictRepository: GetAll
+2022-12-09 15:20:38.2205 INFO ProductController : GetAllProducts
+2022-12-09 15:20:38.2205 INFO GenerictRepository: GetAll
+2022-12-09 15:20:48.3964 INFO BuyOrderController : GetAlls
+2022-12-09 15:20:48.3964 INFO GenerictRepository: GetAll
+2022-12-09 15:20:50.8477 INFO ProductController : GetAllProducts
+2022-12-09 15:20:50.8477 INFO GenerictRepository: GetAll
+2022-12-09 15:20:50.8477 INFO BuyOrderController : GetProductById
+2022-12-09 15:20:50.8477 INFO GenerictRepository: GetAll
+2022-12-09 15:21:11.4045 INFO ProductController : GetAllProducts
+2022-12-09 15:21:11.4045 INFO GenerictRepository: GetAll
+2022-12-09 15:21:17.5093 INFO ProductController : GetAllProducts
+2022-12-09 15:21:17.5093 INFO GenerictRepository: GetAll
+2022-12-09 15:24:24.7500 INFO CustomerController : GetAll
+2022-12-09 15:24:24.7500 INFO GenerictRepository: GetAll
+2022-12-09 15:24:25.2223 INFO BuyOrderController : GetAlls
+2022-12-09 15:24:25.2223 INFO GenerictRepository: GetAll
+2022-12-09 15:24:25.6892 INFO CustomerController : GetAll
+2022-12-09 15:24:25.6892 INFO GenerictRepository: GetAll
+2022-12-09 15:24:26.1097 INFO ProductController : GetAllProducts
+2022-12-09 15:24:26.1097 INFO GenerictRepository: GetAll
+2022-12-09 15:24:26.5090 INFO CustomerController : GetAll
+2022-12-09 15:24:26.5090 INFO GenerictRepository: GetAll
+2022-12-09 15:24:27.4746 INFO BuyOrderController : GetAlls
+2022-12-09 15:24:27.4746 INFO GenerictRepository: GetAll
+2022-12-09 15:24:28.0137 INFO CustomerController : GetAll
+2022-12-09 15:24:28.0137 INFO GenerictRepository: GetAll
+2022-12-09 15:24:28.6054 INFO ProductController : GetAllProducts
+2022-12-09 15:24:28.6054 INFO GenerictRepository: GetAll
+2022-12-09 15:24:28.9493 INFO CustomerController : GetAll
+2022-12-09 15:24:28.9493 INFO GenerictRepository: GetAll
+2022-12-09 15:24:29.4028 INFO BuyOrderController : GetAlls
+2022-12-09 15:24:29.4028 INFO GenerictRepository: GetAll
+2022-12-09 15:24:29.7812 INFO CustomerController : GetAll
+2022-12-09 15:24:29.7812 INFO GenerictRepository: GetAll
+2022-12-09 15:24:30.1800 INFO ProductController : GetAllProducts
+2022-12-09 15:24:30.1800 INFO GenerictRepository: GetAll
+2022-12-09 15:24:30.8921 INFO CustomerController : GetAll
+2022-12-09 15:24:30.8921 INFO GenerictRepository: GetAll
+2022-12-09 15:24:31.3090 INFO BuyOrderController : GetAlls
+2022-12-09 15:24:31.3090 INFO GenerictRepository: GetAll
+2022-12-09 15:24:31.7196 INFO CustomerController : GetAll
+2022-12-09 15:24:31.7196 INFO GenerictRepository: GetAll
+2022-12-09 15:24:32.3950 INFO ProductController : GetAllProducts
+2022-12-09 15:24:32.3950 INFO GenerictRepository: GetAll
+2022-12-09 15:24:34.0275 INFO CustomerController : GetAll
+2022-12-09 15:24:34.0275 INFO GenerictRepository: GetAll
+2022-12-09 15:24:34.8603 INFO BuyOrderController : GetAlls
+2022-12-09 15:24:34.8603 INFO GenerictRepository: GetAll
+2022-12-09 15:24:42.2281 INFO BuyOrderController : GetAlls
+2022-12-09 15:24:42.2281 INFO GenerictRepository: GetAll
+2022-12-09 15:26:14.1207 INFO ProductController : GetAllProducts
+2022-12-09 15:26:14.1207 INFO GenerictRepository: GetAll
+2022-12-09 15:26:16.7907 INFO CustomerController : GetAll
+2022-12-09 15:26:16.7907 INFO GenerictRepository: GetAll
+2022-12-09 15:26:18.5433 INFO ProductController : GetAllProducts
+2022-12-09 15:26:18.5433 INFO GenerictRepository: GetAll
+2022-12-09 15:30:54.7668 INFO ProductController : GetAllProducts
+2022-12-09 15:30:54.7668 INFO GenerictRepository: GetAll
+2022-12-09 15:30:55.7186 INFO CustomerController : GetAll
+2022-12-09 15:30:55.7186 INFO GenerictRepository: GetAll
+2022-12-09 15:31:07.9198 INFO CustomerController : GetAll
+2022-12-09 15:31:07.9198 INFO GenerictRepository: GetAll
+2022-12-09 15:31:08.4148 INFO ProductController : GetAllProducts
+2022-12-09 15:31:08.4148 INFO GenerictRepository: GetAll
+2022-12-09 15:31:10.2882 INFO ProductController : GetAllProducts
+2022-12-09 15:31:10.2882 INFO GenerictRepository: GetAll
+2022-12-09 15:31:26.5713 INFO ProductController : GetAllProducts
+2022-12-09 15:31:26.5713 INFO GenerictRepository: GetAll
+2022-12-09 15:31:40.1438 INFO ProductController : GetAllProducts
+2022-12-09 15:31:40.1438 INFO GenerictRepository: GetAll
+2022-12-09 15:35:46.6138 INFO ProductController : GetAllProducts
+2022-12-09 15:35:46.6138 INFO GenerictRepository: GetAll
+2022-12-09 15:36:03.6095 INFO ProductController : GetAllProducts
+2022-12-09 15:36:03.6095 INFO GenerictRepository: GetAll
+2022-12-09 15:36:15.1216 INFO ProductController : GetAllProducts
+2022-12-09 15:36:15.1216 INFO GenerictRepository: GetAll
+2022-12-09 15:36:31.7777 INFO ProductController : GetAllProducts
+2022-12-09 15:36:31.7777 INFO GenerictRepository: GetAll
+2022-12-09 15:36:51.0431 INFO ProductController : GetAllProducts
+2022-12-09 15:36:51.0431 INFO GenerictRepository: GetAll
+2022-12-09 15:36:52.0960 INFO ProductController : GetAllProducts
+2022-12-09 15:36:52.0960 INFO GenerictRepository: GetAll
+2022-12-09 15:36:54.2868 INFO ProductController : GetAllProducts
+2022-12-09 15:36:54.2868 INFO GenerictRepository: GetAll
+2022-12-09 15:37:04.2585 INFO ProductController : GetAllProducts
+2022-12-09 15:37:04.2585 INFO GenerictRepository: GetAll
+2022-12-09 15:37:08.1217 INFO ProductController : GetAllProducts
+2022-12-09 15:37:08.1217 INFO GenerictRepository: GetAll
+2022-12-09 15:37:22.5352 INFO ProductController : GetAllProducts
+2022-12-09 15:37:22.5352 INFO GenerictRepository: GetAll
+2022-12-09 15:44:51.9935 INFO ProductController : GetAllProducts
+2022-12-09 15:44:51.9935 INFO GenerictRepository: GetAll
+2022-12-09 15:46:21.9069 INFO CustomerController : GetAll
+2022-12-09 15:46:21.9069 INFO GenerictRepository: GetAll
+2022-12-09 15:46:43.2702 INFO CustomerController : GetAll
+2022-12-09 15:46:43.2702 INFO GenerictRepository: GetAll
+2022-12-09 15:46:59.5225 INFO CustomerController : GetAll
+2022-12-09 15:46:59.5225 INFO GenerictRepository: GetAll
+2022-12-09 15:47:00.8199 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:00.8199 INFO GenerictRepository: GetAll
+2022-12-09 15:47:08.5959 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:08.5959 INFO GenerictRepository: GetAll
+2022-12-09 15:47:15.9255 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:15.9255 INFO GenerictRepository: GetAll
+2022-12-09 15:47:20.3432 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:20.3432 INFO GenerictRepository: GetAll
+2022-12-09 15:47:23.9146 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:23.9146 INFO GenerictRepository: GetAll
+2022-12-09 15:47:27.1307 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:27.1307 INFO GenerictRepository: GetAll
+2022-12-09 15:47:30.5918 INFO CustomerController : GetAll
+2022-12-09 15:47:30.5918 INFO GenerictRepository: GetAll
+2022-12-09 15:47:31.8366 INFO ProductController : GetAllProducts
+2022-12-09 15:47:31.8366 INFO GenerictRepository: GetAll
+2022-12-09 15:47:32.6191 INFO CustomerController : GetAll
+2022-12-09 15:47:32.6191 INFO GenerictRepository: GetAll
+2022-12-09 15:47:33.1537 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:33.1537 INFO GenerictRepository: GetAll
+2022-12-09 15:47:33.6571 INFO CustomerController : GetAll
+2022-12-09 15:47:33.6571 INFO GenerictRepository: GetAll
+2022-12-09 15:47:34.1397 INFO ProductController : GetAllProducts
+2022-12-09 15:47:34.1397 INFO GenerictRepository: GetAll
+2022-12-09 15:47:34.7289 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:34.7289 INFO GenerictRepository: GetAll
+2022-12-09 15:47:37.7234 INFO CustomerController : GetAll
+2022-12-09 15:47:37.7234 INFO GenerictRepository: GetAll
+2022-12-09 15:47:38.9369 INFO ProductController : GetAllProducts
+2022-12-09 15:47:38.9369 INFO GenerictRepository: GetAll
+2022-12-09 15:47:43.0812 INFO CustomerController : GetAll
+2022-12-09 15:47:43.0812 INFO GenerictRepository: GetAll
+2022-12-09 15:47:47.4377 INFO BuyOrderController : GetAlls
+2022-12-09 15:47:47.4377 INFO GenerictRepository: GetAll
+2022-12-09 15:47:56.8814 INFO BuyOrderController : GetProductById
+2022-12-09 15:47:56.8814 INFO GenerictRepository: GetAll
+2022-12-09 15:47:56.8814 INFO ProductController : GetAllProducts
+2022-12-09 15:47:56.8814 INFO GenerictRepository: GetAll
+2022-12-09 15:57:51.7503 INFO BuyOrderController : GetAlls
+2022-12-09 15:57:51.7503 INFO GenerictRepository: GetAll
+2022-12-09 16:06:34.7315 INFO BuyOrderController : GetAlls
+2022-12-09 16:06:34.7315 INFO GenerictRepository: GetAll
+2022-12-09 16:06:45.2674 INFO BuyOrderController : GetAlls
+2022-12-09 16:06:45.2674 INFO GenerictRepository: GetAll
+2022-12-09 16:06:56.5381 INFO BuyOrderController : GetAlls
+2022-12-09 16:06:56.5381 INFO GenerictRepository: GetAll
+2022-12-09 16:07:12.7962 INFO CustomerController : GetAll
+2022-12-09 16:07:12.7962 INFO GenerictRepository: GetAll
+2022-12-09 16:07:13.2617 INFO ProductController : GetAllProducts
+2022-12-09 16:07:13.2617 INFO GenerictRepository: GetAll
+2022-12-09 16:07:15.0250 INFO ProductController : GetAllProducts
+2022-12-09 16:07:15.0250 INFO GenerictRepository: GetAll
+2022-12-09 16:07:16.9431 INFO CustomerController : GetAll
+2022-12-09 16:07:16.9431 INFO GenerictRepository: GetAll
+2022-12-09 16:07:32.3148 INFO CustomerController : GetAll
+2022-12-09 16:07:32.3148 INFO GenerictRepository: GetAll
+2022-12-09 16:07:56.9034 INFO ProductController : GetAllProducts
+2022-12-09 16:07:56.9034 INFO GenerictRepository: GetAll
+2022-12-09 16:07:58.5502 INFO ProductController : GetAllProducts
+2022-12-09 16:07:58.5502 INFO GenerictRepository: GetAll
+2022-12-09 16:07:59.7471 INFO CustomerController : GetAll
+2022-12-09 16:07:59.7471 INFO GenerictRepository: GetAll
+2022-12-09 16:08:03.5588 INFO BuyOrderController : GetAlls
+2022-12-09 16:08:03.5588 INFO GenerictRepository: GetAll
+2022-12-09 16:15:27.7437 INFO BuyOrderController : GetAlls
+2022-12-09 16:15:27.7437 INFO GenerictRepository: GetAll
+2022-12-09 16:32:25.8706 INFO ProductController : GetAllProducts
+2022-12-09 16:32:25.8706 INFO GenerictRepository: GetAll
+2022-12-09 16:32:26.7884 INFO CustomerController : GetAll
+2022-12-09 16:32:26.7884 INFO GenerictRepository: GetAll
+2022-12-09 16:32:27.7712 INFO ProductController : GetAllProducts
+2022-12-09 16:32:27.7712 INFO GenerictRepository: GetAll
+2022-12-09 16:32:28.7634 INFO CustomerController : GetAll
+2022-12-09 16:32:28.7634 INFO GenerictRepository: GetAll
+2022-12-09 16:32:29.5750 INFO BuyOrderController : GetAlls
+2022-12-09 16:32:29.5750 INFO GenerictRepository: GetAll
+2022-12-09 16:32:32.5035 INFO CustomerController : GetAll
+2022-12-09 16:32:32.5035 INFO GenerictRepository: GetAll
+2022-12-09 16:32:33.6834 INFO ProductController : GetAllProducts
+2022-12-09 16:32:33.6834 INFO GenerictRepository: GetAll
+2022-12-09 16:32:34.5865 INFO CustomerController : GetAll
+2022-12-09 16:32:34.5865 INFO GenerictRepository: GetAll
+2022-12-09 16:32:35.0525 INFO BuyOrderController : GetAlls
+2022-12-09 16:32:35.0525 INFO GenerictRepository: GetAll
+2022-12-09 16:32:36.7302 INFO CustomerController : GetAll
+2022-12-09 16:32:36.7302 INFO GenerictRepository: GetAll
+2022-12-09 16:32:37.8817 INFO ProductController : GetAllProducts
+2022-12-09 16:32:37.8817 INFO GenerictRepository: GetAll
+2022-12-09 16:32:40.5783 INFO CustomerController : GetAll
+2022-12-09 16:32:40.5783 INFO GenerictRepository: GetAll
+2022-12-09 16:32:43.9669 INFO BuyOrderController : GetAlls
+2022-12-09 16:32:43.9669 INFO GenerictRepository: GetAll
+2022-12-09 16:32:46.0445 INFO ProductController : GetAllProducts
+2022-12-09 16:32:46.0445 INFO GenerictRepository: GetAll
+2022-12-09 16:32:46.0465 INFO BuyOrderController : GetProductById
+2022-12-09 16:32:46.0465 INFO GenerictRepository: GetAll
+2022-12-09 16:32:50.5931 INFO ProductController : GetAllProducts
+2022-12-09 16:32:50.5931 INFO GenerictRepository: GetAll
+2022-12-09 16:32:50.5931 INFO BuyOrderController : GetProductById
+2022-12-09 16:32:50.5931 INFO GenerictRepository: GetAll
+2022-12-09 16:33:17.2105 INFO ProductController : GetAllProducts
+2022-12-09 16:33:17.2105 INFO GenerictRepository: GetAll
+2022-12-09 16:33:31.1683 INFO ProductController : GetAllProducts
+2022-12-09 16:33:31.1683 INFO GenerictRepository: GetAll
+2022-12-09 16:33:51.3935 INFO ProductController : GetAllProducts
+2022-12-09 16:33:51.3935 INFO GenerictRepository: GetAll
+2022-12-09 16:33:51.3935 INFO BuyOrderController : GetProductById
+2022-12-09 16:33:51.3935 INFO GenerictRepository: GetAll
+2022-12-09 16:34:06.4124 INFO BuyOrderController : Put
+2022-12-09 16:34:06.4124 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 16:34:06.4124 INFO GenerictRepository: Update
+2022-12-09 16:34:06.4215 INFO GenerictRepository: Save
+2022-12-09 16:34:06.4524 INFO BuyOrderController : GetAlls
+2022-12-09 16:34:06.4524 INFO GenerictRepository: GetAll
+2022-12-09 16:34:06.4524 INFO BuyOrderController : GetAlls
+2022-12-09 16:34:06.4524 INFO GenerictRepository: GetAll
+2022-12-09 16:34:06.4524 INFO BuyOrderController : GetAlls
+2022-12-09 16:34:06.4524 INFO GenerictRepository: GetAll
+2022-12-09 16:34:06.4524 INFO BuyOrderController : GetAlls
+2022-12-09 16:34:06.4524 INFO GenerictRepository: GetAll
+2022-12-09 16:34:07.8298 INFO ProductController : GetAllProducts
+2022-12-09 16:34:07.8298 INFO GenerictRepository: GetAll
+2022-12-09 16:34:07.8298 INFO BuyOrderController : GetProductById
+2022-12-09 16:34:07.8298 INFO GenerictRepository: GetAll
+2022-12-09 16:34:11.8962 INFO BuyOrderController : GetAlls
+2022-12-09 16:34:11.8962 INFO GenerictRepository: GetAll
+2022-12-09 16:34:54.1557 INFO BuyOrderController : GetAlls
+2022-12-09 16:34:54.1557 INFO GenerictRepository: GetAll
+2022-12-09 16:35:04.6818 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:04.6818 INFO GenerictRepository: GetAll
+2022-12-09 16:35:07.2539 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:07.2539 INFO GenerictRepository: GetAll
+2022-12-09 16:35:10.4311 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:10.4311 INFO GenerictRepository: GetAll
+2022-12-09 16:35:14.9848 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:14.9848 INFO GenerictRepository: GetAll
+2022-12-09 16:35:19.0995 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:19.0995 INFO GenerictRepository: GetAll
+2022-12-09 16:35:21.2146 INFO ProductController : GetAllProducts
+2022-12-09 16:35:21.2146 INFO GenerictRepository: GetAll
+2022-12-09 16:35:53.5573 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:53.5573 INFO GenerictRepository: GetAll
+2022-12-09 16:35:53.5607 INFO ProductController : GetAllProducts
+2022-12-09 16:35:53.5607 INFO GenerictRepository: GetAll
+2022-12-09 16:35:58.1959 INFO BuyOrderController : GetAlls
+2022-12-09 16:35:58.1959 INFO GenerictRepository: GetAll
+2022-12-09 16:35:58.1959 INFO ProductController : GetAllProducts
+2022-12-09 16:35:58.1959 INFO GenerictRepository: GetAll
+2022-12-09 16:36:29.1507 INFO BuyOrderController : GetAlls
+2022-12-09 16:36:29.1507 INFO GenerictRepository: GetAll
+2022-12-09 16:36:29.1507 INFO ProductController : GetAllProducts
+2022-12-09 16:36:29.1507 INFO GenerictRepository: GetAll
+2022-12-09 16:36:38.6377 INFO BuyOrderController : GetAlls
+2022-12-09 16:36:38.6377 INFO GenerictRepository: GetAll
+2022-12-09 16:36:38.6504 INFO ProductController : GetAllProducts
+2022-12-09 16:36:38.6504 INFO GenerictRepository: GetAll
+2022-12-09 16:37:39.3801 INFO BuyOrderController : GetAlls
+2022-12-09 16:37:39.3801 INFO GenerictRepository: GetAll
+2022-12-09 16:37:39.3801 INFO ProductController : GetAllProducts
+2022-12-09 16:37:39.3801 INFO GenerictRepository: GetAll
+2022-12-09 16:37:41.5884 INFO BuyOrderController : GetAlls
+2022-12-09 16:37:41.5884 INFO GenerictRepository: GetAll
+2022-12-09 16:37:41.5911 INFO ProductController : GetAllProducts
+2022-12-09 16:37:41.5911 INFO GenerictRepository: GetAll
+2022-12-09 16:37:44.9573 INFO BuyOrderController : GetAlls
+2022-12-09 16:37:44.9573 INFO GenerictRepository: GetAll
+2022-12-09 16:37:44.9573 INFO ProductController : GetAllProducts
+2022-12-09 16:37:44.9573 INFO GenerictRepository: GetAll
+2022-12-09 16:38:14.2158 INFO BuyOrderController : GetAlls
+2022-12-09 16:38:14.2159 INFO GenerictRepository: GetAll
+2022-12-09 16:38:15.5156 INFO ProductController : GetAllProducts
+2022-12-09 16:38:15.5156 INFO GenerictRepository: GetAll
+2022-12-09 16:38:15.5156 INFO BuyOrderController : GetProductById
+2022-12-09 16:38:15.5156 INFO GenerictRepository: GetAll
+2022-12-09 16:38:27.0716 INFO BuyOrderController : GetAlls
+2022-12-09 16:38:27.0716 INFO GenerictRepository: GetAll
+2022-12-09 16:38:28.5164 INFO ProductController : GetAllProducts
+2022-12-09 16:38:28.5164 INFO GenerictRepository: GetAll
+2022-12-09 16:38:28.5164 INFO BuyOrderController : GetProductById
+2022-12-09 16:38:28.5164 INFO GenerictRepository: GetAll
+2022-12-09 16:38:44.9728 INFO BuyOrderController : GetAlls
+2022-12-09 16:38:44.9728 INFO GenerictRepository: GetAll
+2022-12-09 16:38:49.5611 INFO BuyOrderController : GetAlls
+2022-12-09 16:38:49.5611 INFO GenerictRepository: GetAll
+2022-12-09 16:38:53.0210 INFO BuyOrderController : GetAlls
+2022-12-09 16:38:53.0210 INFO GenerictRepository: GetAll
+2022-12-09 16:38:53.8798 INFO ProductController : GetAllProducts
+2022-12-09 16:38:53.8798 INFO GenerictRepository: GetAll
+2022-12-09 16:38:53.8798 INFO BuyOrderController : GetProductById
+2022-12-09 16:38:53.8798 INFO GenerictRepository: GetAll
+2022-12-09 16:39:16.1975 INFO BuyOrderController : GetAlls
+2022-12-09 16:39:16.1975 INFO GenerictRepository: GetAll
+2022-12-09 16:56:13.5264 INFO BuyOrderController : GetAlls
+2022-12-09 16:56:13.5264 INFO GenerictRepository: GetAll
+2022-12-09 16:56:16.8973 INFO BuyOrderController : GetProductById
+2022-12-09 16:56:16.8973 INFO GenerictRepository: GetAll
+2022-12-09 16:56:16.8973 INFO ProductController : GetAllProducts
+2022-12-09 16:56:16.8973 INFO GenerictRepository: GetAll
+2022-12-09 17:11:52.5668 INFO CustomerController : GetAll
+2022-12-09 17:11:52.5668 INFO GenerictRepository: GetAll
+2022-12-09 17:11:53.3506 INFO ProductController : GetAllProducts
+2022-12-09 17:11:53.3506 INFO GenerictRepository: GetAll
+2022-12-09 17:12:08.4357 INFO ProductController : Put
+2022-12-09 17:12:08.4755 INFO ProductService: UpdateProduct
+2022-12-09 17:12:08.4755 INFO GenerictRepository: Update
+2022-12-09 17:12:08.4913 INFO GenerictRepository: Save
+2022-12-09 17:12:08.6219 INFO ProductController : GetAllProducts
+2022-12-09 17:12:08.6219 INFO GenerictRepository: GetAll
+2022-12-09 17:12:13.1772 INFO CustomerController : GetAll
+2022-12-09 17:12:13.1772 INFO GenerictRepository: GetAll
+2022-12-09 17:12:21.0517 INFO CustomerController : Put
+2022-12-09 17:12:21.0517 INFO CustomerService: CreateCustomer
+2022-12-09 17:12:21.0517 INFO GenerictRepository: Update
+2022-12-09 17:12:21.0605 INFO GenerictRepository: Save
+2022-12-09 17:12:21.1715 INFO CustomerController : GetAll
+2022-12-09 17:12:21.1715 INFO GenerictRepository: GetAll
+2022-12-09 17:12:24.3928 INFO BuyOrderController : GetAlls
+2022-12-09 17:12:24.3928 INFO GenerictRepository: GetAll
+2022-12-09 17:12:26.7316 INFO ProductController : GetAllProducts
+2022-12-09 17:12:26.7316 INFO GenerictRepository: GetAll
+2022-12-09 17:12:26.7325 INFO BuyOrderController : GetProductById
+2022-12-09 17:12:26.7325 INFO GenerictRepository: GetAll
+2022-12-09 17:12:41.4537 INFO BuyOrderController : Put
+2022-12-09 17:12:41.4537 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 17:12:41.4537 INFO GenerictRepository: Update
+2022-12-09 17:12:41.4537 INFO GenerictRepository: Save
+2022-12-09 17:12:41.4693 INFO BuyOrderController : GetAlls
+2022-12-09 17:12:41.4693 INFO GenerictRepository: GetAll
+2022-12-09 17:12:41.4693 INFO BuyOrderController : GetAlls
+2022-12-09 17:12:41.4693 INFO GenerictRepository: GetAll
+2022-12-09 17:12:43.9395 INFO ProductController : GetAllProducts
+2022-12-09 17:12:43.9395 INFO GenerictRepository: GetAll
+2022-12-09 17:12:43.9395 INFO BuyOrderController : GetProductById
+2022-12-09 17:12:43.9395 INFO GenerictRepository: GetAll
+2022-12-09 17:27:06.4112 INFO BuyOrderController : GetAlls
+2022-12-09 17:27:06.4112 INFO GenerictRepository: GetAll
+2022-12-09 17:29:49.4734 INFO BuyOrderController : GetAlls
+2022-12-09 17:29:49.4734 INFO GenerictRepository: GetAll
+2022-12-09 17:29:56.0920 INFO ProductController : GetAllProducts
+2022-12-09 17:29:56.0920 INFO GenerictRepository: GetAll
+2022-12-09 17:29:56.0991 INFO BuyOrderController : GetProductById
+2022-12-09 17:29:56.0991 INFO GenerictRepository: GetAll
+2022-12-09 17:30:55.4252 INFO BuyOrderController : GetAlls
+2022-12-09 17:30:55.4252 INFO GenerictRepository: GetAll
+2022-12-09 17:30:55.4252 INFO ProductController : GetAllProducts
+2022-12-09 17:30:55.4252 INFO GenerictRepository: GetAll
+2022-12-09 17:30:55.4252 INFO BuyOrderController : GetProductById
+2022-12-09 17:30:55.4252 INFO GenerictRepository: GetAll
+2022-12-09 17:31:02.2578 INFO ProductController : GetAllProducts
+2022-12-09 17:31:02.2578 INFO GenerictRepository: GetAll
+2022-12-09 17:31:16.7489 INFO BuyOrderController : GetAlls
+2022-12-09 17:31:16.7489 INFO GenerictRepository: GetAll
+2022-12-09 17:31:16.7537 INFO ProductController : GetAllProducts
+2022-12-09 17:31:16.7537 INFO GenerictRepository: GetAll
+2022-12-09 17:31:28.0174 INFO BuyOrderController : GetAlls
+2022-12-09 17:31:28.0174 INFO GenerictRepository: GetAll
+2022-12-09 17:31:28.0174 INFO ProductController : GetAllProducts
+2022-12-09 17:31:28.0174 INFO GenerictRepository: GetAll
+2022-12-09 17:31:30.6749 INFO BuyOrderController : GetAlls
+2022-12-09 17:31:30.6749 INFO GenerictRepository: GetAll
+2022-12-09 17:31:30.6749 INFO ProductController : GetAllProducts
+2022-12-09 17:31:30.6749 INFO GenerictRepository: GetAll
+2022-12-09 17:32:00.8323 INFO BuyOrderController : GetAlls
+2022-12-09 17:32:00.8323 INFO GenerictRepository: GetAll
+2022-12-09 17:32:00.8323 INFO ProductController : GetAllProducts
+2022-12-09 17:32:00.8323 INFO GenerictRepository: GetAll
+2022-12-09 17:34:54.5123 INFO BuyOrderController : GetAlls
+2022-12-09 17:34:54.5123 INFO GenerictRepository: GetAll
+2022-12-09 17:34:54.5182 INFO ProductController : GetAllProducts
+2022-12-09 17:34:54.5182 INFO GenerictRepository: GetAll
+2022-12-09 17:35:42.9471 INFO BuyOrderController : GetAlls
+2022-12-09 17:35:42.9471 INFO GenerictRepository: GetAll
+2022-12-09 17:35:42.9512 INFO ProductController : GetAllProducts
+2022-12-09 17:35:42.9512 INFO GenerictRepository: GetAll
+2022-12-09 17:35:46.1100 INFO BuyOrderController : GetAlls
+2022-12-09 17:35:46.1100 INFO GenerictRepository: GetAll
+2022-12-09 17:35:46.1100 INFO ProductController : GetAllProducts
+2022-12-09 17:35:46.1100 INFO GenerictRepository: GetAll
+2022-12-09 17:35:57.4038 INFO BuyOrderController : GetAlls
+2022-12-09 17:35:57.4038 INFO GenerictRepository: GetAll
+2022-12-09 17:35:57.4038 INFO ProductController : GetAllProducts
+2022-12-09 17:35:57.4038 INFO GenerictRepository: GetAll
+2022-12-09 17:36:06.9706 INFO BuyOrderController : GetAlls
+2022-12-09 17:36:06.9706 INFO GenerictRepository: GetAll
+2022-12-09 17:36:06.9706 INFO ProductController : GetAllProducts
+2022-12-09 17:36:06.9706 INFO GenerictRepository: GetAll
+2022-12-09 17:36:12.6477 INFO BuyOrderController : GetAlls
+2022-12-09 17:36:12.6477 INFO GenerictRepository: GetAll
+2022-12-09 17:36:12.6573 INFO ProductController : GetAllProducts
+2022-12-09 17:36:12.6573 INFO GenerictRepository: GetAll
+2022-12-09 17:36:16.0498 INFO BuyOrderController : GetAlls
+2022-12-09 17:36:16.0498 INFO GenerictRepository: GetAll
+2022-12-09 17:36:16.0498 INFO ProductController : GetAllProducts
+2022-12-09 17:36:16.0498 INFO GenerictRepository: GetAll
+2022-12-09 18:15:07.2835 INFO ProductController : GetAllProducts
+2022-12-09 18:15:07.2835 INFO GenerictRepository: GetAll
+2022-12-09 18:15:09.4127 INFO BuyOrderController : GetAlls
+2022-12-09 18:15:09.4127 INFO GenerictRepository: GetAll
+2022-12-09 18:15:09.4127 INFO ProductController : GetAllProducts
+2022-12-09 18:15:09.4127 INFO GenerictRepository: GetAll
+2022-12-09 18:15:13.8944 INFO ProductController : GetAllProducts
+2022-12-09 18:15:13.8944 INFO GenerictRepository: GetAll
+2022-12-09 18:15:23.8983 INFO BuyOrderController : GetAlls
+2022-12-09 18:15:23.8983 INFO GenerictRepository: GetAll
+2022-12-09 18:17:28.4136 INFO ProductController : GetAllProducts
+2022-12-09 18:17:28.4136 INFO GenerictRepository: GetAll
+2022-12-09 18:17:28.4136 INFO BuyOrderController : GetProductById
+2022-12-09 18:17:28.4136 INFO GenerictRepository: GetAll
+2022-12-09 18:17:30.8119 INFO BuyOrderController : Put
+2022-12-09 18:17:30.8119 INFO BuyOrderService: UpdateBuyOrder
+2022-12-09 18:17:30.8119 INFO GenerictRepository: Update
+2022-12-09 18:17:30.8119 INFO GenerictRepository: Save
+2022-12-09 18:17:30.8351 INFO BuyOrderController : GetAlls
+2022-12-09 18:17:30.8351 INFO GenerictRepository: GetAll
+2022-12-09 18:17:36.9978 INFO ProductController : GetAllProducts
+2022-12-09 18:17:36.9978 INFO GenerictRepository: GetAll
+2022-12-09 18:17:36.9978 INFO BuyOrderController : GetProductById
+2022-12-09 18:17:36.9978 INFO GenerictRepository: GetAll
+2022-12-09 18:17:54.0082 INFO BuyOrderController : GetAlls
+2022-12-09 18:17:54.0082 INFO GenerictRepository: GetAll
+2022-12-09 18:19:08.4648 INFO ProductController : GetAllProducts
+2022-12-09 18:19:08.4648 INFO GenerictRepository: GetAll
+2022-12-09 18:19:09.2572 INFO CustomerController : GetAll
+2022-12-09 18:19:09.2572 INFO GenerictRepository: GetAll
+2022-12-09 18:19:10.0077 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:10.0077 INFO GenerictRepository: GetAll
+2022-12-09 18:19:10.7414 INFO ProductController : GetAllProducts
+2022-12-09 18:19:10.7414 INFO GenerictRepository: GetAll
+2022-12-09 18:19:11.6387 INFO CustomerController : GetAll
+2022-12-09 18:19:11.6387 INFO GenerictRepository: GetAll
+2022-12-09 18:19:12.4779 INFO ProductController : GetAllProducts
+2022-12-09 18:19:12.4779 INFO GenerictRepository: GetAll
+2022-12-09 18:19:12.9429 INFO CustomerController : GetAll
+2022-12-09 18:19:12.9429 INFO GenerictRepository: GetAll
+2022-12-09 18:19:13.7643 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:13.7643 INFO GenerictRepository: GetAll
+2022-12-09 18:19:14.3103 INFO CustomerController : GetAll
+2022-12-09 18:19:14.3103 INFO GenerictRepository: GetAll
+2022-12-09 18:19:15.1557 INFO ProductController : GetAllProducts
+2022-12-09 18:19:15.1557 INFO GenerictRepository: GetAll
+2022-12-09 18:19:17.9554 INFO CustomerController : GetAll
+2022-12-09 18:19:17.9554 INFO GenerictRepository: GetAll
+2022-12-09 18:19:19.9242 INFO ProductController : GetAllProducts
+2022-12-09 18:19:19.9242 INFO GenerictRepository: GetAll
+2022-12-09 18:19:21.1983 INFO CustomerController : GetAll
+2022-12-09 18:19:21.1983 INFO GenerictRepository: GetAll
+2022-12-09 18:19:22.4442 INFO ProductController : GetAllProducts
+2022-12-09 18:19:22.4442 INFO GenerictRepository: GetAll
+2022-12-09 18:19:23.1628 INFO CustomerController : GetAll
+2022-12-09 18:19:23.1628 INFO GenerictRepository: GetAll
+2022-12-09 18:19:24.3078 INFO ProductController : GetAllProducts
+2022-12-09 18:19:24.3078 INFO GenerictRepository: GetAll
+2022-12-09 18:19:24.8987 INFO CustomerController : GetAll
+2022-12-09 18:19:24.8987 INFO GenerictRepository: GetAll
+2022-12-09 18:19:25.4316 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:25.4316 INFO GenerictRepository: GetAll
+2022-12-09 18:19:25.9820 INFO CustomerController : GetAll
+2022-12-09 18:19:25.9820 INFO GenerictRepository: GetAll
+2022-12-09 18:19:26.4437 INFO ProductController : GetAllProducts
+2022-12-09 18:19:26.4437 INFO GenerictRepository: GetAll
+2022-12-09 18:19:26.8839 INFO CustomerController : GetAll
+2022-12-09 18:19:26.8839 INFO GenerictRepository: GetAll
+2022-12-09 18:19:27.6010 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:27.6010 INFO GenerictRepository: GetAll
+2022-12-09 18:19:28.0684 INFO CustomerController : GetAll
+2022-12-09 18:19:28.0684 INFO GenerictRepository: GetAll
+2022-12-09 18:19:28.6916 INFO ProductController : GetAllProducts
+2022-12-09 18:19:28.6916 INFO GenerictRepository: GetAll
+2022-12-09 18:19:29.1278 INFO CustomerController : GetAll
+2022-12-09 18:19:29.1278 INFO GenerictRepository: GetAll
+2022-12-09 18:19:29.9618 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:29.9618 INFO GenerictRepository: GetAll
+2022-12-09 18:19:30.4672 INFO CustomerController : GetAll
+2022-12-09 18:19:30.4672 INFO GenerictRepository: GetAll
+2022-12-09 18:19:31.0434 INFO ProductController : GetAllProducts
+2022-12-09 18:19:31.0434 INFO GenerictRepository: GetAll
+2022-12-09 18:19:31.9801 INFO CustomerController : GetAll
+2022-12-09 18:19:31.9801 INFO GenerictRepository: GetAll
+2022-12-09 18:19:32.4910 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:32.4910 INFO GenerictRepository: GetAll
+2022-12-09 18:19:33.4843 INFO CustomerController : GetAll
+2022-12-09 18:19:33.4843 INFO GenerictRepository: GetAll
+2022-12-09 18:19:35.0912 INFO ProductController : GetAllProducts
+2022-12-09 18:19:35.0912 INFO GenerictRepository: GetAll
+2022-12-09 18:19:35.2759 INFO CustomerController : GetAll
+2022-12-09 18:19:35.2759 INFO GenerictRepository: GetAll
+2022-12-09 18:19:36.4549 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:36.4549 INFO GenerictRepository: GetAll
+2022-12-09 18:19:36.8980 INFO CustomerController : GetAll
+2022-12-09 18:19:36.8980 INFO GenerictRepository: GetAll
+2022-12-09 18:19:37.8907 INFO ProductController : GetAllProducts
+2022-12-09 18:19:37.8907 INFO GenerictRepository: GetAll
+2022-12-09 18:19:38.2981 INFO CustomerController : GetAll
+2022-12-09 18:19:38.2981 INFO GenerictRepository: GetAll
+2022-12-09 18:19:38.9146 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:38.9146 INFO GenerictRepository: GetAll
+2022-12-09 18:19:39.4984 INFO CustomerController : GetAll
+2022-12-09 18:19:39.4984 INFO GenerictRepository: GetAll
+2022-12-09 18:19:39.9704 INFO ProductController : GetAllProducts
+2022-12-09 18:19:39.9704 INFO GenerictRepository: GetAll
+2022-12-09 18:19:40.4440 INFO CustomerController : GetAll
+2022-12-09 18:19:40.4440 INFO GenerictRepository: GetAll
+2022-12-09 18:19:40.8978 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:40.8978 INFO GenerictRepository: GetAll
+2022-12-09 18:19:41.3309 INFO CustomerController : GetAll
+2022-12-09 18:19:41.3309 INFO GenerictRepository: GetAll
+2022-12-09 18:19:42.0666 INFO ProductController : GetAllProducts
+2022-12-09 18:19:42.0666 INFO GenerictRepository: GetAll
+2022-12-09 18:19:42.4898 INFO CustomerController : GetAll
+2022-12-09 18:19:42.4898 INFO GenerictRepository: GetAll
+2022-12-09 18:19:43.0669 INFO BuyOrderController : GetAlls
+2022-12-09 18:19:43.0669 INFO GenerictRepository: GetAll
+2022-12-09 18:19:44.3011 INFO ProductController : GetAllProducts
+2022-12-09 18:19:44.3011 INFO GenerictRepository: GetAll
+2022-12-09 18:19:47.4282 INFO ProductController : GetAllProducts
+2022-12-09 18:19:47.4282 INFO GenerictRepository: GetAll
+2022-12-09 18:19:49.3475 INFO CustomerController : GetAll
+2022-12-09 18:19:49.3475 INFO GenerictRepository: GetAll
+2022-12-09 18:19:50.5495 INFO ProductController : GetAllProducts
+2022-12-09 18:19:50.5495 INFO GenerictRepository: GetAll
+2022-12-09 18:20:37.7292 INFO ProductController : GetAllProducts
+2022-12-09 18:20:37.7292 INFO GenerictRepository: GetAll
+2022-12-09 18:20:51.1904 INFO CustomerController : GetAll
+2022-12-09 18:20:51.1904 INFO GenerictRepository: GetAll
+2022-12-09 18:20:51.7872 INFO ProductController : GetAllProducts
+2022-12-09 18:20:51.7872 INFO GenerictRepository: GetAll
+2022-12-09 18:25:48.9346 INFO CustomerController : GetAll
+2022-12-09 18:25:48.9346 INFO GenerictRepository: GetAll
+2022-12-09 18:25:49.9580 INFO BuyOrderController : GetAlls
+2022-12-09 18:25:49.9580 INFO GenerictRepository: GetAll
+2022-12-09 18:25:51.6231 INFO CustomerController : GetAll
+2022-12-09 18:25:51.6231 INFO GenerictRepository: GetAll
+2022-12-09 18:25:52.6397 INFO ProductController : GetAllProducts
+2022-12-09 18:25:52.6397 INFO GenerictRepository: GetAll
+2022-12-09 18:25:53.7257 INFO CustomerController : GetAll
+2022-12-09 18:25:53.7257 INFO GenerictRepository: GetAll
+2022-12-09 18:25:54.3085 INFO BuyOrderController : GetAlls
+2022-12-09 18:25:54.3085 INFO GenerictRepository: GetAll
+2022-12-09 18:25:57.3726 INFO CustomerController : GetAll
+2022-12-09 18:25:57.3726 INFO GenerictRepository: GetAll
+2022-12-09 18:25:58.7868 INFO BuyOrderController : GetAlls
+2022-12-09 18:25:58.7868 INFO GenerictRepository: GetAll
+2022-12-09 18:26:11.3641 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:11.3641 INFO GenerictRepository: GetAll
+2022-12-09 18:26:15.0518 INFO CustomerController : GetAll
+2022-12-09 18:26:15.0518 INFO GenerictRepository: GetAll
+2022-12-09 18:26:15.8090 INFO ProductController : GetAllProducts
+2022-12-09 18:26:15.8090 INFO GenerictRepository: GetAll
+2022-12-09 18:26:16.5642 INFO CustomerController : GetAll
+2022-12-09 18:26:16.5642 INFO GenerictRepository: GetAll
+2022-12-09 18:26:17.4072 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:17.4072 INFO GenerictRepository: GetAll
+2022-12-09 18:26:21.0932 INFO CustomerController : GetAll
+2022-12-09 18:26:21.0932 INFO GenerictRepository: GetAll
+2022-12-09 18:26:22.7117 INFO ProductController : GetAllProducts
+2022-12-09 18:26:22.7117 INFO GenerictRepository: GetAll
+2022-12-09 18:26:23.2143 INFO CustomerController : GetAll
+2022-12-09 18:26:23.2143 INFO GenerictRepository: GetAll
+2022-12-09 18:26:23.8006 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:23.8006 INFO GenerictRepository: GetAll
+2022-12-09 18:26:29.9591 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:29.9591 INFO GenerictRepository: GetAll
+2022-12-09 18:26:34.0427 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:34.0427 INFO GenerictRepository: GetAll
+2022-12-09 18:26:37.5539 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:37.5539 INFO GenerictRepository: GetAll
+2022-12-09 18:26:41.9454 INFO CustomerController : GetAll
+2022-12-09 18:26:41.9454 INFO GenerictRepository: GetAll
+2022-12-09 18:26:45.6229 INFO ProductController : GetAllProducts
+2022-12-09 18:26:45.6229 INFO GenerictRepository: GetAll
+2022-12-09 18:26:47.3219 INFO ProductController : GetAllProducts
+2022-12-09 18:26:47.3219 INFO GenerictRepository: GetAll
+2022-12-09 18:26:48.7598 INFO CustomerController : GetAll
+2022-12-09 18:26:48.7598 INFO GenerictRepository: GetAll
+2022-12-09 18:26:57.6677 INFO BuyOrderController : GetAlls
+2022-12-09 18:26:57.6677 INFO GenerictRepository: GetAll
+2022-12-09 18:27:00.9423 INFO CustomerController : GetAll
+2022-12-09 18:27:00.9423 INFO GenerictRepository: GetAll
+2022-12-09 18:27:02.1408 INFO ProductController : GetAllProducts
+2022-12-09 18:27:02.1408 INFO GenerictRepository: GetAll
+2022-12-09 18:27:03.1575 INFO CustomerController : GetAll
+2022-12-09 18:27:03.1575 INFO GenerictRepository: GetAll
+2022-12-09 18:27:05.9558 INFO BuyOrderController : GetAlls
+2022-12-09 18:27:05.9558 INFO GenerictRepository: GetAll
+2022-12-09 18:27:08.0431 INFO CustomerController : GetAll
+2022-12-09 18:27:08.0431 INFO GenerictRepository: GetAll
+2022-12-09 18:27:16.4165 INFO BuyOrderController : GetAlls
+2022-12-09 18:27:16.4165 INFO GenerictRepository: GetAll
+2022-12-09 18:27:17.3751 INFO ProductController : GetAllProducts
+2022-12-09 18:27:17.3751 INFO GenerictRepository: GetAll
+2022-12-09 18:27:20.6932 INFO ProductController : GetAllProducts
+2022-12-09 18:27:20.6932 INFO BuyOrderController : GetProductById
+2022-12-09 18:27:20.6932 INFO GenerictRepository: GetAll
+2022-12-09 18:27:20.6932 INFO GenerictRepository: GetAll

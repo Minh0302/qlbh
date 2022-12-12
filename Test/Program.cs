@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NLog;
+using System.Text.Json.Serialization;
 using Test.Data;
 using Test.Helpers;
 using Test.Repositories;
@@ -26,6 +27,12 @@ builder.Services.AddScoped<IOrderDetailService, OrderDetailService>();
 builder.Services.AddAutoMapper(typeof(Program));
 LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/Helpers/nlog.config"));
 builder.Services.AddScoped<ILoggerManager, LoggerManager>();
+
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+    options.JsonSerializerOptions.WriteIndented = true;
+});
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

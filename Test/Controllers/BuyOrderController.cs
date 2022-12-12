@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Test.Helpers;
 using Test.Models;
+using Test.Paging;
 using Test.Services;
 
 namespace Test.Controllers
@@ -19,10 +20,20 @@ namespace Test.Controllers
             _logger = logger;
         }
         [HttpGet]
-        public ActionResult GetAlls()
+        //public ActionResult GetAlls()
+        //{
+        //    _logger.LogInfo("BuyOrderController : GetAlls");
+        //    return Ok(_buyOrderService.GetAllBuyOrders());
+        //}
+        public ActionResult GetAlls([FromQuery] PagingParameters paging)
         {
-            _logger.LogInfo("BuyOrderController : GetAlls");
-            return Ok(_buyOrderService.GetAllBuyOrders());
+            var rs = _buyOrderService.PaginateBuyOrders(paging);
+            return Ok(new
+            {
+                currentPage = rs.CurrentPage,
+                totalPage = rs.TotalPages,
+                data = rs.data
+            });
         }
         [HttpGet("{id}")]
         public ActionResult GetProductById(int id)

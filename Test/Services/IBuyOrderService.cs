@@ -1,5 +1,6 @@
 ﻿using Test.Entities;
 using Test.Models;
+using Test.Paging;
 
 namespace Test.Services
 {
@@ -10,5 +11,6 @@ namespace Test.Services
         public bool CreateBuyOrder(BuyOrderModel buyOrderModel);
         public bool UpdateBuyOrder(BuyOrderModel buyOrderModel);
         public bool DeleteBuyOrder(int id);
+        PagedList<BuyOrder> PaginateBuyOrders(PagingParameters pagingParameters);
     }
 }
