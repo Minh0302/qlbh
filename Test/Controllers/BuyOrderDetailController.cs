@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Test.Helpers;
 using Test.Models;
 using Test.Services;
 
@@ -10,10 +11,12 @@ namespace Test.Controllers
     public class BuyOrderDetailController : ControllerBase
     {
         private readonly IBuyOrderDetailService _buyOrderDetailModel;
+        private readonly ILoggerManager _logger;
 
-        public BuyOrderDetailController(IBuyOrderDetailService buyOrderDetailModel)
+        public BuyOrderDetailController(IBuyOrderDetailService buyOrderDetailModel, ILoggerManager logger)
         {
             _buyOrderDetailModel = buyOrderDetailModel;
+            _logger = logger;
         }
         [HttpGet]
         public ActionResult GetAlls()
@@ -39,11 +42,11 @@ namespace Test.Controllers
             _buyOrderDetailModel.UpdateBuyOrderDetail(model);
             return Ok("Cập nhật thành công!");
         }
-        [HttpDelete]
-        public ActionResult Delete(BuyOrderDetailModel model)
+        [HttpDelete("{id}")]
+        public bool Delete(int id)
         {
-            _buyOrderDetailModel.DeleteBuyOrderDetail(model);
-            return Ok("Xóa thành công!");
+            _logger.LogInfo("BuyOrderDetailController : Delete");
+            return _buyOrderDetailModel.DeleteBuyOrderDetail(id);
         }
     }
 }

@@ -9,6 +9,6 @@ namespace Test.Services
         public BuyOrderDetail GetBuyOrderDetailsById(int id);
         public void CreateBuyOrderDetail(BuyOrderDetailModel buyOrderDetailModel);
         public void UpdateBuyOrderDetail(BuyOrderDetailModel buyOrderDetailModel);
-        public void DeleteBuyOrderDetail(BuyOrderDetailModel buyOrderDetailModel);
+        public bool DeleteBuyOrderDetail(int id);
     }
 }

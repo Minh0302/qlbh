@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Test.Entities;
+using Test.Helpers;
 using Test.Models;
 using Test.Repositories;
 
@@ -9,11 +10,13 @@ namespace Test.Services
     {
         private readonly IGenerictRepository<OrderDetail> _generictRepository;
         private readonly IMapper _mapper;
+        private readonly ILoggerManager _logger;
 
-        public OrderDetailService(IGenerictRepository<OrderDetail> generictRepository, IMapper mapper)
+        public OrderDetailService(IGenerictRepository<OrderDetail> generictRepository, IMapper mapper, ILoggerManager logger)
         {
             _generictRepository = generictRepository;
             _mapper = mapper;
+            _logger = logger;
         }
         public void CreateOrderDetail(OrderDetailModel orderDetailModel)
         {
@@ -21,10 +24,19 @@ namespace Test.Services
             _generictRepository.Create(newOrder);
         }
 
-        public void DeleteOrderDetail(OrderDetailModel orderDetailModel)
+        public bool DeleteOrderDetail(int id)
         {
-            var delOrder = _mapper.Map<OrderDetail>(orderDetailModel);
-            _generictRepository.Delete(delOrder);
+            try
+            {
+                _logger.LogInfo("OrderDetailModel: DeleteOrderDetail");
+                _generictRepository.DeleteById(id);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("OrderDetailModel: DeleteOrderDetail" + ex);
+                return false;
+            }
         }
 
         public IEnumerable<OrderDetail> GetAllOrderDetails()

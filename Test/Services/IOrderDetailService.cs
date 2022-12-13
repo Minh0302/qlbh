@@ -9,6 +9,6 @@ namespace Test.Services
         public OrderDetail GetOrderDetailById(int id);
         public void CreateOrderDetail(OrderDetailModel orderDetailModel);
         public void UpdateOrderDetail(OrderDetailModel orderDetailModel);
-        public void DeleteOrderDetail(OrderDetailModel orderDetailModel);
+        public bool DeleteOrderDetail(int id);
     }
 }
